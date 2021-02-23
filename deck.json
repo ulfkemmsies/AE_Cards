@@ -52,24 +52,119 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "__closet-v0.3.0.js",
+        "latex-0286cd6b78c598eb09c0edf3df0f5d0124681980.svg",
+        "latex-0615acc3725de21025457e7d6f7694dab8e2f758.png",
+        "latex-0a6239168da4f9058e7a07f889f02eb6c2c575fa.png",
+        "latex-0b072d939cb813eda1c8d6382a3d283465f17131.svg",
+        "latex-0de8ac3aa0141ebb385492cbbe6f978f6c73b655.svg",
         "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
-        "latex-2fa37309c9ca6fe2789e66ba1d05950467fd3242.png",
-        "latex-762fa3a2f1916b54c7569228afa2333902c7cb6f.png",
-        "latex-78678c38c11b01fe5958455d2106d0b74b085b16.png",
-        "latex-7e455474a2828d52ee60d4a4330e2f45e37c0ef7.png",
-        "latex-813dc6a18de6ce6534a656522139675936b5e09b.png",
-        "latex-91e1988c7f997ca83ce2b68c5d24c7e856f816ee.png",
+        "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.svg",
+        "latex-16fc735e03c9e54883176d4b754b917f86256d56.svg",
+        "latex-17f1249ad95b7682b8316ad21de8ce4ee9fdcf93.svg",
+        "latex-200044283765984830d604f7eb673e51a9d54fe1.svg",
+        "latex-213fa37604669e2d1fab7e572ac40c0a65b59236.png",
+        "latex-2c695a9e1dbaa716f757bd8c00ab8abf8f2cee3c.svg",
+        "latex-2fa37309c9ca6fe2789e66ba1d05950467fd3242.svg",
+        "latex-42b56d2c7fd8f7bad5b47670c231f262195d42ff.png",
+        "latex-4a23dea563a840fd9644134e3438106172de3944.png",
+        "latex-5b1c7c5f5944d1aeb7fc087a5c0a13872b7e8ba4.svg",
+        "latex-63e1ba89e2c815f09c12326edd72693830d0caa3.png",
+        "latex-653607d3e1ac749e92ca4cab38008ba29725a2a4.svg",
+        "latex-762fa3a2f1916b54c7569228afa2333902c7cb6f.svg",
+        "latex-77cf26be132ef93923e082ee4153b2cb0ef44a50.svg",
+        "latex-78678c38c11b01fe5958455d2106d0b74b085b16.svg",
+        "latex-7abef6a4b8d0149f590383147e60229705f221b2.svg",
+        "latex-7c8a324e8e4b24bc4656ce386b04faa657c76473.png",
+        "latex-7e455474a2828d52ee60d4a4330e2f45e37c0ef7.svg",
+        "latex-813dc6a18de6ce6534a656522139675936b5e09b.svg",
+        "latex-8341be894299910f34c715a5b6baa0a9c7547462.svg",
+        "latex-845bb334d8898c346c07e5135e36b21f536dc2ce.png",
+        "latex-8b10a7abeb986e47a1944f584440bd7f8ea52c59.svg",
+        "latex-8ba6f2a0ec4bc73d11dc35dc1da5c20250f3c762.svg",
+        "latex-8f464bed89fea5f19282752fca06c178ae079c8c.svg",
+        "latex-91e1988c7f997ca83ce2b68c5d24c7e856f816ee.svg",
+        "latex-94a09976065212d545c756d3d32b24a133a42e50.svg",
+        "latex-97e9c81d514a0b9cb9272497046efcadb585025d.svg",
+        "latex-9a71974f0f271f18ef340a63f993bd0b3c622ffb.svg",
         "latex-a09053b15e6df0186c9a3a1ef649cc6a06ad1929.png",
+        "latex-a3a59bb1293ee3f6dec19de4019a7178874219ae.svg",
+        "latex-a9bc86feeb0e282c6a4a0893ad36bedc87706f99.svg",
+        "latex-add22d9bda21e86390bc74fa4dde17730a442da7.svg",
+        "latex-b036a8bc1b72c4af7fdafce80a11582205a43a40.png",
+        "latex-bdb2f8074143f4853dd8c4c0e67f652d27d56228.png",
+        "latex-bdb2f8074143f4853dd8c4c0e67f652d27d56228.svg",
+        "latex-c07b405813787781978958e4121981c49ca4d00c.svg",
+        "latex-db839b92e454e651cff956c725b26ff10b1a7337.svg",
+        "latex-dce34f4dfb2406144304ad0d6106c5382ddd1446.svg",
+        "latex-df84d0781c83f60dbf617c4283aae419b5464d41.png",
+        "latex-e351d2bb6eb773ca8d70a5b5980fe4775c13d059.svg",
+        "latex-f3a1f89667843bb92f02c7dffbf787924ddc09a1.svg",
+        "latex-fb8da9de516b7b56d5d357257895d5c7ad98fa48.svg",
+        "paste-0e7bb9ede7560c766fde01ff23e23af6fb239074.jpg",
+        "paste-20ea82bd67d7049e2b29a006cd5c74a216ef174c.jpg",
+        "paste-2156a202b2d06295b0337f383d8baf795bf86c0c.jpg",
         "paste-3b9ceaec91e9ffd0bb79273a2ad7def29db75302.jpg",
+        "paste-68878969ec4cf5ba91d29001bb43f54b622e14c2.jpg",
+        "paste-6e6f20a3bac0c49e447fed3e06b15c3dcc9b69a4.jpg",
         "paste-9ac8d3cac3903de060eeb2ef62a1fe5d0506b1a2.jpg",
         "paste-aca8464bb86730bfb8a61105123da6d82fe9c964.jpg",
-        "paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg"
+        "paste-d12a5c6b00578afe5863c56bd934dc9c9f100b87.jpg",
+        "paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg",
+        "paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg",
+        "paste-da07c55ed2d469fb073e66baf1989327394714f2.jpg",
+        "paste-e3e3eb8eaa98a0703bc3c1746c4e4bf710df546a.jpg",
+        "paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg",
+        "paste-fab34d558a2d267a6ceaae9f3d5b15d7ea80c835.jpg"
     ],
     "mid": 1613927016391,
     "name": "Flight_Dynamics",
     "note_models": [
         {
             "__type__": "NoteModel",
+            "assetManager": {
+                "enabled": true,
+                "indentSize": 4,
+                "insertStub": false,
+                "scripts": [
+                    {
+                        "id": "1613927016391",
+                        "storage": {
+                            "code": "const elements = closet.anki.getQaChildNodes()\nconst memory = chooseMemory('closet__1')\nconst filterManager = closet.FilterManager.make(preset, memory.map)\n\nconst output = [[\n    elements,\n    memory,\n    filterManager,\n]]\n\n/* here goes the setup - change it to fit your own needs */\n\nfilterManager.install(\n    closet.recipes.shuffle({ tagname: 'mix' }),\n    closet.recipes.order({ tagname: 'ord' }),\n    closet.recipes.cloze({ tagname: 'c' }),\n    closet.recipes.multipleChoice({ tagname: 'mc' }),\n    closet.browser.recipes.rect({ tagname: 'rect' }),\n)",
+                            "conditions": [],
+                            "description": "This is the configuration of how Closet will behave.\nTo get inspiration you can visit the homepage: closetengine.com.",
+                            "enabled": true,
+                            "version": "v0.1"
+                        },
+                        "tag": "ClosetUserScript"
+                    }
+                ]
+            },
+            "assetManagerHtml": {
+                "enabled": false,
+                "fragments": [
+                    {
+                        "code": "{{Front}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the front side",
+                        "enabled": true,
+                        "label": "Front",
+                        "name": "FrontSide",
+                        "version": "v1"
+                    },
+                    {
+                        "code": "{{FrontSide}}\n\n<hr id=\"answer\">\n\n{{Back}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the back side",
+                        "enabled": true,
+                        "label": "Back",
+                        "name": "BackSide",
+                        "version": "v1"
+                    }
+                ],
+                "minify": false
+            },
+            "closetVersion": "v0.3.0",
             "crowdanki_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
@@ -92,7 +187,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
+            "latexsvg": true,
             "name": "Cloze",
             "req": [
                 [
@@ -107,7 +202,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'back'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -115,13 +210,56 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
+                    "qfmt": "{{cloze:Text}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Prevent reinclusion\" data-version=\"v0.1\">\n        var ankiAms = document.querySelectorAll('#anki-am')\n          if (ankiAms.length > 1) {\n            for (const am of Array.from(ankiAms).slice(0, -1)) {\n              am.outerHTML = ''\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'front'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>"
                 }
             ],
             "type": 1
         },
         {
             "__type__": "NoteModel",
+            "assetManager": {
+                "enabled": true,
+                "indentSize": 4,
+                "insertStub": false,
+                "scripts": [
+                    {
+                        "id": "1613927016387",
+                        "storage": {},
+                        "tag": "ClosetUserScript"
+                    },
+                    {
+                        "id": "AnkiPersistenceId",
+                        "storage": {},
+                        "tag": "AnkiPersistenceTag"
+                    }
+                ]
+            },
+            "assetManagerHtml": {
+                "enabled": false,
+                "fragments": [
+                    {
+                        "code": "{{Front}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the front side",
+                        "enabled": true,
+                        "label": "Front",
+                        "name": "FrontSide",
+                        "version": "v1"
+                    },
+                    {
+                        "code": "{{FrontSide}}\n\n<hr id=\"answer\">\n\n{{Back}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the back side",
+                        "enabled": true,
+                        "label": "Back",
+                        "name": "BackSide",
+                        "version": "v1"
+                    }
+                ],
+                "minify": false
+            },
+            "closetEnable": true,
+            "closetVersion": "v0.3.0",
             "crowdanki_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -159,7 +297,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Anki Persistence\" data-version=\"v0.5.3\">\n        if (typeof(window.Persistence) === 'undefined') {\n          var _persistenceKey = 'github.com/SimonLammer/anki-persistence/';\n          var _defaultKey = '_default';\n          window.Persistence_sessionStorage = function() { // used in android, iOS, web\n            var isAvailable = false;\n            try {\n              if (typeof(window.sessionStorage) === 'object') {\n                isAvailable = true;\n                this.clear = function() {\n                  for (var i = 0; i < sessionStorage.length; i++) {\n                    var k = sessionStorage.key(i);\n                    if (k.indexOf(_persistenceKey) == 0) {\n                      sessionStorage.removeItem(k);\n                      i--;\n                    }\n                  };\n                };\n                this.setItem = function(key, value) {\n                  if (value == undefined) {\n                    value = key;\n                    key = _defaultKey;\n                  }\n                  sessionStorage.setItem(_persistenceKey + key, JSON.stringify(value));\n                };\n                this.getItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  return JSON.parse(sessionStorage.getItem(_persistenceKey + key));\n                };\n                this.removeItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  sessionStorage.removeItem(_persistenceKey + key);\n                };\n              }\n            } catch(err) {}\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          window.Persistence_windowKey = function(persistentKey) { // used in windows, linux, mac\n            var obj = window[persistentKey];\n            var isAvailable = false;\n            if (typeof(obj) === 'object') {\n              isAvailable = true;\n              this.clear = function() {\n                obj[_persistenceKey] = {};\n              };\n              this.setItem = function(key, value) {\n                if (value == undefined) {\n                  value = key;\n                  key = _defaultKey;\n                }\n                obj[_persistenceKey][key] = value;\n              };\n              this.getItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                return obj[_persistenceKey][key] == undefined ? null : obj[_persistenceKey][key];\n              };\n              this.removeItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                delete obj[_persistenceKey][key];\n              };\n\n              if (obj[_persistenceKey] == undefined) {\n                this.clear();\n              }\n            }\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          /*\n           *   client  | sessionStorage | persistentKey | useful location |\n           * ----------|----------------|---------------|-----------------|\n           * web       |       YES      |       -       |       NO        |\n           * windows   |       NO       |       py      |       NO        |\n           * android   |       YES      |       -       |       NO        |\n           * linux 2.0 |       NO       |       qt      |       YES       |\n           * linux 2.1 |       NO       |       qt      |       YES       |\n           * mac 2.0   |       NO       |       py      |       NO        |\n           * mac 2.1   |       NO       |       qt      |       YES       |\n           * iOS       |       YES      |       -       |       NO        |\n           */\n          window.Persistence = new Persistence_sessionStorage(); // android, iOS, web\n          if (!Persistence.isAvailable()) {\n            window.Persistence = new Persistence_windowKey(\"py\"); // windows, mac (2.0)\n          }\n          if (!Persistence.isAvailable()) {\n            var titleStartIndex = window.location.toString().indexOf('title'); // if titleStartIndex > 0, window.location is useful\n            var titleContentIndex = window.location.toString().indexOf('main', titleStartIndex);\n            if (titleStartIndex > 0 && titleContentIndex > 0 && (titleContentIndex - titleStartIndex) < 10) {\n              window.Persistence = new Persistence_windowKey(\"qt\"); // linux, mac (2.1)\n            }\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'back'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -167,7 +305,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Front}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Prevent reinclusion\" data-version=\"v0.1\">\n        var ankiAms = document.querySelectorAll('#anki-am')\n          if (ankiAms.length > 1) {\n            for (const am of Array.from(ankiAms).slice(0, -1)) {\n              am.outerHTML = ''\n          }\n        }\n    </script>\n    <script data-name=\"Anki Persistence\" data-version=\"v0.5.3\">\n        if (typeof(window.Persistence) === 'undefined') {\n          var _persistenceKey = 'github.com/SimonLammer/anki-persistence/';\n          var _defaultKey = '_default';\n          window.Persistence_sessionStorage = function() { // used in android, iOS, web\n            var isAvailable = false;\n            try {\n              if (typeof(window.sessionStorage) === 'object') {\n                isAvailable = true;\n                this.clear = function() {\n                  for (var i = 0; i < sessionStorage.length; i++) {\n                    var k = sessionStorage.key(i);\n                    if (k.indexOf(_persistenceKey) == 0) {\n                      sessionStorage.removeItem(k);\n                      i--;\n                    }\n                  };\n                };\n                this.setItem = function(key, value) {\n                  if (value == undefined) {\n                    value = key;\n                    key = _defaultKey;\n                  }\n                  sessionStorage.setItem(_persistenceKey + key, JSON.stringify(value));\n                };\n                this.getItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  return JSON.parse(sessionStorage.getItem(_persistenceKey + key));\n                };\n                this.removeItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  sessionStorage.removeItem(_persistenceKey + key);\n                };\n              }\n            } catch(err) {}\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          window.Persistence_windowKey = function(persistentKey) { // used in windows, linux, mac\n            var obj = window[persistentKey];\n            var isAvailable = false;\n            if (typeof(obj) === 'object') {\n              isAvailable = true;\n              this.clear = function() {\n                obj[_persistenceKey] = {};\n              };\n              this.setItem = function(key, value) {\n                if (value == undefined) {\n                  value = key;\n                  key = _defaultKey;\n                }\n                obj[_persistenceKey][key] = value;\n              };\n              this.getItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                return obj[_persistenceKey][key] == undefined ? null : obj[_persistenceKey][key];\n              };\n              this.removeItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                delete obj[_persistenceKey][key];\n              };\n\n              if (obj[_persistenceKey] == undefined) {\n                this.clear();\n              }\n            }\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          /*\n           *   client  | sessionStorage | persistentKey | useful location |\n           * ----------|----------------|---------------|-----------------|\n           * web       |       YES      |       -       |       NO        |\n           * windows   |       NO       |       py      |       NO        |\n           * android   |       YES      |       -       |       NO        |\n           * linux 2.0 |       NO       |       qt      |       YES       |\n           * linux 2.1 |       NO       |       qt      |       YES       |\n           * mac 2.0   |       NO       |       py      |       NO        |\n           * mac 2.1   |       NO       |       qt      |       YES       |\n           * iOS       |       YES      |       -       |       NO        |\n           */\n          window.Persistence = new Persistence_sessionStorage(); // android, iOS, web\n          if (!Persistence.isAvailable()) {\n            window.Persistence = new Persistence_windowKey(\"py\"); // windows, mac (2.0)\n          }\n          if (!Persistence.isAvailable()) {\n            var titleStartIndex = window.location.toString().indexOf('title'); // if titleStartIndex > 0, window.location is useful\n            var titleContentIndex = window.location.toString().indexOf('main', titleStartIndex);\n            if (titleStartIndex > 0 && titleContentIndex > 0 && (titleContentIndex - titleStartIndex) < 10) {\n              window.Persistence = new Persistence_windowKey(\"qt\"); // linux, mac (2.1)\n            }\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'front'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>"
                 }
             ],
             "type": 0
@@ -177,7 +315,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Unstable aircraft equilibrium&nbsp;{{c1::diverges from}} the equilibrium position after a disturbance",
+                "Unstable aircraft equilibrium&nbsp;{{c1::diverges from::diverges or approaches}} the equilibrium position after a disturbance",
                 ""
             ],
             "guid": "z56YMk#%W",
@@ -252,15 +390,305 @@
             ],
             "guid": "nu{uB5M3Sm",
             "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "chap_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The air flows over the wing, at varying speed, creating {{c1::lower}} pressure on the {{c2::upper}} side and {{c1::higher}} pressure on the {{c2::lower}} side.",
+                ""
+            ],
+            "guid": "i-}ySx{2$D",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "The small-angle approximation states that&nbsp;[$]\\sin{\\alpha} \\approxeq[/$]&nbsp;{{c1::[$]\\alpha[/$]}}",
+                "The {{c2::moment coefficient [$$]C_{m}[/$$]}} of a wing is {{c1:: [$$] =\\frac{M}{\\frac{1}{2} \\rho V^{2} S \\bar{c} } [/$$] }}",
                 ""
             ],
-            "guid": "gY&(?Y&}aE",
+            "guid": "NOjhTyH-#+",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the aerodynamic forces acting on a wing, the normal force coefficient&nbsp;[$]C_N[/$] is related to the lift and drag coefficients&nbsp;[$]C_L, C_D[/$] by:<div>[$]C_{N}[/$] = [$]C_{L}[/$] {{c1::[$]\\cos \\alpha[/$]}} [$]+[/$] [$]C_{D}[/$] {{c1::[$]\\sin \\alpha[/$]}}</div>",
+                "<img src=\"paste-20ea82bd67d7049e2b29a006cd5c74a216ef174c.jpg\">"
+            ],
+            "guid": "n,kG*UqFU_",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the aerodynamic forces acting on a wing, the tangential force coefficient&nbsp;[$]C_T[/$] is related to the lift and drag coefficients&nbsp;[$]C_L, C_D[/$] by:<div>[$]C_{T}[/$] = [$]C_{D}[/$] {{c1::[$]\\cos \\alpha[/$]}} [$]-[/$] [$]C_{L}[/$] {{c1::[$]\\sin \\alpha[/$]}}</div>",
+                "<img src=\"paste-0e7bb9ede7560c766fde01ff23e23af6fb239074.jpg\">"
+            ],
+            "guid": "I|EVC1#$w:",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to the small angle approximation,&nbsp;[$]\\cos{\\alpha} \\approxeq[/$]...&nbsp;{{c1::[$]1[/$]}}",
+                ""
+            ],
+            "guid": "Jc<LVXW*{l",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Applying the small angle approximation to the aerodynamic forces (lift, drag, normal, tangential) over a wing,&nbsp;[$]C_{N}= C_{L}[/$] {{c1::[$]\\cdot 1[/$]}} [$]+ C_{D}[/$] {{c1::[$]\\cdot \\alpha[/$]}}",
+                ""
+            ],
+            "guid": "u2Bz:}SRNs",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Applying the small angle approximation to the aerodynamic forces (lift, drag, normal, tangential) over a wing,&nbsp;[$]C_{T}= C_{D}[/$] {{c1::[$]\\cdot 1[/$]}} [$] - C_{L}[/$] {{c1::[$]\\cdot \\alpha[/$]}}",
+                ""
+            ],
+            "guid": "$>Cy]T+]V",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "At small angles, does&nbsp;[$]C_N \\approxeq C_L[/$]?",
+                "Yes, because&nbsp;[$]C_{N}=C_{L}+C_{D} \\alpha[/$] and both [$]C_D[/$] and&nbsp;[$]\\alpha[/$] are small relative to&nbsp;[$]C_L[/$].<div><img src=\"paste-e3e3eb8eaa98a0703bc3c1746c4e4bf710df546a.jpg\"><br></div>"
+            ],
+            "guid": "M0=OR{D8&3",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "At small angles, does&nbsp;[$]C_T \\approxeq C_D[/$]?",
+                "No, because&nbsp;[$]C_{T}=C_{D}-C_{L} \\alpha[/$] and even though&nbsp;[$]\\alpha[/$] is small, [$]C_L[/$] is large relative to&nbsp;[$]C_D[/$].&nbsp;<img src=\"paste-d12a5c6b00578afe5863c56bd934dc9c9f100b87.jpg\">"
+            ],
+            "guid": "l2Lz?69X77",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the expression for the <b>moment coefficient</b> of a wing&nbsp;[$]C_{m}=\\frac{M}{\\frac{1}{2} \\rho V^{2} S \\bar{c} }[/$], what does does&nbsp;[$]\\bar{c}[/$] represent?",
+                "The <b>mean aerodynamic chord</b> or average chord length of the wing, also known as <b>mac</b>."
+            ],
+            "guid": "Fv/|I:JXgK",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the expression for <b>dynamic pressure</b>&nbsp;[$]q[/$]?",
+                "[$]\\frac{1}{2} \\rho V^{2}[/$]<br>"
+            ],
+            "guid": "NV8%]ki<z>",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which direction is the positive moment convention on a wing? (nose up or nose down)",
+                "Nose up is positive (clockwise by convention)<div><img src=\"paste-6e6f20a3bac0c49e447fed3e06b15c3dcc9b69a4.jpg\"><br></div>"
+            ],
+            "guid": "Kc$_q#[AtM",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::center of pressure}} on a wing is a point on the {{c2::mean aerodynamic chord}} where the {{c3::moment coefficient}} is zero.",
+                "<img src=\"paste-da07c55ed2d469fb073e66baf1989327394714f2.jpg\">"
+            ],
+            "guid": "D{{%,S6N*!",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]C_{m_{0}}[/$] is the moment coefficient around the {{c2::<b>leading edge of the</b> <b>mac</b>&nbsp;(or&nbsp;<b>lemac</b>)::point}}&nbsp;when&nbsp;{{c1::[$]C_N = 0[/$]::condition}}<br>",
+                ""
+            ],
+            "guid": "N&AX_[v`qr",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The moment coefficient varies {{c1::linearly::somehow}} with the {{c2::angle of attack}} for&nbsp;{{c3::[$]\\alpha &lt; 10 \\deg[/$]}}",
+                "<img src=\"paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg\">"
+            ],
+            "guid": "F[uRuQT[Mi",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The x-distance {{c1::[$]x_d - x_0[/$]}}&nbsp;along the <b>mac&nbsp;</b>&nbsp;between the {{c1::<b>lemac&nbsp;</b>[$]x_0[/$]}}<b>&nbsp;</b>and the {{c1::center of pressure&nbsp;[$]x_d[/$]}} is also represented with {{c2::[$]e[/$]::symbol}}.",
+                ""
+            ],
+            "guid": "qhl@h&Rc`N",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The location along the {{c4::<b>mac </b>(the x-axis of a wing)}}&nbsp;of the {{c4::<b>center of pressure</b>}} is given by:<div><br></div><div>{{c1::[$]\\frac{e}{\\bar{c} } =[/$] }}&nbsp; {{c2::[$] = -\\frac{C_{m_{0} } }{C_{N} }[/$] }} {{c3::[$]-\\frac{d C_{m_{\\left(x_{0}, z_{0}\\right) } } }{d C_{N} }[/$] }}</div>",
+                "<img src=\"paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg\">"
+            ],
+            "guid": "bLah&g}#aw",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "At {{c1::positive}} angles of attack,&nbsp;[$]C_T[/$] becomes {{c2::negative}} because the {{c3::low pressure zone slightly above the leading edge sucks the wing forward instead of dragging it backward}}.",
+                "<img src=\"paste-2156a202b2d06295b0337f383d8baf795bf86c0c.jpg\">"
+            ],
+            "guid": "onk3}o~Sf2",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Increasing::changing somehow}} the angle of attack&nbsp;[$]\\alpha[/$] {{c2::increases::changing somehow}} the normal force coefficient&nbsp;[$]C_N[/$].",
+                "<img src=\"paste-68878969ec4cf5ba91d29001bb43f54b622e14c2.jpg\">"
+            ],
+            "guid": "F3!k67xvw^",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "As the angle of attack&nbsp;[$]\\alpha[/$] increases, the magnitude of the resultant force coefficient[$]\\mathbf{C}_R[/$] {{c1::increases::changes somehow}} and its line of action moves {{c2::closer to::closer or farther}} the {{c3::center of pressure}}.",
+                "<img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\">"
+            ],
+            "guid": "iS4unMJNw8",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "As the angle of attack&nbsp;[$]\\alpha[/$] decreases, the magnitude of the resultant force coefficient[$]\\mathbf{C}_R[/$] {{c1::decreases::changes somehow}} and its line of action moves {{c2::farther from::closer or farther}} the {{c3::center of pressure}}.",
+                "<img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\">"
+            ],
+            "guid": "mi@7Sbw7(1",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": [
+                "FD_1.3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why does the location of the center of pressure vary with the angle of attack&nbsp;[$]\\alpha[/$]?",
+                "Because the line of action of the resultant force coefficient&nbsp;[$]\\mathbf{C}_R[/$] moves along the <b>mac</b>.<div><img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\"><br></div>"
+            ],
+            "guid": "q{1xiGYo=s",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::aerodynamic center (<b>ac</b>)}}&nbsp;is the moment reference point about which the moment {{c2::does not::does/doesn't}} vary with angle of attack.",
+                ""
+            ],
+            "guid": "oxzt{:He3e",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Does the location of the aerodynamic center (<b>ac</b>) vary with the angle of attack?",
+                "<b>No</b>, it is a fixed, single reference point."
+            ],
+            "guid": "i:hv>.=xqW",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::angle of attack&nbsp;[$]\\alpha[/$]}} is the angle between the {{c2::freestream airflow}} and the {{c2::body axis/chordline}}.",
+                "<img src=\"paste-fab34d558a2d267a6ceaae9f3d5b15d7ea80c835.jpg\">"
+            ],
+            "guid": "Ppu@K?N~d!",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to the small angle approximation,&nbsp;[$]\\sin{\\alpha} \\approxeq[/$]&nbsp;{{c1::[$]\\alpha[/$]}}",
+                ""
+            ],
+            "guid": "G<qpvR*c<4",
             "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
             "tags": []
         }
