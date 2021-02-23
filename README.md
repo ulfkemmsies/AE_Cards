@@ -1,2 +1,2 @@
-# AE_Cards
-Flashcards repository for 3rd-year TU Delft Aerospace classes
+# Flight Dynamics
+Flashcards repository for 3rd-year BSC TU Delft Aerospace classes
