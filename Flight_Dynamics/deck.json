@@ -1,0 +1,397 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "63c32a42-7472-11eb-8bd5-08d23e719c6e",
+    "deck_config_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
+        "latex-2fa37309c9ca6fe2789e66ba1d05950467fd3242.png",
+        "latex-762fa3a2f1916b54c7569228afa2333902c7cb6f.png",
+        "latex-78678c38c11b01fe5958455d2106d0b74b085b16.png",
+        "latex-7e455474a2828d52ee60d4a4330e2f45e37c0ef7.png",
+        "latex-813dc6a18de6ce6534a656522139675936b5e09b.png",
+        "latex-8a80b25eb1e091d52466b6fe89a9ce899ce966a9.png",
+        "latex-91e1988c7f997ca83ce2b68c5d24c7e856f816ee.png",
+        "latex-a09053b15e6df0186c9a3a1ef649cc6a06ad1929.png",
+        "latex-be7e5f5ff487817cdade0739e212f614030d4558.png",
+        "latex-c2c239543fb63453761b32b6e0ebfa77e6038f88.png",
+        "latex-cf87f6e686227b4473bac5b3dcb0ddae17341b2c.png",
+        "latex-db13517311e1b6b8a3dcd538a6b43bce4458a744.png",
+        "latex-f36fd7b87f33035d08b838bdcc766479cbd3122b.png",
+        "latex-f4271fc82f748a655520fa06fbc13c5e0345c062.png",
+        "paste-3b9ceaec91e9ffd0bb79273a2ad7def29db75302.jpg",
+        "paste-9ac8d3cac3903de060eeb2ef62a1fe5d0506b1a2.jpg",
+        "paste-aca8464bb86730bfb8a61105123da6d82fe9c964.jpg",
+        "paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg"
+    ],
+    "mid": 1613935634226,
+    "name": "Flight_Dynamics",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-44221",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-2b2d2",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unstable aircraft equilibrium&nbsp;{{c1::diverges from}} the equilibrium position after a disturbance",
+                ""
+            ],
+            "guid": "z56YMk#%W",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If aircraft equilibrium is {{c1::neutrally stable}}, then after a disturbance, the disturbance stays present, but does not increase.",
+                ""
+            ],
+            "guid": "Nu!%v$tc:<",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If an equilibrium is {{c1::stable}}, then after a disturbance, it returns back to original equilibrium.",
+                ""
+            ],
+            "guid": "Pq-urYgN;)",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lift and drag are created by the {{c1::pressure distribution}} over the wing.",
+                "<img src=\"paste-aca8464bb86730bfb8a61105123da6d82fe9c964.jpg\">"
+            ],
+            "guid": "z(0>Sj5hgc",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg\"><div>[latex]$\\mathbf{C}_{R}$[/latex]&nbsp;is the dimensionless {{c1::resultant (total)}} aerodynamic force vector</div>",
+                ""
+            ],
+            "guid": "nT@h}y$E]0",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-3b9ceaec91e9ffd0bb79273a2ad7def29db75302.jpg\"><br></div><div><br></div>[$]C_{N}[/$] and [$]C_{T}[/$] are the components of [$]\\mathbf{C}_{R}[/$] normal respectively tangential to the {{c1::body axis (the chordline)}}.",
+                ""
+            ],
+            "guid": "dKVg<nlkn9",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]C_{L}[/$] and [$]C_{D}[/$] are the components of [$]\\mathbf{C}_{R}[/$] normal respectively tangential to the {{c1::freestream airflow}}.&nbsp;",
+                "<img src=\"paste-9ac8d3cac3903de060eeb2ef62a1fe5d0506b1a2.jpg\">"
+            ],
+            "guid": "Mn[UEJ12^s",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All aerodynamic force vectors are made dimensionless (normalized) by dividing by:",
+                "[$]\\frac{1}{2} \\rho V^{2} S[/$]<br>"
+            ],
+            "guid": "nu{uB5M3Sm",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The small-angle approximation states that&nbsp;[$]\\sin{\\alpha} \\approxeq[/$]&nbsp;{{c1::[$]\\alpha[/$]}}",
+                ""
+            ],
+            "guid": "gY&(?Y&}aE",
+            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many eigenmotions does a conventional aircraft have and what are they called?",
+                "<div>Symmetric motion:</div>- Short period motion<div>- Phugoid</div><div>Asymmetric motion:</div><div>- Dutch roll</div><div>- Aperiodic roll</div><div>- Spiral motion</div>"
+            ],
+            "guid": "k_e{Jg8yN`",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions for obtaining the eigenvalues of the short-term eigenmotion are:<div><br></div><div>1. V = {{c4::constant}}</div><div>2. Motion affects {{c2::alpha}} purely</div><div>3. {{c3::Level}} flight</div><div>4. The kinetic relationship [$]-D_c*\\theta + q*\\frac{\\bar{c}}{V}[/$] is {{c1::ommited}}</div><div><br></div>",
+                ""
+            ],
+            "guid": "L0PFZ)RC8K",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions for obtaining the eigenvalues of the phugoid eigenmotion are:<div>1. {{c1::Long}} period</div><div>2. {{c2::Level}} flight</div>",
+                ""
+            ],
+            "guid": "e1#Whd|/%R",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions for obtaining the eigenvalues for the Dutch roll eigenmotion are:<div>1. {{c2::Lateral}} force equilibrium is ignored</div><div>2. {{c1::Yawing}} moment is ignored</div><div>3. The {{c3::kinematic relation [$]-\\frac{1}{2}*D_b*\\phi+\\frac{pb}{2V}[/$]}}&nbsp;is ignored</div>",
+                ""
+            ],
+            "guid": "s;^]}O8Wu-",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions for obtaining the eigenvalues of the a-periodic roll eigenmotion are:<div>1. Rolling moment ignored</div><div>2. Kinematic relation&nbsp;{{c1::[$]-\\frac{1}{2}D_b \\phi+\\frac{pb}{2V}[/$]}} ignored</div>",
+                ""
+            ],
+            "guid": "mAZd0*}y!Z",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions for obtaining the eigenvalues for the Dutch roll eigenmotion are the following:<div>1. {{c6::Rolling}} component discarded</div><div>2. Kinematic relation&nbsp;{{c5::[$]-\\frac{1}{2}D_b\\phi + \\frac{pb}{2V} = 0[/$]}} ignored</div><div>3. The following derivatives are neglected: {{c4::[$]C_{Y\\dot\\beta}[/$]}},&nbsp;{{c3::[$]C_{n\\dot\\beta}[/$]}},&nbsp;{{c2::[$]C_{Y_r}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "py6!9>?H^?",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The assumptions to obtain the eigenvalues for the spiral motion eigenmotion is the following:<div>1. {{c2::Very slow}} motion, so all the {{c1::linear and angular accelerations}} are neglected</div>",
+                ""
+            ],
+            "guid": "E;qK&J[0`;",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        }
+    ]
+}
