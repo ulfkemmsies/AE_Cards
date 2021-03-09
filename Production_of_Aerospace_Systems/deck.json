@@ -1,0 +1,1533 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "777cffe5-7f68-11eb-affd-08d23e719c6e",
+    "deck_config_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "latex-01ed3e03977467f0fc85c011e537770c7fc44848.png",
+        "latex-087075a82fe09597f6576406e2c76295c6f21c08.png",
+        "latex-10157add3cb8e8c0fed7570769f7e4a6aa539777.png",
+        "latex-12888eb084c9f2e91580f4d962c7243e2ce11bb0.png",
+        "latex-21cee5c5a582e8b1f8db4187e129ca3bf3048803.png",
+        "latex-3372c1cb6d68cf97c2d231acc0b47b95a9ed04cc.png",
+        "latex-6c7667c0865f377657bdce41cd999b82b86acf08.png",
+        "latex-74c5e69dc42c5a6a60306cca1e09f85abf9248b0.png",
+        "latex-859ccf4cd60c7bc6b8fa1afc9a42dc811a826d6f.png",
+        "latex-978b685305dad68837eb20de6f1d500a84f04d1e.png",
+        "latex-9866e3a998d628ba0941eb4fea0666ac391d149a.png",
+        "latex-c1689cae653ef46cd8ddf36cf68ef14badfaaf04.png",
+        "latex-dfb064112b6c94470339f6571f69d07afc1c024c.png",
+        "latex-e73393067e6d6e401a5354accc7a730c7a2977aa.png",
+        "latex-f37bba504894945c07a32f5496d74299a37aa51c.png",
+        "paste-0194c19b4338a9127e41e9ec9a0b08e32ac0acd2.jpg",
+        "paste-027bb23f38239fdb816be6e9d73be13cdb92de45.jpg",
+        "paste-0fa9a94008b20f540493be2e7b9318e87874c341.jpg",
+        "paste-1c8e0c4c51ed8836b928c62fd4e1a960534eb97a.jpg",
+        "paste-21cca72417b3d2005901682cef493b48df236e63.jpg",
+        "paste-236b24deb496643fecb34b22a40606adba46f4b3.jpg",
+        "paste-277e9ac442ba6edef42a89f44584f584d1c47c70.jpg",
+        "paste-293cc6bf58ebe793af3bc0162948c80f7aedefdb.jpg",
+        "paste-3506baedf1f06bd27445457568d70da3ae3c9732.jpg",
+        "paste-3a936eb8952ccb37959457af5d241e8f485621d7.jpg",
+        "paste-43c7e3ba62aab2f39eb7e36aa75f8645faf71434.jpg",
+        "paste-44c60a03657e2b9ea7ff28f6184ee855ebac4464.jpg",
+        "paste-4b50cc56b456e9ef183b50bea821d184943ef13e.jpg",
+        "paste-4bbad79b4d3ea8b39aea0f1f4e5fcb248444c444.jpg",
+        "paste-4f4537cd3fdcc2b9587b0093921512d772d607c9.jpg",
+        "paste-528001f47276d756f5561c858d963efc5d544d56.jpg",
+        "paste-541ef06b57e3e727f37ee3ad98965de0f6e5cd41.jpg",
+        "paste-6d8c579a69ffd25fd8686fc76dcde2a8aad08cd9.jpg",
+        "paste-7a6acf8a43c60d1c7faf81ef419629f6790dfc2c.jpg",
+        "paste-90c8bf09089a8bfa342d1f13f36ca353ba0f654f.jpg",
+        "paste-952991ed8d4089fc1716e6889cd78ceddaaca5ea.jpg",
+        "paste-96317fc33321b458ed0a8f2689c188ac6f0dd202.jpg",
+        "paste-9e6d85b12319199c9e3c55b1126895ea61b68272.jpg",
+        "paste-9fd86a006cd91e259cc503bd0dcd1c846c715814.jpg",
+        "paste-b6303481321ccdedcfcd0574616e9504dbeb1c0e.jpg",
+        "paste-bf33af4056a0a374dbc66b81ea05558f678be753.jpg",
+        "paste-d06e16f4d333de4bbe247d01999eb972ce86892c.jpg",
+        "paste-d819bbb3a3e82283957afddddc9797abfe03c72e.jpg",
+        "paste-d8a81e72d6aaa214df827fbd6f31b9db2a31d016.jpg",
+        "paste-e6b44cd88978e29df447421a313192c255b98fd3.jpg",
+        "paste-e799a8690f264137c1bf9275fbfd41a8b65a47ba.jpg",
+        "paste-f38493ad3730801fa6e4614f45f78228f9050037.jpg",
+        "paste-f38e15b55bdd74e5e962030a1b82ac2478905b08.jpg",
+        "paste-f7a7137a9be281ec444d35e657598bc1596d0cfb.jpg",
+        "paste-fd6e6cb4925ebe5069d22c056939138d51b35938.jpg"
+    ],
+    "name": "Production of Aerospace Systems",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d7f60022-75be-11eb-9e07-08d23e719c6e",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "The first aircraft were made out of {{c1::wood}} with {{c2::linen}} or {{c2::canvas}}, and {{c3::steel wires}} and {{c3::tubes}}.&nbsp;",
+                ""
+            ],
+            "guid": "hok$#HH-|k",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the early days aiplanes were usually {{c2::biplanes}}, with the wings forming a {{c1::box}} structure.&nbsp;<div><br></div><div><br></div>",
+                ""
+            ],
+            "guid": "JOT=4a9.q4",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Do lightweight materials necessarily lead to lightweight structures?",
+                "No, because low strength of the material might lead to very thick structures in order to carry a significant load."
+            ],
+            "guid": "wHq2Xr>OJg",
+            "note_model_uuid": "d7f60022-75be-11eb-9e07-08d23e719c6e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trinity concept: {{c1::design::d...}}, {{c2::material::m...}}, {{c3::manufacturing::m...}}",
+                ""
+            ],
+            "guid": "O(v0La~{`e",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cutting is the {{c1::removal}} and {{c2::separation}} of material from a workpiece.",
+                ""
+            ],
+            "guid": "b3ivmG:(_X",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In separating without chips, the workpiece is on a {{c1::die}}, a {{c2::punch}} then shears through the sheet.",
+                "<img src=\"paste-293cc6bf58ebe793af3bc0162948c80f7aedefdb.jpg\">"
+            ],
+            "guid": "C#nB&,%GX[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In separating without chips, if the part that was sheared, also called the {{c1::slug}}, is what is discarded, the process is called {{c2::punching}}.",
+                "<img src=\"paste-293cc6bf58ebe793af3bc0162948c80f7aedefdb.jpg\"><img src=\"paste-528001f47276d756f5561c858d963efc5d544d56.jpg\">"
+            ],
+            "guid": "4v.oIMX)^",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In separating without chips, if the part that was sheared, also called the {{c1::slug}}, is not what is discarded, the process is called {{c2::blanking}}.",
+                "<img src=\"paste-293cc6bf58ebe793af3bc0162948c80f7aedefdb.jpg\"><img src=\"paste-528001f47276d756f5561c858d963efc5d544d56.jpg\">"
+            ],
+            "guid": "n<^gl4O8*6",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-b6303481321ccdedcfcd0574616e9504dbeb1c0e.jpg\"><div>In the {{c1::clearance}} [$]c[/$], the cutting edges won't be perfectly flat, but a bit inclined.</div><div><br></div><div>These non-flat metal surfaces are called {{c2::burrs}}, and their height increases with {{c1::clearance}}, {{c3::ductility}} of the sheet metal, and {{c4::dullness}} of tool edges.</div>",
+                "<img src=\"paste-1c8e0c4c51ed8836b928c62fd4e1a960534eb97a.jpg\">"
+            ],
+            "guid": "M.(wft8nN{",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The major processing parameters in {{c1::shearing}} are the shape of the {{c2::punch}} and {{c2::die}}, the {{c2::punch}} and {{c2::die}} materials, the {{c3::lubrication::l...}} and the {{c4::clearance}} between the {{c2::punch}} and the {{c2::die}}.",
+                ""
+            ],
+            "guid": "MZpuJEMT&X",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The amount of scrap material is shearing operations is very large; therefore, {{c1::nesting}} of blanks, or {{c2::proper arrangement of blanks on the sheet}}, is important, for which computer programs are often used.<div><br></div><div>In {{c1::nesting}}, the {{c3::distances between the cutting lines}} (also called {{c4::ligaments}}) has a minimum.</div>",
+                "<img src=\"paste-1c8e0c4c51ed8836b928c62fd4e1a960534eb97a.jpg\">"
+            ],
+            "guid": "Hlahd,SK.:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In shearing, a clearance between {{c1::2%::%}} and {{c1::8%::%}} is commonly used.",
+                ""
+            ],
+            "guid": "KdH06V(56W",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In shearing:<div>The smaller the {{c1::clearance}}, the better the quality of the sheared edge, but you can't make it too small, else the surface will be bad too.</div><div><br></div><div>Additionally, the {{c2::thicker}} the sheet, the {{c3::larger}} the clearance should be.</div>",
+                "<img src=\"paste-3a936eb8952ccb37959457af5d241e8f485621d7.jpg\">"
+            ],
+            "guid": "xc2z!|air>",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The location of the regions being sheared at any moment can be controlled by {{c1::bevelling::b...}} the {{c2::punch}} or {{c2::blade}} surfaces.",
+                "<img src=\"paste-277e9ac442ba6edef42a89f44584f584d1c47c70.jpg\">"
+            ],
+            "guid": "KYuy{,)Y%m",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Making bevels in punches or blades symmetric helps in preventing unwanted {{c1::lateral}} forces.",
+                "<img src=\"paste-277e9ac442ba6edef42a89f44584f584d1c47c70.jpg\">"
+            ],
+            "guid": "uGiaf}_&m:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "During the shearing process, {{c1::bevelling}} {{c2::reduces::changes}} the forces at the beginning of the stroke.",
+                "<img src=\"paste-277e9ac442ba6edef42a89f44584f584d1c47c70.jpg\">"
+            ],
+            "guid": "k-w*@-_X~^",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the context of shearing:<div>When the {{c3::ductility}} of the material {{c2::increases}}, the ratio between the {{c1::smooth}} surface and {{c1::rough}} surface {{c2::increases}}</div>",
+                "<img src=\"paste-4b50cc56b456e9ef183b50bea821d184943ef13e.jpg\">"
+            ],
+            "guid": "HPO#t$IVBU",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the process of nesting blanks for shearing, the following factors play a role:<div><br></div><div>The {{c2::ligaments}} should not {{c1::fail}} when the die exerts pressure on it.</div><div>The remaining material should not be {{c3::drawn}} in the hole of the die.</div><div>The remaining material should not give rise to {{c4::extra or excessive}} burrs.</div><div>The operator shouldn't get {{c5::injured}}.<br></div>",
+                ""
+            ],
+            "guid": "J.xWNrdnq+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the context of shearing:<div>When the {{c3::thickness::t...}} or the {{c4::clearance::c...}} of the material {{c2::increases}}, the ratio between the {{c1::smooth}} surface and {{c1::rough}} surface of the slug {{c2::decreases}}</div>",
+                "<img src=\"paste-4b50cc56b456e9ef183b50bea821d184943ef13e.jpg\">"
+            ],
+            "guid": "=};s:3Y9g",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "During the cutting of {{c3::brittle}} material {{c1::tiny cracks}} may occurs; these may be the starter {{c1::cracks}} for {{c2::fatigue loading::loading type}}.",
+                ""
+            ],
+            "guid": "xfQoY&B[AT",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c3::Composite}} materials tend to {{c1::delaminate}} when {{c2::punching}} or {{c2::blanking}}, making those processes unsuitable for them.",
+                ""
+            ],
+            "guid": "nS<Y$ETlT#",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the process of shearing, {{c2::bevelling}} refers to punches being {{c1::at small angles}} relative to the sheet.",
+                ""
+            ],
+            "guid": "dc?snqd}`Z",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Separating with chips::separation method}} involves processes which remove a narrow zone (called {{c1::kerf)}} in the workpiece, and by doing so, split the workpiece in two or more parts.",
+                ""
+            ],
+            "guid": "QywTjP@&dd",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Separating without chips can remove the kerf through {{c1::mechanical}} or {{c2::thermal}} removal.",
+                ""
+            ],
+            "guid": "Ff#}2vlmzv",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In laser beam cutting:<div><br></div><div>{{c1::Reflectivity::property}} of the material: the {{c2::lower}}, the better. {{c3::Dull::D...}} and {{c4::unpolished::un...}} surfaces are preferable for this reason.</div><div>{{c5::Thermal conductivity::thermal property}} of the material should be {{c6::low}}, to make sure that only the region you're lasering is heating up and not the surrounding region.</div>",
+                "<img src=\"paste-541ef06b57e3e727f37ee3ad98965de0f6e5cd41.jpg\">"
+            ],
+            "guid": "v33*8yhikK",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Laser-beam cutting is widely used for drilling and cutting of metal alloys, non-metallic materials, ceramics and sometimes composite materials.<div><br></div><div>{{c4::0.025}} mm is a practical minimum for hole sizes possible with this method.</div>",
+                "<img src=\"paste-541ef06b57e3e727f37ee3ad98965de0f6e5cd41.jpg\">"
+            ],
+            "guid": "mo5Nld3Uf+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Most laser cutting processes cut flat metal sheets because the distance between the laser and the material needs to be small ({{c3::0.5 mm}}) and control in 3D for curved sheets is difficult.",
+                ""
+            ],
+            "guid": "K~*c#w3%4r",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In laser beam cutting:<div><br><div>Designs with {{c1::sharp corners}} should be avoided as they are difficult to produce.</div></div>",
+                ""
+            ],
+            "guid": "Q-2x],cGKR",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In laser beam cutting:<div>{{c2::Tapering}} may occur due to the pyramid-shape of the laser: the top of the cut is a bit wider than the middle of the cut.</div>",
+                "<img src=\"paste-4bbad79b4d3ea8b39aea0f1f4e5fcb248444c444.jpg\">"
+            ],
+            "guid": "e4AV7$ML7c",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two variants of laser beam cutting are:",
+                "<div>Electrical-discharge machining and water-jet cutting</div><div><img src=\"paste-0194c19b4338a9127e41e9ec9a0b08e32ac0acd2.jpg\"><img src=\"paste-d819bbb3a3e82283957afddddc9797abfe03c72e.jpg\"><br></div>"
+            ],
+            "guid": "J7f>?Q$`0n",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Electrical-discharge}} machining is based on the erosion of metals by {{c1::spark discharges}}.",
+                "<img src=\"paste-0194c19b4338a9127e41e9ec9a0b08e32ac0acd2.jpg\">"
+            ],
+            "guid": "HXsTAT5W)[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c2::electrical-discharge machining}}, the material properties of processed metals like {{c1::hardness::h...}}, {{c1::strength::s...}} and {{c1::toughness::t...}} do not affect the removal rate because {{c3::mechanical}} energy is not involved in the process.",
+                "<img src=\"paste-0194c19b4338a9127e41e9ec9a0b08e32ac0acd2.jpg\">"
+            ],
+            "guid": "L,T-I]gK_0",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regular {{c1::water-jet cutting}} can only cut soft materials such as {{c1::foam, soft rubber, etc.}}",
+                "<img src=\"paste-d819bbb3a3e82283957afddddc9797abfe03c72e.jpg\">"
+            ],
+            "guid": "B4BrK/SC>K",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In water-jet cutting, the speed at which the water hits the material is usually around {{c1::2-3}} Mach.<div><img src=\"paste-d819bbb3a3e82283957afddddc9797abfe03c72e.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "t~Ofb8J$uy",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c3::abrasive}} water-jet cutting, a {{c1::orifice::o...}} or {{c2::jewel::j...}} is added to the end of the jet. This means {{c4::super-hard}} particles are taken along by the water, allowing it to cut hard materials.",
+                "<img src=\"paste-4f4537cd3fdcc2b9587b0093921512d772d607c9.jpg\">"
+            ],
+            "guid": "Mu;^MmL6t#",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Most materials can be cut by an abrasive jet cutter, such as hard rubber, aluminium, titanium, composites, ceramics, etc.<div>However, layered composites have a large difference in strength in the in-plane direction compared to the out of-plane direction.<div><br></div><div>This difference may cause a {{c1::delamination}} problem during abrasive jet cutting, in particular when the cut is started somewhere {{c2::inside}} the plane, and not from an {{c3::edge}}.<br></div></div>",
+                ""
+            ],
+            "guid": "P4^[B5lMYy",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A typical abrasive water jet cutting characteristic is the occurrence of {{c1::jet-lag}}.<div><br><div>As the beam of water {{c5::does not::does/doesn't}} possess any bending stiffness itself, the beam is bent whenever the jet travels over the workpiece.</div></div>",
+                "<img src=\"paste-027bb23f38239fdb816be6e9d73be13cdb92de45.jpg\">"
+            ],
+            "guid": "h@CFx!wT]c",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In abrasive water cutting:</div><div><img src=\"paste-027bb23f38239fdb816be6e9d73be13cdb92de45.jpg\"><br></div><div>When cutting a corner, the pictured effect will lead to {{c2::taper}}; when this is not acceptable, the {{c4::feed rate}} (i.e. the {{c4::velocity of the water beam}}) should be {{c3::decreased}}.</div><div><br></div><div>Furthermore, when exiting a corner and increasing the feed rate, a {{c6::kickback}} can occur, meaning that the beam is bent differently due to the increased water velocity and damage could occur to the workpiece.</div>",
+                "<img src=\"paste-fd6e6cb4925ebe5069d22c056939138d51b35938.jpg\">"
+            ],
+            "guid": "AY[Nzcb*+D",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Machining}} is the general name for all processes that remove {{c1::small chips}} from a material, often a metal alloy.",
+                ""
+            ],
+            "guid": "zLp3Jq4/y]",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c2::machining}}, the tool that removes the chip from the workpiece is called a {{c1::chisel}}.",
+                ""
+            ],
+            "guid": "t64Z{+)]2<",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In machining:</div><div><br></div>The {{c1::area}} of the cutting tool on which the chip pushes is called the {{c2::rake face}}.<div><br><div>The {{c3::rake angle}} is the angle between the line {{c4::perpendicular}} to the surface of the workpiece and the {{c2::rake face}}.</div><div><br></div><div>The {{c6::larger}} the rake angle (a {{c5::sharper::comparatively different}} chisel), the {{c7::lower}} the force to cut and thus the {{c7::lower}} the deformation.</div><div><br></div><div>However, {{c8::larger}} {{c3::rake angles}} result in {{c8::smaller}} tool angles, thus {{c8::lowering}} the strength of the chisel.</div><div><br></div><div>Typical angles are therefore between [$]-10^{\\circ}[/$] and [$]30^{\\circ}[/$].</div></div>",
+                "<img src=\"paste-6d8c579a69ffd25fd8686fc76dcde2a8aad08cd9.jpg\">"
+            ],
+            "guid": "kx3+L0&FdK",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In machining:<div><br></div><div>A small layer of material is removed by {{c1::shearing}}; the deformation of the chip generates a significant amount of heat.</div><div><br></div><div>Temperatures rise and measures should be taken to minimise this effect; furthermore, the chips rubs on the {{c2::rake face}}, increasing the temperature and {{c4::lowering}} the material properties of the {{c5::chisel}} and thus increasing the {{c3::wear}} rate.</div><div><br></div><div>{{c6::Coolant (reduces temperature)}} and {{c7::lubrication (reduces friction)}} fluids are often used, and the cutting speed is limited, so tool {{c3::wear}} becomes acceptable. A third function of the fluids is the {{c8::removal}} of the chips.<br></div>",
+                "<img src=\"paste-6d8c579a69ffd25fd8686fc76dcde2a8aad08cd9.jpg\">"
+            ],
+            "guid": "y:ESJ0QL*}",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There are several reasons dividing the aircraft in structural divisions that you assemble later on. The most important reasons are:<div><br></div><div>{{c1::<b>P</b><b>roduction efficiency:</b></div><div>by splitting the work up in portions, it is easier to work on multiple parts on the same time, thereby improving efficiency obviously.::Pro...}}<br></div><div><br></div><div><br><div>{{c2::<b>Political reasons</b>:</div><div>consortiums like Airbus have multiple members; each of those gets work according to previously established covenants.::Po...}}<br></div><div></div><br></div><div>{{c3::<b>Economical reasons</b>:</div><div>expensive parts are added as late as possible to the main assembly (e.g. the engines). When the fuselage would be built in one station, these expensive/complex parts (e.g. the tail) would have to be stored for a very long time; obviously this is inefficient.::Ec...}}<br></div><div><br></div><div>{{c4::<b>Accessibility and ease of production</b>:</div><div>the accessibility of the aircraft is increased when using multiple parts as the parts are smaller and thus it's easier to work on them.::Acc...}}<br></div><div><br>{{c5::<b>Size of the product</b>:</div><div>many manufacturing processes have limits on the size of the product they can handle. By splitting the product into multiple parts, this is avoided. Operation and maintenance: having multiple parts means that you are able to replace single parts, rather than having to replace the full aircraft once there's a dent in something.::Si...}}<br></div><div><br>{{c6::<b>Structural reasons</b>:</div><div>different sections of the aircraft may require different materials to be used. If you just one single part for the whole aircraft, it'll obviously be very difficult to combine e.g. composites and metals; it's much easier to make the composite part separate from the metal, and then just join them together.::Str...}}<br><div><br></div></div>",
+                ""
+            ],
+            "guid": "AN!R*z^$|e",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Mounting}} divisions are divisions where we need to be able to {{c2::replace assembled parts}}.",
+                ""
+            ],
+            "guid": "E;?Tz;bU_O",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Manufacturing}} divisions or {{c1::production}} divisions are divisions where we make {{c2::permanent}} connections.",
+                ""
+            ],
+            "guid": "Rer/pd:j`s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Requirements to be met by the <b>mounting divisions</b> are:<br></div><div><br></div>The mounting divisions shall be {{c1::detachable}} and {{c2::exchangeable}}.<div><br></div><div>Assembly and disassembly shall be {{c3::simple}}.<br></div><div><br></div><div>With respect to transport and handling, the parts or subassemblies should be {{c4::rigid}} and not {{c5::easily damaged}}.<br></div>",
+                ""
+            ],
+            "guid": "uBMyl7F#+%",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Manufacturing</b> or <b>production divisions</b> will be permanent joints. There are several requirements to be met:<div><br></div><div>The divisions should divide in {{c1::equally sized::sizing}} work packages.<br></div><div><br></div><div>The divisions should allow for maximum {{c2::accessibility}} of the work.</div><div><br></div><div>Easy {{c3::transport}} of parts within the factory is required.</div><div><br></div><div>The sections should account for {{c4::sizes}} of machinery, autoclaves, etc.</div><div><br></div><div>The joints that need not be detached should be as {{c5::light}} as possible.</div><div><br></div><div>Divisions should be made at {{c6::natural}} positions in the structure,</div><div>{{c6::e.g. main frames of the fuselage, the kink in the wing, etc.}}</div><div><br></div><div>The divisions should provide {{c7::simple}} and {{c8::cheap}} joints.</div><div><br></div><div>Divisions should account for the {{c9::structural shape:</div><div>divisions between single and double curved parts, no divisions across the doorway (leads to extreme difficulties when fitting everything together), limit the number of divisions in situations that need sealing afterwards (pressure cabin, fuel tank, etc.).::shape}}<br></div>",
+                ""
+            ],
+            "guid": "Krt>PkhJy&",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c5::Assembly jigs}} serve two primary purposes:<div><br></div><div><b>Provide</b> {{c1::<b>support</b>}}:</div><div>the {{c5::jig}} must obviously able to hold the subpart, and not {{c2::deform}} or {{c3::vibrate}} intensely.</div><div><br></div><div>{{c4::<b>Positioning</b>:}}</div><div>the {{c5::jigs}} are used for many aircraft, and thus the dimensions of the {{c5::jig}} and {{c4::positioning}} of the subparts should be well defined, also over a long time.</div>",
+                ""
+            ],
+            "guid": "Gd[YbT0u}9",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>The following requirements for assembly jigs exist:</b><div><br></div><div><br></div><div>The jig should be {{c1::stiff}} and have the right {{c2::dimensional stability::type of stability}}.</div><div>{{c1::Stiff}} jigs are necessary as otherwise the assembly becomes inaccurate. For jigs that are not movable (large jigs), this requires the proper foundation of the floor.</div><div><br></div><div>{{c3::Accessibility:</div><div>the jig should be such that a workman can easily access all positions; this may be advanced by using a rotating jig.::Acc...}}</div><div><br></div><div>The jig should be {{c4::cheap}}. Usually they are {{c4::expensive}}.</div><div><br></div><div>The jig should not {{c5::hinder::affect}} the {{c5::removal::process}} of the finished part from the jig.</div><div><br></div><div>The {{c6::space occupied}} by the jig in the factory should be {{c6::minimal}}.</div><div>{{c6::This is one reason why wings, empennage, fuselage frames etc. are often built vertically.}}</div><div><br></div><div>Small jigs should be {{c7::moveable}}, so a {{c7::flexible}} arrangement of factory layout becomes possible.</div><div><br></div><div>{{c9::Temporary::type of}} tools should be {{c8::avoided}}.</div><div><br></div><div>{{c10::Changes}} to the jig should be easily incorporated, as well as {{c10::adjustments}} of the jig.</div><div><br></div><div>The {{c11::thermal expansion}} of the jig should be incorporated during the assembly. That means that the {{c12::temperature}} of the factory is controlled.<br></div>",
+                ""
+            ],
+            "guid": "L)M=^=l(^P",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Solid riveting requires accessibility to {{c1::both sides of the material::something of the material}}",
+                ""
+            ],
+            "guid": "fOA{2>u~b[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Blind}} rivets allow for {{c2::Single-Side Assembly (SSA)}}.",
+                ""
+            ],
+            "guid": "i_9L{@&-2%",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Riveted joints are sensitive to {{c1::fatigue::loading mode}}.",
+                ""
+            ],
+            "guid": "IAN3a[:KP0",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rivets result in {{c2::stress-concentrations}} which may initiate {{c1::fatigue cracks}}.",
+                ""
+            ],
+            "guid": "y@?LumVa6v",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Riveted joints are {{c1::corrosion::chemically}} sensitive.",
+                ""
+            ],
+            "guid": "e!hUtJ9e3M",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Riveted joints are good because they can be easily {{c1::inspected}} and {{c1::repaired}}.&nbsp;",
+                ""
+            ],
+            "guid": "J:-mN1THJ<",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rivets are bad for aerodynamics because {{c1::it is difficult for them to obtain a smooth surface: there'll always be something sticking out from the hole.&nbsp;}}",
+                ""
+            ],
+            "guid": "yAt&vPGuaa",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are riveted joints aret air- or watertight?",
+                "No."
+            ],
+            "guid": "GN}Ej_]6DN",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rivets can only be loaded in {{c1::shear}}, not in {{c2::axial}} tension (bolts can).",
+                ""
+            ],
+            "guid": "jj!wIAX.V^",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Single lap}} joints are used when {{c1::aerodynamic}} requirements are not very important (as it does not create a flush product).&nbsp;",
+                "<img src=\"paste-7a6acf8a43c60d1c7faf81ef419629f6790dfc2c.jpg\">"
+            ],
+            "guid": "AW%KuMZoO/",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One disadvantage of using {{c2::single lap}} joints is their {{c1::secondary bending and the resulting extra stress concentrations.}}",
+                "<img src=\"paste-7a6acf8a43c60d1c7faf81ef419629f6790dfc2c.jpg\">"
+            ],
+            "guid": "x|uCEskE{q",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Riveted {{c1::butt}} joints are used when {{c2::aerodynamic}} requirements are important because {{c2::they create a flush product.}}",
+                "<img src=\"paste-7a6acf8a43c60d1c7faf81ef419629f6790dfc2c.jpg\">"
+            ],
+            "guid": "PAL+:dx/fk",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Solid}} rivets are created by holding something against it on the other side, and compressing the thing (access from both sides is required).<div><div><img src=\"paste-bf33af4056a0a374dbc66b81ea05558f678be753.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "oW.-(8Y$q}",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Blind}} rivets are created by suction and the accompanying deformation.<div><img src=\"paste-f38e15b55bdd74e5e962030a1b82ac2478905b08.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "wmFf/?|_]s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Titanium fasteners similar to bolts and are very strong (especially compared to the other rivets).<div><br></div><div>Compared to solid rivets, they are not created by {{c1::squeezing}} the rivet, but rather by just {{c1::tightening}} them.</div><div><br></div><div>Furthermore, a very high {{c2::accuracy}} is required in fitting the rivet, compared to solid riveting.</div>",
+                ""
+            ],
+            "guid": "Kb)sHdk-3z",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rivet joints can fail in three ways. These are:<div><br></div><div>{{c1::Shear}} fracture of the {{c1::rivet}}</div><div>{{c2::Bearing}} fracture of the {{c2::sheet}}</div><div>The {{c3::rivets}} may show a {{c4::2% permanent ovalisation}}.</div>",
+                "<img src=\"paste-9e6d85b12319199c9e3c55b1126895ea61b68272.jpg\">"
+            ],
+            "guid": "wOLG;8+_K9",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The bearing pressure at which {{c2::the rivet deforms more than 2%}} is a material property denoted by denoted by {{c1::[$]p_{2 \\%}[/$]}}",
+                ""
+            ],
+            "guid": "BG6H+U?xkY",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A first approximation of {{c3::[$]p_{2 \\%}[/$]}} is that it is {{c1::1.6}} times the {{c2::yield}} stress of the material.",
+                ""
+            ],
+            "guid": "vx8bd=U[Y9",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-236b24deb496643fecb34b22a40606adba46f4b3.jpg\"><br></div><div>Most stuff is connected by more than one rivet, but rather with a row of rivets. Suppose we pull* on our sheet with a force per unit width [$]Q[/$] and use a rivet spacing&nbsp;[$]s[/$].<br></div><div><br></div><div>The rivet fails, as shown in the top of the figure, the critical ultimate load being [$]F_{u l t}[/$]</div><div><br></div><div>The {{c1::more}} rivets, i.e. he {{c1::smaller}} [$]s[/$], the {{c1::larger}} the applied force may be before [$]F_{u l t}[/$] is reached.<br></div>",
+                ""
+            ],
+            "guid": "efQLc[Puts",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-236b24deb496643fecb34b22a40606adba46f4b3.jpg\"><br></div><div>Most stuff is connected by more than one rivet, but rather with a row of rivets. Suppose we pull on our sheet with a force per unit width [$]Q[/$] and use a rivet spacing&nbsp;[$]s[/$].</div><div><br></div><div>The sheet fails, as shown in the bottom of the figure.</div><div><br></div><div>The rivets {{c1::decrease}} the {{c2::cross-sectional area}} of the sheet at the location of the row of rivets.</div><div><br></div><div>Thus, the sheet may start simply failing due to the applied tensional force.</div><div><br></div><div>The {{c3::more}} rivets, i.e. the {{c3::smaller}} the applied force may be before failure.<br></div>",
+                ""
+            ],
+            "guid": "meTFWqC)tu",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c2::rivet spacing&nbsp;[$]s[/$]}} should be optimised to have the {{c1::rivet}} and {{c1::sheet}} fail simultaneously.",
+                ""
+            ],
+            "guid": "Eo30TBO%!p",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-d8a81e72d6aaa214df827fbd6f31b9db2a31d016.jpg\"><br></div><div><br></div>In case of two rivet rows, each rivet row carries 50% of the original load from one sheet to the other.<div><br></div><div>However, note that in case of 3 rivet rows, the load is not necessarily equally distributed over the rows.</div><div><br></div><div>Rather, they follow a {{c1::bathtub}} curve: {{c1::the first and last rows carry a lot of the load, the ones in between less.}}</div>",
+                ""
+            ],
+            "guid": "b6PnA$bTOa",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When multiple rivet rows are used, the sheet strength is {{c1::unaffected::changed/not changed}}.",
+                ""
+            ],
+            "guid": "s/zM~4j,0D",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Using multiple {{c3::rivet rows}} means the {{c2::rivet pitch}} can now be {{c1::increased}} because the rivets {{c1::carry less load}}.",
+                "<img src=\"paste-d8a81e72d6aaa214df827fbd6f31b9db2a31d016.jpg\">"
+            ],
+            "guid": "uF&&PuAh,e",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bolted joints can be loaded in {{c1::shear}} and in {{c2::tension}}.",
+                ""
+            ],
+            "guid": "LQulK-zy+E",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Bolted}} joints are ideal when a {{c2::detachable}} joint is desired.",
+                ""
+            ],
+            "guid": "xDUy]Gd1:O",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bolts can be {{c2::pre-loaded (pretension)}} to increase {{c1::fatigue life}}.",
+                ""
+            ],
+            "guid": "Ir;+~CKBM7",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Bolts::Kind of joint}} are to be used in case of {{c2::thick::property}} plates.",
+                ""
+            ],
+            "guid": "hi.^uf?(w~",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c3::Bolted}} joints are often used at places with {{c1::large}} and {{c2::concentrated}} forces.",
+                ""
+            ],
+            "guid": "wbXpt}Nqr.",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bolts and nuts are {{c1::more::comparative}} expensive than rivets",
+                ""
+            ],
+            "guid": "F}ug!(/n^)",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-e799a8690f264137c1bf9275fbfd41a8b65a47ba.jpg\"><br></div><div><br></div>If a bolt is not installed properly (e.g. not flush with the surface of the joint element), you {{c1::drastically increase}} the stresses as you're applying an additional {{c1::bending moment}}.",
+                ""
+            ],
+            "guid": "g4zy<s~cr[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When a bolt is tightened through flanges, the bolt&nbsp;[$]L_B[/$] is {{c1::lengthened}} and the flanges&nbsp;[$]L_f[/$] are {{c2::compressed}} to the new length&nbsp;[$]L[/$]<div><br></div><div><img src=\"paste-f7a7137a9be281ec444d35e657598bc1596d0cfb.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "OpdEl@~&M7",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pre-loading bolts has the following effects:<div><br></div><div>{{c1::Increases::affects somehow}} minimum stress</div><div>{{c2::Greatly decreases::affects somehow}} the amplitude of the stress variations</div><div>{{c3::Does not change::affects somehow}} maximum stress</div>",
+                ""
+            ],
+            "guid": "Pa;N20Le;l",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c3::Pre-loading bolts}} works in tensional loading because the {{c1::pre-compression of the flanges}} needs to be countered by the applied tension before the bolt {{c2::can start carrying the entire load}}.",
+                ""
+            ],
+            "guid": "fZ-?pQKOF)",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-9fd86a006cd91e259cc503bd0dcd1c846c715814.jpg\"><br></div><div><br></div><div>A simple adhesive joint is shown: you simply have two plates on top of each other, connected by an adhesive.</div><div><br></div><div>They are primarily used for {{c1::shear}}; under {{c2::tension}} or {{c2::peel}} forces they are {{c3::weak}}.<br></div>",
+                ""
+            ],
+            "guid": "sbjZs`)Rrc",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-9fd86a006cd91e259cc503bd0dcd1c846c715814.jpg\"><br></div><div>Some advantages of adhesive bonding are:<br></div><div><br></div><div><br></div><div>Long {{c1::lifetime}}: it has no {{c1::holes::deformity}} and therefore no {{c1::in-plane stress concentrations::structural property}}, making them insensitive to {{c2::metal fatigue::loading mode}}.</div><div><br></div><div>No {{c3::weakening}} of the {{c4::sheet material}}, since it has no holes.</div><div><br></div><div>Resulting {{c5::smooth surfaces}} due to the lack of parts sticking out. Good for {{c6::aerodynamics::a...}}.</div><div><br></div><div>Allows for the joining of {{c7::different (eg metals with polymers)::type}} materials.</div><div><br></div><div>Bonding is less {{c8::labour intensive}} than riveting.</div><div><br></div><div>Bonded joints can be {{c9::corrosion}} resistant, and {{c10::air- and liquid tight}}.<br></div>",
+                ""
+            ],
+            "guid": "d@>Mc2_sy4",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-9fd86a006cd91e259cc503bd0dcd1c846c715814.jpg\"><br></div><div>Some <b>disadvantages of adhesive bonding</b> are:</div><div><br></div><div>{{c4::Manufacturing}} processes are {{c3::complicated}}.</div><div><br></div><div>Extensive {{c2::pre-treatment::pre...}} is needed.</div><div><br></div><div>Bond lines are very {{c1::thin (often in the order of 1mm)}}.</div><div><br></div><div>This requires high {{c5::accuracy}} of the parts to be joined.</div><div><br></div><div>Bonded joints {{c6::are not::are/aren't}} suited for disassembly.</div><div><br></div><div>Bonded joints may only be loaded by {{c7::shear}}, not by {{c7::tension}}.<br></div>",
+                ""
+            ],
+            "guid": "PkFJq3Ci=s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The loads in an adhesive {{c1::are not::are/aren't}} uniform.",
+                "<img src=\"paste-44c60a03657e2b9ea7ff28f6184ee855ebac4464.jpg\">"
+            ],
+            "guid": "D@M}oZszfR",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When tension is applied to two plates bonded by an adhesive, only {{c1::shear}} forces deform the plates due to the {{c1::shear}} strains in the adhesive.",
+                "<img src=\"paste-0fa9a94008b20f540493be2e7b9318e87874c341.jpg\">"
+            ],
+            "guid": "P<MxxWH!V)",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When tension is applied to two plates bonded by an adhesive, the shear strains of the adhesive cause shear stresses on the plates that follow a {{c1::baththub}} curve.",
+                "<img src=\"paste-96317fc33321b458ed0a8f2689c188ac6f0dd202.jpg\">"
+            ],
+            "guid": "D@9Lxe;;qb",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Increasing the joint length of an adhesive joint:<div><br></div><div>{{c1::slightly inceases}} the joint strength</div><div>{{c2::decreases}} the average shear stress [$]\\tau_{avg}[/$]</div><div>{{c3::does not:does/doesn't}} reduce the maximum stress [$]\\tau_{max}[/$]</div><div><br></div><div><br></div>",
+                "<img src=\"paste-f38493ad3730801fa6e4614f45f78228f9050037.jpg\"><img src=\"paste-d06e16f4d333de4bbe247d01999eb972ce86892c.jpg\">"
+            ],
+            "guid": "(X<a<)9F?",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In order to reduce the maximum stress of an adhesive joint, we use {{c1::slanted}} edges or {{c2::scarf}} joints.<div><img src=\"paste-f38493ad3730801fa6e4614f45f78228f9050037.jpg\"><br></div>",
+                "<img src=\"paste-952991ed8d4089fc1716e6889cd78ceddaaca5ea.jpg\"><br>"
+            ],
+            "guid": "qAhUpz7!]}",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For <b>thermoplast adhesives</b>, the following steps are taken:<div><br></div><div>1. {{c1::Pre-treatment}} of the surfaces that need to be bonded.<br>2. {{c1::Applying the heated adhesive::Appl...}} to the surfaces.<br>3. {{c1::Joining}} of the surfaces.<br>4. {{c1::Cooling}} of the joint.<br></div>",
+                ""
+            ],
+            "guid": "yLp2515sFp",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For&nbsp;<b>thermoset adhesives</b>, the following steps are taken:<div><br></div><div>1. {{c1::Pre-treatment}} of the surfaces that need to be bonded.<br>2. {{c1::Applying the heated adhesive::Appl...}} to the surfaces.<br>3. {{c1::Joining}} of the surfaces.<br>4. {{c1::Curing}} of the joint.</div>",
+                ""
+            ],
+            "guid": "qRO92%F8=V",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Welding}} is the process of {{c2::locally melting material in narrow adjacent regions}} next to the {{c1::weld}} line, and then {{c2::solidifying the metal together.}}",
+                ""
+            ],
+            "guid": "C]?ho{[DDT",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Welding has a number of advantages:</b><div><br></div><div><br></div><div>The joint is {{c1::continuous}}, as opposed to e.g. {{c1::the discrete load-paths found in a riveted joint.}}</div><div><br></div><div>Welded joints are often {{c2::butt}} joints, not {{c2::overlap}} joints as for bonding and riveting; this results in a {{c2::smooth}} joint (important for aerodynamic and hydrodynamic surfaces).</div><div><br></div><div>Welded joints {{c3::are::are/aren't}} watertight and airtight.</div>",
+                ""
+            ],
+            "guid": "m[cbrV~(as",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Welding has a number of disadvantages:</b><div><br></div><div><br></div><div><div>The welding processs heats and liquefies some of the material, {{c1::adversely}} affecting the heat-treatment of the sections being joined.</div><div>High-quality materials that use heat-treatment to attain high strength are therefure usually {{c1::unsuitable}} for welding, which is one of the main reasons why welding is {{c1::rarely}} chosen above riveting in aircraft industry.</div><div><br></div><div>A {{c2::consistent}} weld quality is difficult to get and to guarantee.</div><div><br></div><div>{{c3::Thin-walled::type of}} steel plates cannot be easily welded together.</div></div>",
+                ""
+            ],
+            "guid": ",*2>,#[zw",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality}} is the {{c2::totality of characteristics}} of an entity that bears on its ability to satisfy stated and implied needs.",
+                ""
+            ],
+            "guid": "eG%@5z}g,w",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality policy}} is the {{c2::overall intention and direction}} of an organisation with regard to {{c2::quality}}, as formally expressed by top management.",
+                ""
+            ],
+            "guid": "zBDk@I+,WF",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality management}} are all {{c2::activities of the overall management function}} that determines the quality policy {{c3::objectives and responsibilities}}, and implement them within the quality system by means such as:<div>quality planning, quality control, quality assurance and quality improvement.</div>",
+                ""
+            ],
+            "guid": "qZ/n^;!e2~",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quality management is the responsibility of {{c1::all levels of management}} but must be led by {{c2::top management}}. Its implementation involves all members of the organisation.",
+                ""
+            ],
+            "guid": "vm4yH/`)IK",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality planning}} are the activities that establish the {{c2::objectives and requirements}}&nbsp;for quality and for the {{c2::application}} of quality system elements.",
+                ""
+            ],
+            "guid": "km2w*c3moN",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality control}} are the {{c2::operational techniques}} and {{c2::activities}} that are used to {{c3::fulfill requirements}} for quality.",
+                ""
+            ],
+            "guid": "ct0rKWm0Kw",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality assurance}} are all the {{c2::planned and systematic activities}} implemented within the quality system, and demonstrated as needed, to provide {{c3::adequate confidence that an entity will fulfil requirements for quality}}.",
+                ""
+            ],
+            "guid": "kt>S5m0WTQ",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality system}} is the {{c2::organisational structure::or...}}, {{c3::procedures::pro...}}, {{c4::processes::pro...}} and {{c5::resources::re...}} needed to implement quality management.",
+                ""
+            ],
+            "guid": "lvw6>?7~Pr",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Total quality management}} is the {{c2::management approach}} of an organisation, centred on {{c1::quality}}, based on the participation of all its members and aiming at long-term success through customer satisfaction, and benefits to all members of the organisation and to society.",
+                ""
+            ],
+            "guid": "iNW!dQ[y60",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality manual}} is the document stating the {{c2::quality policy}} and describing the {{c2::quality system}} of an organisation.",
+                ""
+            ],
+            "guid": "fp$ZgD_T@i",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quality audit}} is the {{c2::systematic and independent examination}} to determine whether quality activities and related results comply with planned arrangements and whether these arrangements are {{c3::implemented effectively and are suitable to achieve objectives}}.",
+                ""
+            ],
+            "guid": "EW.5_pk,r-",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Non-conformance reports}} are reports made by an inspector who checks that all the parts {{c5::conform with their required design}}.<div><br></div><div>This is checked by several types of inspection. The report contains a lot of {{c2::technical data about the product}}, the {{c3::detected flaws}}, the {{c4::applied testing methods}}.</div>",
+                ""
+            ],
+            "guid": "d$dEd_98!{",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Non-destructive testing includes methods such as:<div><br></div><div>{{c1::Ultrasonic: soundwaves that travel through the material::Ult...}}</div><div><br></div><div>{{c2::Tap-test: acoustic sounds are created by tapping on the product, which can be heard by an amplifier.::Tap...}}</div><div><br></div><div>{{c3::Fokker bondtest: a vibration is induced; the variation of this can be measured.::Fok...}}</div><div><br></div><div>{{c4::Penetrant: this allows for visually seeing cracks on the surface by use of color aids.::Pe...}}</div><div><br></div><div>{{c5::Magnetic particles: this uses metal dust.::Mag...}}</div><div><br></div><div>{{c6::Eddy current uses electric field interactions.::Ed...}}</div><div><br></div><div>{{c7::Thermography uses temperature differences.::The...}}<br></div><div><br></div><div>{{c8::Visual inspection::Vi...}}</div>",
+                ""
+            ],
+            "guid": "N[|$py8rj#",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Lean manufacturing}} is the dynamic, knowledge driven, and customer-focused process, through which all people in a defined enterprise continuously eliminate {{c2::waste}} with the goal of creating value.",
+                ""
+            ],
+            "guid": "mgY~-k>^/f",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the context of lean manufacturing,<div><br></div><div>{{c1::Waste}} is anything that uses {{c2::resources}}, but does not {{c2::add value}} to the product or service.<br></div>",
+                ""
+            ],
+            "guid": "y4MJ;C<3el",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Stakeholders}} are the parties that have an interest in {{c2::value creation}}.",
+                ""
+            ],
+            "guid": "riw*9/./_T",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lean manufacturing is knowledge-driven because:",
+                "the entire workface has to participate, from top-level managers to low-level labour workers.<div>The low-level labour workers are especially important as they see waste happening in real time, and thus are best suited in eliminating it.</div>"
+            ],
+            "guid": "BoI+?yhDg",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::pull}} market is when the {{c2::end customer}} is the ultimate goal and companies respond to {{c2::customer}} demands.",
+                ""
+            ],
+            "guid": "CR9hZQ,2}y",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the context of lean manufacturing, eight types of waste can be distinguished:<div><br></div><div>1. {{c1::<b>Overproduction</b>,</div><div>which means producing more, sooner or faster than required by the next process. This is waste, as you need to store the materials and products.::Over...}}</div><div><br>2. {{c2::<b>Waiting time</b>,</div><div>which is the time a worker has to wait while the machine is processing.::Wait...}}</div><div><br>3. {{c3::<b>Work in Progress (WIP) or inventory</b>.</div><div>Inventory is material between operations, i.e. material that's not currently being worked on but it needs to be stored anyway, another form of waste.::Work...}}</div><div><br>{{c4::4. <b>Processing</b>:</div><div>unnecessary processing steps or product.::Pro...}}</div><div><br>{{c5::5. <b>Transportation</b>:</div><div>transportation should always be eliminated or minimised.::Tra...}}<br></div><div><br></div><div>{{c6::6. <b>Movement or motion</b>:</div><div>everytime a worker has to move, you have to think: \"we've just wasted 10 seconds from the worker having to walk to the bathroom. We should just allow people to piss and poo on the workfloor, that' ll reduce those times.\"::Move...}}</div><div><br>{{c7::7. <b>Rework</b>:</div><div>extra work to be done cause the first time a defective product was made.::Re...}}</div><div><br>{{c8::8. <b>Underutilising people</b>:</div><div>for example, some people can write very good production plans. But, you'd utilise them even more if you start letting them bring coffee to everyone as well, unlocking their full potential. You always need to make sure people are working at their highest capability.::Under...}}<br></div>",
+                ""
+            ],
+            "guid": "jVT>qR(9^/",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The three phases of <b>value creation</b> are:<div><br></div><div>1. {{c1::</div><div><b>Value identification</b>:</div><div>Defining needs and requirements with all stakeholders</div>::Id...}}<div><br></div><div>2. {{c2::</div><div><b>Value proposition</b>:</div><div>Desiging the product (proposing the value)</div>Pro...}}<div><br></div><div>3. {{c3::</div><div><b>Value delivery:</b></div><div>Produce and deliver the product</div>::Del...}}",
+                ""
+            ],
+            "guid": "h4o9/W6DyC",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One of the methods inside the context of lean principles is {{c2::5S (five steps)}}<b>&nbsp;</b>- this is used primarily to {{c1::eliminate waste}}.",
+                ""
+            ],
+            "guid": "C@bUz}n/6s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The <b>5S</b> (five steps) method in lean manufacturing is as follows:<div><br></div><div>1. {{c1::</div><div><b>Sort</b>:</div><div>at this stage all the items on the workplace have to be looked at and be segregated. The necessary and unnecessary items are separated, and unnecessary items will be removed.</div>::segregation}}<div><br>2. {{c2::</div><div><b>Simplify</b>:</div><div>randomly located items are identified and arranged. There have to be established designated areas for all the items.</div>::arrangement}}<div><br>3. {{c3::</div><div><b>Scrub/Shine</b>:</div><div>the workplace is cleaned on a regular basis and the machinery is cleaned on a daily basis.</div>::clean}}<div><br>4. {{c4::</div><div><b>Standardise</b>:</div><div>the improved methods and changes are documented, and visual control agreements for labelling and quantity levels are established. This has to ensure a frequent reflection on the previous three steps of 5S.</div>::document}}<div><br>5. {{c5::</div><div><b>Sustain</b>:</div><div>the changes are developed and utilised. The established results should motivate people to keep to the changes and improvements and to use the 5S principles consistently themselves.</div>::continue}}",
+                ""
+            ],
+            "guid": "J9!v=-H7la",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Just-in-time (JIT)}} is the system where items are delivered {{c2::exactly when required}}, and not {{c3::a moment later (then it'd be too late)}} or {{c4::too soon (as then you'd need to store it)}}.",
+                ""
+            ],
+            "guid": "OA83#v5xKt",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Load levelling}} means ensuring that all manufacturing stages take {{c2::an approximately equal amount of work, as to avoid bottle necks}}.",
+                ""
+            ],
+            "guid": "O(J^Api|5~",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-90c8bf09089a8bfa342d1f13f36ca353ba0f654f.jpg\"><div>The pictured lean manufacturing method is called {{c1::Takt time}}.&nbsp;</div>",
+                ""
+            ],
+            "guid": "AB$BZm1H]u",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Cellular manufacturing}} is the process of creating assembly lines out of cells of multiple&nbsp;types of equipment that allow for {{c2::variations in products}}.<div><br><div><img src=\"paste-43c7e3ba62aab2f39eb7e36aa75f8645faf71434.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "E@)cQW(a,!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aircraft parts are manufactured in {{c2::batches}}, but the assembly of an aircraft is organised in line {{c1::production}}.",
+                ""
+            ],
+            "guid": "zB5+g(d#no",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::<b>Line production</b>}} is the intermediate system between a {{c1::<b>dock-like system</b>}} (as used for ships) and {{c1::<b>mass-production</b>}}, where millions of parts are moved continuously through the production facilities.",
+                ""
+            ],
+            "guid": "kq*YQ4V~8e",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c2::line production}}, the parts do move throughout the facility, but they move at {{c1::specific time intervals}} to the next spot in the production line (called {{c3::station}}), so it's not a {{c1::continuous}} movement.",
+                ""
+            ],
+            "guid": "k.O-,gT~>9",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-21cca72417b3d2005901682cef493b48df236e63.jpg\"><br></div><div><b>Batch size</b> depends on a number of parameters:</div><div><br></div>{{c2::Delivery interval (time between deliveries)::Del...}} or {{c3::number of aircraft produced::quantity}} (in e.g. a year). The higher this number, the shorter the {{c2::delivery interval}}, and the larger the batch size.<div><div><br></div><div>The number of {{c1::identical}} parts in one aircraft: the more, the larger the batch size.</div><div><br></div><div>The {{c4::size}} of a part: the larger the {{c4::size}}, the more stock area is needed, which also costs money.</div><div><br></div><div>The {{c6::higher::comparative}} the price of a part, the lower the batch size.</div><div><br></div><div>The ratio {{c7::manufacturing time/change-over time}}:</div><div>if the {{c7::change-over time}} is large, then it costs a lot of time to set up the machines to change from one operation to another. Then you'd want to increase the batch size, as apparently it takes a lot of time to switch operations: if you'd have to produce small batches frequently, this would start consuming a lot time (cause between the production of batches, the machine will probably do something else, so it'll need to switch operation conditions every time).</div></div>",
+                ""
+            ],
+            "guid": "n2N~pbZWYd",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A schematic assembly line is shown: the assembly line consists of multiple stations.<div><img src=\"paste-3506baedf1f06bd27445457568d70da3ae3c9732.jpg\"><br></div><div><br></div><div><br></div><div>At each station, the same crew performs the same tasks at subsequent aircraft over and over again.</div><div><br></div><div>The {{c2::allocated time}} for these tasks is {{c1::fixed}} and is the {{c1::same}} for all stations.</div><div><br></div><div>When the time is passed, all aircraft move to the next station (moving the aircraft is often performed at night).</div><div><br></div><div>This time interval between two movements of the aircraft is called the {{c3::delivery interval}}, as it's essentially the time between two {{c3::deliveries (after the last station, the aircraft is moved to delivery after all)}}.</div>",
+                ""
+            ],
+            "guid": "w@XgJb|P2j",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The advantages of <b>line production</b> are:<div><br></div><div><br></div><div>{{c1::Minimal <b>transport</b> (saves cost)::Tr...}}</div><div><br></div><div>{{c2::Simple <b>planning</b>::Pl...}}</div><div><br></div><div>{{c3::Good indication of <b>progress</b> (delays are obvious)::Pro...}}</div><div><br></div><div>{{c4::Maximal <b>equal shaped</b> products::Eq...}}</div><div><br></div><div>{{c5::Maximal <b>routine forming</b> per crew::Rout...}}<br></div>",
+                ""
+            ],
+            "guid": "gR.1-tM%Z~",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The learning curve of aircraft assembly assembly crews follows a {{c1::exponentially decaying::type of}} curve.",
+                "<img src=\"paste-e6b44cd88978e29df447421a313192c255b98fd3.jpg\"><div>[$] E_{N}=K \\cdot N^{s} [/$]</div><div>[$]&nbsp;E_{N}[/$] : effort to build n-th aircraft</div><div>[$]K[/$] : effort to build first aircraft<br></div><div>[$]s[/$] : reduction factor or slope constant<br></div>"
+            ],
+            "guid": "eI,wkAN8@.",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::break-even point}} is the aircraft number at which the total {{c2::accumulated revenues}} equals the total {{c2::accumulated costs}}.",
+                ""
+            ],
+            "guid": "KKbzj:o{[V",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        }
+    ]
+}
