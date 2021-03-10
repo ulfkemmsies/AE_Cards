@@ -1,0 +1,534 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "77af0e41-7f68-11eb-97f3-08d23e719c6e",
+    "deck_config_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "63c32a43-7472-11eb-a09a-08d23e719c6e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-115c57f84e44638671cf0616283af6b13934b83c.jpg",
+        "paste-2b34bb928d20c0c5b6fc25259cb6a38f1e97718c.jpg",
+        "paste-566b97cc08240599bb33a2ccd12198fe5d4ac9f1.jpg",
+        "paste-6bf535f5b41cdec4b0ce518cd3c590890f1f9790.jpg",
+        "paste-895593d968d5927ba44c237edb6507b8c41cb390.jpg",
+        "paste-8a1c8c4ce900d1e509cac7bfb3bcec2138b69362.jpg",
+        "paste-aa0f1ea8d5eeb43709e2bb9d803b11e35e791c9f.jpg",
+        "paste-b59cae4828024c39b3ea34b28d609d88046f9376.jpg",
+        "paste-d5421690930c36ea4c6c6e3ac7eeeb91de070576.jpg",
+        "paste-e7782046c01a498d8ca755f919e5bbebfbdf9155.jpg",
+        "paste-ff9c958a6bf1b301288d07b82fff8a50df275668.jpg"
+    ],
+    "name": "ADSEE III",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Complexity}} means something which comprises parts in {{c3::intricate arrangement}}, making it more difficult to {{c2::predict}} and introduces {{c2::uncertainty}}.",
+                ""
+            ],
+            "guid": "mXcfymR^d6",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<b>Complicated</b>}} means something which is not {{c2::simple}}, but still easy to {{c2::predict}} if you put enough effort into understanding.",
+                ""
+            ],
+            "guid": "dqQ`aPQlF1",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The difference between {{c2::complexity}} and {{c2::complicatedness}} is {{c1::predictability}}.",
+                ""
+            ],
+            "guid": "gA=rTbr6>$",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::system}} is a set of {{c2::interrelated components}} working together to {{c2::accomplish a common purpose}}.",
+                ""
+            ],
+            "guid": "E3LR,NG}Dd",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A <b>system</b> can be described by its {{c2::elements}} and the {{c3::relationships}} between them.<div><br></div><div>What is outside the system is called the {{c1::environment}}.</div><div><br></div><div>We define subsystems as well, which are subsets of {{c2::elements}} in the system which retains the {{c3::relationships}} between all {{c2::elements}}.</div>",
+                "<img src=\"paste-d5421690930c36ea4c6c6e3ac7eeeb91de070576.jpg\">"
+            ],
+            "guid": "oK)HFF0W_s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "From the stakeholders' point of view, projects arise from two things: {{c1::needs}} and {{c1::opportunities}}.",
+                ""
+            ],
+            "guid": "m?>(;z9+zc",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Needs</b> that give birth to projects arise from:<div><br></div><div>{{c1::<div><b>Functional deficiency</b></div><div>e.g. something that detects wildfires, which would be something that serves a totally new function.</div>::Func...}}<br></div><div><br></div><div>{{c2::<div><b>Operational deficiency</b></div><div>e.g. adding communication bandwidth. Communication already exists, but adding communication bandwidth makes communicating easier.</div>::Oper...}}<br></div><div><br></div><div>{{c3::<div><b>Changes in legislation and regulation.</b></div><div>These changes may mean you need to develop a new product because you are no longer allowed to use nuclear power as an alternative to Teslas.</div>::Leg...}}<br></div>",
+                ""
+            ],
+            "guid": "KI:`j+53C0",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Opportunities</b> that give birth to projects arise from:<div><br></div><div>{{c1::<div><b>Technology fusion or breakthrough</b></div><div>For example, if a new type of battery is developed that can store much more energy, there's gonna be a lot of stuff where this could possibly be applied.</div>::Break...}}<br></div><div><br></div><div>{{c2::<div><b>Discoveries</b></div><div>For example, if we discover water on Mars, there'll be additional space projects going to Mars.</div>::Dis...}}<br></div><div><br></div><div>{{c3::<div><b>Market demand</b></div><div>For example, if the world suddenly gets a weird fetish for horseshit, then there are gonna be opportunities for you to design projects where horseshit can be mass-produced due to the market demand.</div>::Mar...}}<br></div>",
+                ""
+            ],
+            "guid": "t4|N^<HAOg",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Requirements}} are {{c2::\"shall statements\"}} and are singular documented needs of {{c3::what a particular product shall do or be}}.",
+                ""
+            ],
+            "guid": "j!v*6z1ZM;",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Stakeholders}} are {{c2::all parties affected or which can be affected by the system.}}",
+                ""
+            ],
+            "guid": "yn+2s.}LI-",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stakeholder {{c1::needs}} are about the {{c2::\"What\"}}, while {{c1::requirements}} are about the {{c2::\"How\"}}.",
+                ""
+            ],
+            "guid": "e&4u9yBLx,",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::constraint}} is a restriction on {{c2::the degree of freedom in providing a solution}}.<div><br></div><div>A {{c1::constraint}} can be formulated as a requirement.</div>",
+                ""
+            ],
+            "guid": "Pm-lEnawri",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The Systems Engineering universe is established by {{c1::technical performance::perf...}}, {{c2::cost::c...}} and {{c3::schedule::sch...}}. All three dimensions are interconnected via {{c4::risk}}.",
+                "<img src=\"paste-895593d968d5927ba44c237edb6507b8c41cb390.jpg\">"
+            ],
+            "guid": "lPth8=Ic5R",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the V-model of the systems engineering process, requirements are {{c1::decomposed downwards into smaller requirements::acted upon}}, and the designs are {{c2::integrated upwards::acted upon}}.",
+                "<img src=\"paste-8a1c8c4ce900d1e509cac7bfb3bcec2138b69362.jpg\">"
+            ],
+            "guid": "lUP.$Cqw8z",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the <b>discovery tour</b> used to go from needs to requirements, the cut-off point from {{c2::non-technical}} to {{c2::technical}} is between {{c1::stakeholder requirements}} and {{c1::system requirements}}.",
+                "<img src=\"paste-115c57f84e44638671cf0616283af6b13934b83c.jpg\">"
+            ],
+            "guid": "w?x0lIC5](",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::requirement}} is a {{c2::condition which must be complied with.}}",
+                ""
+            ],
+            "guid": "h]4rO^FnLT",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::mission need statement}} describes in general terms the {{c2::need}} and {{c2::mission}} in a single, clear and concise sentence. It describes {{c3::what the product does}}, not {{c3::what it is or how it is done}}.",
+                ""
+            ],
+            "guid": "w*Ae9*yN)[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Killer}} requirements drive the design to an {{c2::unacceptable}} extent.",
+                ""
+            ],
+            "guid": "kgM2Jp}^ct",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>{{c1::Driving}} requirements drive the design {{c4::more than average::to some extent}}.</div>",
+                ""
+            ],
+            "guid": "vX_*Eg7`An",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Key}} requirements are requirements of {{c2::primary importance to the customer::related to customer}}.",
+                ""
+            ],
+            "guid": "BRA{ZRo!JE",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The <b>12 requirements on requirements</b> are the following:</div><div><br></div><div><br></div>1. Each requirement shall have a unique {{c1::identifier (an abbreviated code-name so that you can refer to them).}}<div><br><div>2. This {{c1::identifier}} shall not be {{c2::re-used}} in the event the requirement is deleted.</div><div><br>3. The requirement shall be {{c3::unambiguous::un...}}.</div><div><br>4. The inclusion of {{c4::essential::ess...}} and {{c5::design-to::des...}}, requirements shall be complete.</div><div><br>5. Each sentence shall include {{c6::one::number of}} requirement(s).</div><div><br>6. Terms that are {{c8::vague}} or not {{c8::verifiable}} such as {{c7::\"or, etc., appropriate\"}} shall not be used.</div><div><br>7. Each requirement shall be {{c9::unique::un...}}.</div><div><br>8. The content of a requirement shall not be interpretable {{c10::in more than one way::somehow}}.</div><div><br>9. A requirement shall be {{c11::verifiable::ver...}}.</div><div><br>10. A requirement shall be {{c12::consistent::con...}} , i.e. it shall be ensured that there is no {{c16::conflict between any two requirements in a specification}}.</div><div><br>11. The content of a requirement shall not include the {{c13::reason for the requirement}} or a {{c13::description of the design}}.</div><div>{{c13::Rationales}} and {{c13::design descriptions}} shall be documented separately.</div><div><br>12. The requirement shall be {{c14::complete, ::com...}} i.e. {{c15::it shall be ensured that all functions and performance items are defined, which are required during the foreseen life cycle of the system}}.</div></div>",
+                ""
+            ],
+            "guid": "d$iSH,PT3:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Requirements can be verified in four ways:<div><br></div><div>1. {{c1::<b>Inspection</b>:</div><div>for example, a requirement that something shall be 27 cm long can be easily verified by inspection.::In...}}</div><div><br>2. {{c2::<b>Analysis</b>:</div><div>some requirements are harder to verify. For example, if something is supposed to have a probability of 80% then of course you can do a lot of tests to check whether this probability is more or less correct, but this gets rather costly if you are fore example testing nukes. In those cases, a very detailed mathematical analysis may be more in place.::An...}}</div><div><br>3. {{c3::<b>Demonstration</b>:</div><div>for example, if a requirement is that a car is supposed to be able to go faster than 100 km/h, then you can easily demonstrate this by just having the car drive faster than 100 km/h.::Dem...}}</div><div><br>4. {{c4::<b>Test</b>:</div><div>for example, if a requirement is that a car has a drag coefficient of 0.2 , then you can test this in a wind tunnel.</div>::Te...}}",
+                ""
+            ],
+            "guid": "v|H#P!y:AS",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In engineering, a {{c1::function}} describes the {{c2::requested behaviour}} of a system. When you formulate {{c1::functions}}, always use a verb.",
+                ""
+            ],
+            "guid": "blv3nSOAPd",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Functional break-down structures}} are {{c1::AND::logical operation}} trees: each element of the tree is the {{c1::sum}} of all elements below it.&nbsp;<div><br></div><div>They {{c3::don't::do/don't}} say anything about sequence.</div>",
+                "<img src=\"paste-6bf535f5b41cdec4b0ce518cd3c590890f1f9790.jpg\">"
+            ],
+            "guid": "AAjxpbLmB}",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Functional Flow Block Diagrams}} are {{c2::multi-tier::multi...}}, {{c3::time-sequenced::time...}}, {{c4::step-by-step::step...}} diagrams of a system's {{c1::functional flow}}.",
+                "<img src=\"paste-ff9c958a6bf1b301288d07b82fff8a50df275668.jpg\">"
+            ],
+            "guid": "h$`3Dc}$vO",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::N2 charts}} are a grid of processes where {{c2::horizontal}} flows are {{c3::outputs}} and {{c2::vertical}} flows are {{c3::inputs}}.",
+                "<img src=\"paste-566b97cc08240599bb33a2ccd12198fe5d4ac9f1.jpg\">"
+            ],
+            "guid": "AJn<@QGj~/",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Design trades}} is the process of {{c2::finding, analysing, and selecting certain concepts (\"How?\") that can fulfill the requirements (\"What?\")}}",
+                ""
+            ],
+            "guid": "FJ/k.r[WB8",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Design option trees}} are used to list out all the possible design options.",
+                "<img src=\"paste-b59cae4828024c39b3ea34b28d609d88046f9376.jpg\">"
+            ],
+            "guid": "q<U$SqG+s*",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Some guidelines for design option trees are:<div><br></div><div>Each element has {{c1::one or more::quantity}} descendant and nothing else.</div><div><br></div><div>Every single {{c2::possibility::p...}} is included.</div><div><br></div><div>Use {{c3::\"anything else\"}} as temporary placeholder</div><div>If you get stuck, you have a solution and can continue on until you've written down {{c4::\"anything else\"}} literally everywhere, then you have to start thinking.<br></div>",
+                ""
+            ],
+            "guid": "Dook^XNVsi",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The <b>trade-off process</b> consists of the following steps:</div><br><div>1. {{c1::</div><div><b>Strawman concepts</b> are used to generate the design tree.</div><div>They're called strawman concepts because a strawman just forms the skeleton essentially, it's not meant as a super-detailed concept so it allows a team of designers to have discussions about it.</div><div>Both familiar and new concepts may be included.</div>::Straw...}}<div><br>2. {{c2::</div><div><b>Empty concepts</b> are eliminated.</div><div>These are concepts that were named for the sake of completeness, but for which no implementation can be found.</div>::Em...}}<div><br>3. {{c3::</div><div><b>Infeasible concepts</b> are eliminated.</div><div>Stuff that violates laws of nature or are just grossly impractical can be crossed out now.</div>::Inf...}}<div><br>4. {{c4::<b>\"Maybe\" concepts</b> are generated.::May...}}</div><div><br>5. {{c5::</div><div><b>Future concepts</b> that can't be analysed or developed yet are discarded.</div><div>However, these are documented, so that people in the future, when there's more advanced technology, can look into it.</div>::Fut...}}<div><br>6. {{c6::</div><div><b>Weakest points</b> of each survivor are listed.</div><div>Ones that are truly weak are then discarded.</div>::Weak...}}<div><br>7. {{c7::<b>Feasible</b>, proposed <b>concepts</b> are left over.::Fea...}}<br></div>",
+                "<img src=\"paste-2b34bb928d20c0c5b6fc25259cb6a38f1e97718c.jpg\">"
+            ],
+            "guid": "reKStpu5S2",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "After the trade-off process is finished and only proposed, feasible concepts remain, a final design choice must be made.<div>This is done by defining some <b>selection criteria</b> coming from three sources:<div><br></div><div>1. {{c1::Killer::bad}} requirements identified in initial requirements analysis</div><div>2. {{c2::Key::good}} requirements identified in initial requirements analysis<br>3. {{c3::Other system-level::at some level}} requirements in which candidate concepts differ significantly<br>4. Additional selection criteria from analysing {{c4::strawman::str...}} design<br></div></div>",
+                ""
+            ],
+            "guid": "fp1Zolr)N:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the trade-off table containing the selection criteria and their respective weights, certain rules apply:<div><br></div><div>Options go in the {{c2::left column::location}}, criteria go in the {{c2::top row::location}}.</div><div><br></div><div>The column {{c3::width::w...}} should be proportional to the {{c3::weight::w...}} of its criteria.</div><div><br>Write the {{c1::reason for judgement::rea...}} in the box/cell.</div><div><br></div><div>Define the {{c4::score classes::clas...}} clearly</div><div>{{c4::e.g. excellent, good, correctable deficiencies, unacceptable. Use colour because maybe your table will be used in an oral presentation.&nbsp;}}<br></div>",
+                "<img src=\"paste-aa0f1ea8d5eeb43709e2bb9d803b11e35e791c9f.jpg\">"
+            ],
+            "guid": "tEB+4y`wm:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Verification}} is the {{c2::proof of compliance}} with design solution {{c2::specifications}} and descriptive documents.",
+                ""
+            ],
+            "guid": "i#O`93U`uQ",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Validation}} is the proof that {{c2::the product accomplishes the intended purpose}} based on {{c2::stakeholder expectations}}.",
+                ""
+            ],
+            "guid": "M_{9!5~_<<",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Verification}} is checking whether something does what you want it to do.<div><br></div><div>{{c1::Validation}} is checking whether what you wanted it to do is correct.</div>",
+                ""
+            ],
+            "guid": "Q=y!Yh,b/7",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Verification and Validation</b> aims at answering the following questions:<div><br></div><div>1. {{c1::<b>Requirements</b>::Req...}} validation:</div><div>{{c1::are these the right requirements?}}</div><div><br>2. {{c2::<b>Model</b>::Mo...}} validation:</div><div>{{c2::are the models (supporting design and verification) correct?}}</div><div><br>3. {{c3::<b>Product</b>::Pro...}} verification:</div><div>{{c3::does the product meet the requirements?}}</div><div><br>4. {{c4::<b>Product</b>::Pro...}} validation:</div><div>{{c4::did we build the right product?}}</div><div><br>5. {{c5::<b>Flight</b>::Fli...}} certification:</div><div>{{c5::is the system ready to fly?}}<br></div>",
+                "<img src=\"paste-e7782046c01a498d8ca755f919e5bbebfbdf9155.jpg\">"
+            ],
+            "guid": "lk<4yjvKwa",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Requirement validation checks whether the requirements are correct.<div>This can be done by use of the <b>VALID</b> method.</div><div><br></div><div>Requirements ought to be:</div><div><br>{{c1::Verifiable::<b>V</b>e...}}<br>{{c2::Achievable::<b>A</b>ch...}}<br>{{c3::Logical::<b>L</b>o...}}<br>{{c4::Integral::<b>I</b>nt...}}<br>{{c5::Definitive, i.e. unambiguous.::<b>D</b>ef...}}</div>",
+                ""
+            ],
+            "guid": "F}hNj*k&e1",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Model validation</b> is checking whether the models are correct. There are several types of models:<div><br></div><div>{{c1::<div>Physical/hardware</div><div>e.g. think of the paper buildings that architects like to make because they're not CATIA-pros.</div>::Phy...}}<br></div><div><br></div><div>{{c2::<div>Graphical</div><div>e.g. think of when you make a design in CATIA to check whether the actuator actually works and doesn't suddenly go through other objects.</div>::Gra...}}<br></div><div><br></div><div>{{c3::<div>Mathematical/software</div><div>e.g. think back to SVV.</div>::Ma...}}<br></div><div><br></div><div>{{c4::<div>Statistical</div><div>e.g. orbital debris simulation.</div>::Sta...}}<br></div>",
+                ""
+            ],
+            "guid": "d!XCdh+(d/",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Models can be validated by:<div><br>{{c1::Experience::Ex...}} with application of similar models in similar circumstances.<div><div><br><div>{{c2::Analysis::An...}} showing that the elements of the model are of necessity correct and are correctly integrated.</div><div><br></div><div>{{c3::Comparison::Com...}} with test casing in the form of independent models of proven validity or actual test data.</div></div></div></div>",
+                ""
+            ],
+            "guid": "IUqt[qRz<U",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Product validation</b> is the process of checking that you have designed the right thing to do the mission.<div>The focus is not so much on requirements, but on what needs to happen in practice.</div><div><br></div><div><br></div><div>Possible product validation techniques are:<br><br>{{c1::End-to-end information system::Info...}} testing:</div><div>{{c1::this shows the compatibility of project information systems, i.e. all the data flows to the correct places at the correct times.}}<div><br>{{c2::Mission scenario::Mis...}} tests:</div><div><div>certain scenarios that can be encountered in real life are simulated to demonstrate that the flight hardware and software can perform it, not taking into account the real timeline of the product.<br></div><div><br><div>{{c3::Operations readiness::Op...}} tests:</div><div>it is demonstrated that all elements of the ground segment can accomplish the mission plan using the real timeline.<br><br></div><div>{{c4::Stress::Str...}}-testing and simulation:</div><div>the system is subjected to unexpected conditions to show its robustness in performance and fault conditions.</div></div></div></div>",
+                ""
+            ],
+            "guid": "CUS[B9mje:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Planning verification and validation</b> consists of 7 steps:<div><br></div><div>1. Establish {{c1::objectives::obj...}}.</div><div><br>2. Establish the {{c2::concept::co...}} of how to {{c2::meet the objective::related to objective}}.</div><div><br>3. Determine the required {{c3::inputs::i...}} and {{c3::outputs::o...}}.</div><div><br>4. {{c4::Plan::P...}} the activity: how does the process look like; when is what needed and done?</div><div><br>5. {{c5::Document::Do...}} and {{c6::iterate::it...}}.</div><div><br>6. Execute the {{c7::verification::v...}} and {{c7::validation::v...}}.</div><div><br>7. Document the {{c8::result::re...}} and {{c8::process::pro...}}, and iterate if necessary.<br></div>",
+                ""
+            ],
+            "guid": "J1xp)RJ~NK",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        }
+    ]
+}
