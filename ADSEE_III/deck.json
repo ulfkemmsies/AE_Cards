@@ -52,16 +52,84 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "latex-019e9892786e493964e145e7c5cf7b700314e53b.png",
+        "latex-06745d2c4f918fab4df75b8873d2f1c0551332d4.png",
+        "latex-07cd1df8559fb2687accbe418559c916fc2fd376.png",
+        "latex-09298db74e20cebf72c02cd64588e2c98f298b8f.png",
+        "latex-0deae227477652ec7f5eff29ec5620d5b44ec45b.png",
+        "latex-0e9bb1427f1b34e3791d1cac88e8b1dfb17924fc.png",
+        "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
+        "latex-12d58aa29201da09d8e620f8698e3a37547f6b4a.png",
+        "latex-1cffde4d46625d2621eea2daada2a8b419310816.png",
+        "latex-2085deeff871b55a4f66b346329eefc9e3f1e447.png",
+        "latex-20e3198c9fdcddee85d150cacf06f2c87fa534c5.png",
+        "latex-268e948662bb574ba0eec3e9d2a7c1ed97830d0a.png",
+        "latex-2b55bec693f23e46534d5879fe4209e5b5b8b5ff.png",
+        "latex-2d295c3b71504a216422e5fffdfbad742c7add64.png",
+        "latex-2e7f425547b24e641c8007bb92e86b02931736ec.png",
+        "latex-37de08b99900b4afba0ff4371ce627dc939f4c53.png",
+        "latex-3aa315b4d53443d05cd09c16001045f0f472fe85.png",
+        "latex-3ec4909d5d6218dc48aabf7740243eb4abc082f1.png",
+        "latex-4482ff0c7f2cecb752ee44a0873aded620d56fc5.png",
+        "latex-45b6d12a4025e799e886f737493f51ea28eebef4.png",
+        "latex-45d1386fd135df774421ec609fe1f5e891850478.png",
+        "latex-4c043d81265e8f601f52af678c5b241e430e519d.png",
+        "latex-4cd875e0fbb8f87b150b3cc759135b0e27f1a670.png",
+        "latex-4fbfcc83b3bfda65729cec0ec5ac4490f6cb8231.png",
+        "latex-51e0810689c9eb424d5850e0d3b98c2e9b42db7d.png",
+        "latex-557823b268a4613fe238e0b93ba6c8d9c92f9f0e.png",
+        "latex-56be7728eb530baa8f33dbe35f45869ea56dd401.png",
+        "latex-5ac1e828d743f8f1a653fdc67dff535bbcc6ec77.png",
+        "latex-60c9e9f990b8f88f40d2dbfa201d327286810b65.png",
+        "latex-7461473d8b9625662d16795c4216fd5d1259cd3b.png",
+        "latex-77a0307e2fd351f4274c87751c49669a2ac2b1d3.png",
+        "latex-84fa7463afeda6e206359eda91ad81d75bc88ace.png",
+        "latex-867424b82dea06e558b601f3c67b47adac9c0cad.png",
+        "latex-8fbb42a43dd4575a762db33a8eb3372bc7e8da78.png",
+        "latex-9080a3d314e7a337b4692ad583c16521c7d01cfe.png",
+        "latex-92b8b1e8375998b7a45fc0ea9481d64686097ce9.png",
+        "latex-9ad99798ec4c38e165cf517cb9e02b1c9e824103.png",
+        "latex-9d9f635a49b989bad4a928d074a432f447a72e13.png",
+        "latex-9da36119c33efb4bf67b0eb14daf3ea3837862cd.png",
+        "latex-9ef464b747df7635e7b980c0ca5e5e0cebe8a1ac.png",
+        "latex-a6324bbdb833465a4f42a0729620ed4e75c33dba.png",
+        "latex-a9f0030715df3c501259ce8e0fefc0485d852d2e.png",
+        "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
+        "latex-b537ee57026ddffff698984ec8f3360f06fd5e7e.png",
+        "latex-b5d5132c2245640bbf0dffeca3955273d3d843cc.png",
+        "latex-c0a0eed6215f6f72e1d06e3253bda5cf48593a9b.png",
+        "latex-c110fcca8149531a8d303c7425d1740db9ec5bca.png",
+        "latex-c9ee96f6b3977d591df13f57db4bb9cdb37188b4.png",
+        "latex-cd78122f0ed9dcd17cd69ce31337419ff0e6ed11.png",
+        "latex-cde86e85d1c3a7170f4b1cfa7ea50710a0fcd96a.png",
+        "latex-ce4588fd900d02afcbd260bc07f54cce49a7dc4a.png",
+        "latex-d572e3d580f252dec4a94cf88a7eba5b0e934cb4.png",
+        "latex-d5eb8726a34932d28103ce7ce17456421222603f.png",
+        "latex-dc5843eb422441c2cc784c06113df290c773bac2.png",
+        "latex-dfb064112b6c94470339f6571f69d07afc1c024c.png",
+        "latex-e23b36607c8cfda6c64acd2519893abaf172fb13.png",
+        "latex-e4274c66d56e56489e4edbaccc6f9843b0f18f95.png",
+        "latex-e72120af661d414530f0057c68cd8c0402dad3f1.png",
+        "latex-e7f7651de793550e015135917f93426bb799e255.png",
+        "latex-f9eb89b1268b1e4fd25622e4e3cfbd748abe5826.png",
+        "latex-fd6565fa8c23e5373df570c785baed2f279c7f26.png",
         "paste-115c57f84e44638671cf0616283af6b13934b83c.jpg",
         "paste-2b34bb928d20c0c5b6fc25259cb6a38f1e97718c.jpg",
         "paste-566b97cc08240599bb33a2ccd12198fe5d4ac9f1.jpg",
         "paste-6bf535f5b41cdec4b0ce518cd3c590890f1f9790.jpg",
+        "paste-70812a2254d447702a422c63a4d474571b1bf354.jpg",
+        "paste-7535f04139f1f4812581eaee1ef2f01507c84844.jpg",
+        "paste-7f36283fa4f0900e3a2d0371aa546bd0d4968d25.jpg",
         "paste-895593d968d5927ba44c237edb6507b8c41cb390.jpg",
         "paste-8a1c8c4ce900d1e509cac7bfb3bcec2138b69362.jpg",
         "paste-aa0f1ea8d5eeb43709e2bb9d803b11e35e791c9f.jpg",
+        "paste-abcf96a3b0bf4bd42230c905043716bca37623a0.jpg",
         "paste-b59cae4828024c39b3ea34b28d609d88046f9376.jpg",
+        "paste-bd4d7c5fb46f944d0d951a826b2890821e66385e.jpg",
+        "paste-bd9fae20a8b7213c0ff04c7dea89a3c3d6ad8dd7.jpg",
         "paste-d5421690930c36ea4c6c6e3ac7eeeb91de070576.jpg",
         "paste-e7782046c01a498d8ca755f919e5bbebfbdf9155.jpg",
+        "paste-e7f42ca3047e43996f6a303895c80f362e3116b2.jpg",
         "paste-ff9c958a6bf1b301288d07b82fff8a50df275668.jpg"
     ],
     "name": "ADSEE III",
@@ -527,6 +595,286 @@
                 ""
             ],
             "guid": "J1xp)RJ~NK",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Class II weight estimation is used to find the weight of {{c1::component groups}} in a design, and allows the user to evaluate the sensitivity of the weight to a number of relevant {{c1::design parameters}}.",
+                ""
+            ],
+            "guid": "GYj[SnS@e)",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the Class II estimation of the <b>weight of a wing</b>:<br>[$]W_{\\text {wing }}=0.0051\\left(W_{d g} N_{z}\\right)^{0.557} S_{w}^{0.649} A^{0.5}(t / c)_{\\text {root }}^{-0.4}(1+\\lambda)^{0.1} \\cdot(\\cos \\Lambda)^{-1.0} S_{c s w}^{0.1}[/$]<br><div><br></div><div><br></div><div>[$]W_{dg}[/$] is the {{c4::design gross weight}}<br></div><div><br></div><div>[$]N_z[/$] is the {{c5::ultimate load factor, or&nbsp;[$]1.5 \\cdot n_{max}[/$], where&nbsp;[$]n_{max}[/$] is the maximum design load factor}}<br></div><div><br></div><div>[$]S_w[/$] is the {{c6::wing surface}}<br></div><div><br></div><div>[$]A[/$] is the wing {{c7::</div><div>aspect ratio<br></div><div>Increasing the aspect ratio (with constant wing surface) increases the wing weight because {{c1::it 'thins' out the wing, making it have a higher wing span. This increases the bending load thus increasing the required structural integrity.}}</div>}}<div><br></div><div>[$](t/c)_{root}[/$] is the {{c9::</div><div>thickness ratio at the root<br></div><div>Thicker airfoils decrease the wing weight because {{c8::the structure will be reinforced in bending, leading to less structural mass being needed.}}</div>}}<div><br></div><div>[$]\\lambda[/$] is the {{c10::</div><div>taper ratio<br></div><div>A higher taper ratio increases the wing weight because {{c2::the wing tip will have an increased chord, which increases the loading near the wing tip, increasing the bending load, and hence increasing the require structural strength and weight.}}</div>}}<div><br></div><div>[$]\\Lambda[/$] is the {{c11::</div><div>sweep ratio<br></div><div>Higher sweep ratios increase wing weight because {{c3::of the added torsional forces, requiring a stronger and heavier structure.}}</div>}}<div><br></div><div>[$]S_{csw}[/$] is the {{c12::control surface area}}<br></div>",
+                ""
+            ],
+            "guid": "hx7&bxC0gZ",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The definition of the {{c3::load factor}} is:<div><br></div><div>[$]n = {{c1::[/$]&nbsp;[$]\\frac{L}{W}[/$]}}&nbsp;[$]=[/$]&nbsp;{{c2::[$]\\frac{q \\cdot C_L}{W/S}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "vc,1P*tFJN",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In the given <b>maneuver load diagram</b>:</div><img src=\"paste-70812a2254d447702a422c63a4d474571b1bf354.jpg\"><div><br></div><div>The line connecting points A and D is the {{c1::maximum prescribed load factor&nbsp;[$]n_{max}[/$]}}</div><div><br></div><div>The line connecting points H and F is the {{c1::minimum prescribed load factor&nbsp;[$]n_{min}[/$]}}</div><div>{{c1::The value of&nbsp;[$]n_{min}[/$] is typically smaller than&nbsp;[$]m_{max}[/$] because {{c2::load factors smaller than -1 mean you are barreling down at the Earth (not good).}}}}</div><div><br></div><div>[$]V_S[/$] is the {{c3::stall velocity}}<br></div><div>The load factor here is 1 because {{c4::you fly at&nbsp;[$]{C_L}_{max}[/$] and lift equals weight.}}</div><div><br></div><div>[$]V_A[/$] is the {{c5::minimum speed at which you can reach&nbsp;[$]n_{max}[/$]}} and is called {{c5::the maneuver speed}}<br></div><div><br></div><div>[$]V_D[/$] is the {{c6::maximum speed that can be reached}}, and is called {{c6::the dive speed}}.<br></div><div><br></div><div>The line between the origin and points A and H is curved because {{c7::of the quadratic relationship between speed and the load factor (see equation in the figure).}}</div>",
+                ""
+            ],
+            "guid": "sB(,z#[W6a",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>When performing&nbsp;<b>gust load diagram </b>calculations:</div><div><br></div><div>When a gust with velocity [$]v[/$] in the direction of the airflow (which has velocity&nbsp;[$]V[/$]) and a velocity&nbsp;[$]u[/$] in a direction perpendicular to the airflow (upwards), the angle of attack&nbsp;[$]\\alpha[/$] is increased by:</div><div><br></div><div>[$]\\Delta \\alpha = [/$]&nbsp;{{c1::[$]\\arctan{\\frac{u}{V+v} } \\approx \\frac{u}{V}[/$]}}<br></div>",
+                "This is assuming&nbsp;[$]v&lt;&lt;V[/$] and using the small-angle approximation."
+            ],
+            "guid": "CO=`9kRk.F",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When performing <b>gust load diagram</b> calculations:<div><br></div><div>For an angle of attack increase&nbsp;[$]\\Delta \\alpha = \\frac{u}{V}[/$] from a gust with upwards velocity&nbsp;[$]u[/$],</div><div><br></div><div>the increase in lift&nbsp;[$]\\Delta L[/$] is</div><div>{{c1::[$]\\frac{1}{2} \\rho V^{2} S C_{L_{\\alpha} } \\Delta \\alpha=\\frac{1}{2} \\rho V S C_{L_{\\alpha} } u[/$]}}</div>",
+                ""
+            ],
+            "guid": "k/5LH.z]}r",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the given gust load diagram:<div><img src=\"paste-e7f42ca3047e43996f6a303895c80f362e3116b2.jpg\"><br></div><div><br></div><div>[$]V_B[/$] is the speed of {{c1::highest possible angle of attack}}<br></div><div><br></div><div>[$]V_C[/$] is the speed of {{c2::cruise}}<br></div><div><br></div><div>[$]V_D[/$] is the speed of {{c3::dive}}<br></div>",
+                ""
+            ],
+            "guid": "uDQ*Bc:ohg",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For <b>wind gust diagram calculations</b>, the change in load factor can be calculated using<div>[$]\\Delta n =[/$] {{c3::[$]\\frac{\\rho V C_{L_{\\alpha}} u}{2(W / S)}[/$]}}</div><div><br><div>where&nbsp;[$]u = K\\cdot \\hat{u}[/$]</div><div><br></div><div>[$]K[/$] is {{c1::a correctional factor depending on the speed regime}}<br></div><div>[$]\\hat{u}[/$] is {{c2::the gust speed specified by the CS}}<br></div></div>",
+                ""
+            ],
+            "guid": "o5&*>e&+[i",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The procedure for balancing an aircraft (within the scope of SEAD) is:</div><div><br></div>1. Determine the {{c1::center of gravity}} of the aircraft at {{c2::operative empty}} weight for the assumed {{c3::tail}} size&nbsp;and {{c3::longitudinal wing}} position.<div><br>2. Add the c.g. variations caused by non-fixed items, such as {{c4::payload}} and {{c4::fuel}}. This results in {{c5::loading}} diagrams.</div><div><br>3. Check the maximum {{c7::c.g. range}} against the allowable most {{c7::aft}} and {{c7::forward}} c.g. position, which results in the {{c6::scissor}} plot.</div><div><br>4. If necessary, the tail size and longitudinal wing position are adjusted, and iteration from point 1 occurs.</div>",
+                ""
+            ],
+            "guid": "toJr6%J!@}",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If the OEW c.g. is unknown, but the wing and fuselage group c.g.s are, the OEW c.g. can be computed using:<div><br></div><div>{{c1::[$]x_{c . g . O E W}=\\frac{x_{c . g_{\\text {wing }}} \\cdot W_{\\text {wing }}+x_{c . g . \\text { fuselage }} \\cdot W_{\\text {fuselage }}}{W_{\\text {wing }}+W_{\\text {fuselage }}}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "Mx]eaYPmx1",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In c.g. calculations, the wing group consists of all components that {{c1::move along with the wing.}}",
+                "This includes the wing structure, control surfaces, wing mounted engines, fuel (if it is stored in the wing), and the main landing gear."
+            ],
+            "guid": "uD82_z:%ZA",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To obtain small {{c2::tail loads,}} the center of gravity is always located close to the {{c1::wing aerodynamic center}}, so that the moment arm of the weight is small.",
+                ""
+            ],
+            "guid": "rK#n49m71n",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When adding an item to the aircraft, the new c.g. can be calculated with:<div><br></div><div>[$]x_{c . g_{\\text {new }}}=[/$] {{c1::[$]\\frac{W_{\\text {old }} \\cdot x_{c . g \\cdot o l d}+W_{\\text {item }} \\cdot x_{c . g \\cdot \\text { tiem }}}{W_{\\text {old }}+W_{\\text {item }}}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "Nn*n&Ms5_0",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In the given loading (potato) diagram:</div><img src=\"paste-abcf96a3b0bf4bd42230c905043716bca37623a0.jpg\"><div>The black bars touching the most forward and aft c.g. positions indicate the {{c1::2}}% safety margin to account for {{c2::passengers moving, the landing gear retracting, etc}}.</div>",
+                ""
+            ],
+            "guid": "rf_an$}3rx",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "On the ground, there are some <b>loading requirements</b> which must be fulfilled:<div><br></div><div>The {{c1::main gear}} must always sit {{c2::behind::ahead of/behind}} the {{c3::maximum aft c.g. position}}.</div><div>Otherwise you tip back.</div><div><br></div><div>The nose gear should not be overloaded.</div><div>It should carry less than {{c4::15}}% of the MTOW, to not {{c7::spoil the braking efficiency}} and to {{c8::allow for steering during breaking}}.</div><div>However, it also shouldn't be too little (more than {{c5::8}}% is required), to prevent {{c6::the nose wheel from providing little directional control}}.<br></div>",
+                ""
+            ],
+            "guid": "ro!8D)G_?&",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If needed, the wing can be shifted front and back to move the c.g. in certain ways relative to the mean aerodynamic center.<br><div><br></div><div>If the wing is shifted forward:</div><div>relative to the mean aerodynamic center, the c.g. will shift {{c1::backward}}, as the fuselage moves {{c1::backwards}} relative to the wing.</div><div><br></div><div><div>If the wing is shifted backward:</div><div>relative to the mean aerodynamic center, the c.g. will shift {{c1::forward}}, as the fuselage moves {{c1::forward}} relative to the wing.</div></div><div><br></div>",
+                "<img src=\"paste-7f36283fa4f0900e3a2d0371aa546bd0d4968d25.jpg\">"
+            ],
+            "guid": "Mlcb_sNPw_",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There are <b>three</b> stability and control requirements:<div><br>- Ensure equilibrium of {{c1::moments}} in steady flight. This is the {{c2::trim}} condition.<br>- Ensure {{c3::stability}} around this state of equilibrium. That is, a {{c4::disturbance}} is restored.<br>- Generate forces for {{c5::manoeuvring, i.e. control.}}</div>",
+                ""
+            ],
+            "guid": "p_<vB%<m@R",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stability and control in aircraft are {{c1::inversely}} correlated.",
+                ""
+            ],
+            "guid": "H%qrNUf{6z",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The aircraft c.g. must always stay {{c2::in front of::in front of/behind}} the neutral point.<div><br></div><div>The neutral point is the point {{c1::...through which the resultant change in lift acts when the angle of attack is changed.}}</div><div><br></div><div><br></div>",
+                "Then if the angle of attack, the resultant change in lift will act through the neutral point and cause an nose-down moment, decreasing the angle of attack again. Thus, the aircraft is stable, etc. Note that this means that [$]C_{m_{\\alpha}}[/$] should be negative as well."
+            ],
+            "guid": "h{Jl5IL0+^",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-7535f04139f1f4812581eaee1ef2f01507c84844.jpg\"><br></div>Let's analyse the above situation in a bit more detail. Suppose we experience a <b>change in angle of attack</b>.<div>Let's then compute the <b>change in moment around the</b> <b>neutral point</b>.</div><div>By definition of the <b>neutral point</b>, the change in moment around it should be <b>zero</b>, as the neutral point is the point through which the resultant change in lift force acts.</div><div><br></div><div>Thus, we must have</div><div><br></div><div>{{c1::[$]\\Delta L_{A-h}\\left(\\bar{x}_{n p}-\\bar{x}_{a c}\\right)-\\Delta L_{h}\\left(\\bar{x}_{h}-\\bar{x}_{n p}\\right)=0[/$]::relating [$]\\Delta L_{A-h}[/$] and [$]\\Delta L_{h}[/$]}}</div><div><br></div><div>where</div><div><br></div><div>[$]\\Delta L_{A-h}=[/$] {{c2::[$]C_{L_{\\alpha_{A-h} } } \\Delta \\alpha \\frac{1}{2} \\rho V^{2} S[/$]::in terms of [$]\\Delta \\alpha[/$]}}</div><div><br></div><div>and</div><div><br></div><div>[$]\\Delta L_{h}=[/$] {{c3::[$]C_{L_{\\alpha_{h} } }(\\Delta \\alpha-\\Delta \\epsilon) \\frac{1}{2} \\rho V_{h}^{2} S_{h}[/$]::in terms of [$]\\Delta \\alpha[/$] }}</div>",
+                ""
+            ],
+            "guid": "H6D=.qskC7",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The bar on top of&nbsp;[$]\\bar{x}_{c . g .}[/$] indicates that {{c1::it has been divided by&nbsp;[$]\\hat{c}[/$]}}.",
+                ""
+            ],
+            "guid": "D|I+=p$_k6",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The center of gravity must lie {{c2::ahead}} of the neutral point. This means that there is a {{c4::stability margin}} between them (usually taken as {{c3::5}}%) and this relation is expressed as:<div><br></div><div>{{c1::[$]\\bar{x}_{c . g .}=\\bar{x}_{n p}-S M[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "Rdhjph3nEB",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In order to get the {{c5::longitudinal stability}} curve for the scissor plot (used to {{c4::size the horizontal tail}}), we rewrite our expressions for<div><br><div>the {{c1::zero change in moment around the neutral point}}</div><div><br></div><div>and</div><div><br></div><div>the {{c2::stability margin distance between the center of gravity and the neutral point}}</div><div><br></div><div>as a function of&nbsp;{{c3::[$]\\frac{S_{h}}{S}[/$]}}</div></div>",
+                "<img src=\"paste-bd4d7c5fb46f944d0d951a826b2890821e66385e.jpg\">"
+            ],
+            "guid": "Kxz)yL:FOw",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There are two things we can do to make the aircraft <b>more stable</b>:<div><img src=\"paste-bd4d7c5fb46f944d0d951a826b2890821e66385e.jpg\"><br><div>Shift {{c2::the graph to the right}}, which can be achieved by moving {{c3::[$]\\bar{x}_{a c}[/$] back}}</div><div><br></div><div>Decrease {{c1::the slope of the curve}}</div></div>",
+                ""
+            ],
+            "guid": "c<YDwtu`iX",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When trying to move&nbsp;[$]\\bar{x}_{a c}[/$] backwards in order to increase stability, there are several contributions to take into account:<div><br></div><div>- The main {{c1::wing}} aerodynamic center, which depends on the {{c2::speed}}: it moves {{c3::forward}} with increasing {{c2::speed}}.</div><div><br>- The <b>fuselage</b> has two corrective terms:</div><div><br></div><div>The nose is destabilising: the nose essentially also acts as airfoil.</div><div>Thus, if the {{c4::angle of attack}} is {{c5::increased}}, more {{c6::lift}} will be produced at the nose, and thus an additional {{c7::pitch up moment}} is created, thus destabilising the whole happening.</div><div><br></div><div>The lift loss at the {{c8::wing-fuselage crossing}} is {{c9::stabilising::stabilizing/destabilizing}}, as it means less lift is generated at the wing (which generates a {{c10::pitch-up moment}} around the {{c11::neutral point}}).</div><div><br>- The <b>engine nacelles</b> have a (de)stablizing effect, depending on the configuration:</div><div><br></div><div>If they are {{c13::wing}}-mounted, they are {{c12::destablising::stabilising/destabilising}}, as the nacelles also effectively generate lift {{c15::in front of::in front of/behind}} the neutral point, causing a pitch-up attitude.</div><div><br></div><div>If they are {{c14::fuselage}}-mounted, they are {{c12::stablising::stabilising/destabilising}}, as they essentially create a lift {{c16::behind::in front of/behind}} of the neutral point.</div>",
+                "<img src=\"paste-7535f04139f1f4812581eaee1ef2f01507c84844.jpg\">"
+            ],
+            "guid": "DPc.>7v.:?",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To increase the longitudinal stability, we can decrease the gradient of the curve. As apparent from the fraction in front of [$]\\bar{x}_{c . g .}[/$] in the equation:<div><br></div><div>[$]\\frac{S_{h}}{S}=\\frac{1}{\\frac{C_{L_{\\alpha_{h}}}}{C_{L_{\\alpha_{A-h}}}}\\left(1-\\frac{d \\epsilon}{d \\alpha}\\right) \\frac{l_{h}}{\\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}} \\bar{x}_{c . g .}-\\frac{\\bar{x}_{a c}-0.05}{\\frac{C_{L_{\\alpha_{h}}}}{C_{L_{\\alpha_{A-h}}}}\\left(1-\\frac{d \\epsilon}{d \\alpha}\\right) \\frac{l_{h}}{\\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}}[/$]<br></div><div><br></div><div>we see that the following parameters affect the slope of the graph:<div><br></div><div>- [$]V_{h} / V[/$]: the higher, the {{c1::more::more/less}}&nbsp;stable.<br>- [$]C_{L_{\\alpha_{h}}}[/$]: the higher, the {{c2::more::more/less}} stable.</div><div>- [$]C_{L_{\\alpha_{A-h}}}[/$]: the higher, the {{c3::less::more/less}} stable.</div><div>- [$]l_{h}[/$]: the higher, the higher, the {{c4::more::more/less}} stable.</div><div>- [$]d \\epsilon / d \\alpha[/$]: the higher, the {{c5::less::more/less}} stable.</div></div>",
+                ""
+            ],
+            "guid": "h<{P>4iPsW",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>With the given image:</div><img src=\"paste-bd9fae20a8b7213c0ff04c7dea89a3c3d6ad8dd7.jpg\"><div><br></div><div>In the subsonic speed regime, {{c3::increasing::increasing/decreasing}} M also moves the neutral point {{c2::forward}} because of the {{c4::decreasing magnitude of&nbsp;[$]C_{m_{\\alpha}}[/$]}}.</div><div><br></div><div>At M=0.8, we enter the transonic speed regime, and {{c5::shockwaves}} begin to appear over the wing, significantly decreasing the {{c6::lift production}} over it, resulting in {{c8::less::more/less}} {{c7::downwash}} at the tail. This is why the [$]C_{m_{\\alpha}}[/$] increases in magnitude again, and the aircraft is said to 'tuck under'.</div><div><br></div><div>Aircraft flying at high subsonic regimes have a Mach trimmer, which modifies the {{c9::horizontal tail}} setting (the {{c10::angle of attack}} of it) accordingly to the speed, such that it does not produce too much {{c1::lift}} suddenly.<br></div>",
+                ""
+            ],
+            "guid": "ou{o+)ba6e",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why do we have a 5% stability margin?<div><br></div><div>Well, first, there are also other {{c2::neutral points}}, e.g. when you're flying stick-free, which also need to be stable, obviously.</div><div><br></div><div>Furthermore, there's a minimum {{c1::control force (or feel)}} required, as stipulated by CS requirements:</div><div>if the c.g. is very aft, the stability becomes less, but the controllability becomes very good:</div><div>this means that only very little force is required to manoeuvre the aircraft.</div><div><br></div><div>This is not really desired: you don't want it to happen that when you accidentally shift the stick slightly, you're immediately causing the aircraft to crash and that everybody dies.</div>",
+                ""
+            ],
+            "guid": "ChA=TJRC/F",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         }
