@@ -55,11 +55,13 @@
         "latex-019e9892786e493964e145e7c5cf7b700314e53b.png",
         "latex-06745d2c4f918fab4df75b8873d2f1c0551332d4.png",
         "latex-07cd1df8559fb2687accbe418559c916fc2fd376.png",
+        "latex-0832378bf5480001cfacd20aff5cb51af38f2aff.png",
         "latex-09298db74e20cebf72c02cd64588e2c98f298b8f.png",
         "latex-0deae227477652ec7f5eff29ec5620d5b44ec45b.png",
         "latex-0e9bb1427f1b34e3791d1cac88e8b1dfb17924fc.png",
         "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
         "latex-12d58aa29201da09d8e620f8698e3a37547f6b4a.png",
+        "latex-1603d89d7b78afaa99eab7aa638f59cc0a26ccc5.png",
         "latex-1cffde4d46625d2621eea2daada2a8b419310816.png",
         "latex-2085deeff871b55a4f66b346329eefc9e3f1e447.png",
         "latex-20e3198c9fdcddee85d150cacf06f2c87fa534c5.png",
@@ -69,7 +71,10 @@
         "latex-2e7f425547b24e641c8007bb92e86b02931736ec.png",
         "latex-37de08b99900b4afba0ff4371ce627dc939f4c53.png",
         "latex-3aa315b4d53443d05cd09c16001045f0f472fe85.png",
+        "latex-3ae9993db3288905534cb64fccf8247886b3eb41.png",
+        "latex-3eb37f84444812fb4f30e3b8634d39fc2ab0f89b.png",
         "latex-3ec4909d5d6218dc48aabf7740243eb4abc082f1.png",
+        "latex-3f4d9572b55c67c6aa1b7ee53c8e902e17232663.png",
         "latex-4482ff0c7f2cecb752ee44a0873aded620d56fc5.png",
         "latex-45b6d12a4025e799e886f737493f51ea28eebef4.png",
         "latex-45d1386fd135df774421ec609fe1f5e891850478.png",
@@ -77,52 +82,79 @@
         "latex-4cd875e0fbb8f87b150b3cc759135b0e27f1a670.png",
         "latex-4fbfcc83b3bfda65729cec0ec5ac4490f6cb8231.png",
         "latex-51e0810689c9eb424d5850e0d3b98c2e9b42db7d.png",
+        "latex-538a39580f33f34281aa11f0cf7422ecb848502e.png",
         "latex-557823b268a4613fe238e0b93ba6c8d9c92f9f0e.png",
         "latex-56be7728eb530baa8f33dbe35f45869ea56dd401.png",
         "latex-5ac1e828d743f8f1a653fdc67dff535bbcc6ec77.png",
         "latex-60c9e9f990b8f88f40d2dbfa201d327286810b65.png",
+        "latex-64e4485ffece0b40fa9c9a3cdcc1e2a1f3ae02db.png",
+        "latex-6c9f8f53a6450b52f5480ec589facb352d08efa5.png",
+        "latex-7089b941587d4f57fde8bb6febc8fbb10808511e.png",
         "latex-7461473d8b9625662d16795c4216fd5d1259cd3b.png",
         "latex-77a0307e2fd351f4274c87751c49669a2ac2b1d3.png",
+        "latex-7d21ce57a572874699c513d55935af3e475ddd7b.png",
         "latex-84fa7463afeda6e206359eda91ad81d75bc88ace.png",
+        "latex-85ec8e98de38179fb503a4f6e4a8d03f2076e2b8.png",
         "latex-867424b82dea06e558b601f3c67b47adac9c0cad.png",
+        "latex-8c325612684d41304b9751c175df7bcc0f61f64f.png",
         "latex-8fbb42a43dd4575a762db33a8eb3372bc7e8da78.png",
         "latex-9080a3d314e7a337b4692ad583c16521c7d01cfe.png",
+        "latex-922331ac5cd171f234306e9cae55097bfe2bdbbd.png",
         "latex-92b8b1e8375998b7a45fc0ea9481d64686097ce9.png",
+        "latex-94a4d7147ab455a34c7320bc7a04e5fb5b949002.png",
         "latex-9ad99798ec4c38e165cf517cb9e02b1c9e824103.png",
         "latex-9d9f635a49b989bad4a928d074a432f447a72e13.png",
         "latex-9da36119c33efb4bf67b0eb14daf3ea3837862cd.png",
         "latex-9ef464b747df7635e7b980c0ca5e5e0cebe8a1ac.png",
+        "latex-9f823a2fd25e1490fac64501212d5a77baba2005.png",
         "latex-a6324bbdb833465a4f42a0729620ed4e75c33dba.png",
+        "latex-a8b5a3f6ddbea48d15842b3dcf3f3eb9ba08b4bb.png",
         "latex-a9f0030715df3c501259ce8e0fefc0485d852d2e.png",
         "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
         "latex-b537ee57026ddffff698984ec8f3360f06fd5e7e.png",
         "latex-b5d5132c2245640bbf0dffeca3955273d3d843cc.png",
+        "latex-b7204612c85cb356beb98d0f66dbab118432608f.png",
         "latex-c0a0eed6215f6f72e1d06e3253bda5cf48593a9b.png",
         "latex-c110fcca8149531a8d303c7425d1740db9ec5bca.png",
         "latex-c9ee96f6b3977d591df13f57db4bb9cdb37188b4.png",
         "latex-cd78122f0ed9dcd17cd69ce31337419ff0e6ed11.png",
         "latex-cde86e85d1c3a7170f4b1cfa7ea50710a0fcd96a.png",
         "latex-ce4588fd900d02afcbd260bc07f54cce49a7dc4a.png",
+        "latex-d38642f968074109480860c262e4f83a82ac8cf4.png",
         "latex-d572e3d580f252dec4a94cf88a7eba5b0e934cb4.png",
         "latex-d5eb8726a34932d28103ce7ce17456421222603f.png",
+        "latex-da8f35db98eb78d284c8d84073e297c72967f28a.png",
         "latex-dc5843eb422441c2cc784c06113df290c773bac2.png",
         "latex-dfb064112b6c94470339f6571f69d07afc1c024c.png",
         "latex-e23b36607c8cfda6c64acd2519893abaf172fb13.png",
         "latex-e4274c66d56e56489e4edbaccc6f9843b0f18f95.png",
+        "latex-e71455fde4a040d5f1ce5cb242d2e6b03fa60193.png",
         "latex-e72120af661d414530f0057c68cd8c0402dad3f1.png",
         "latex-e7f7651de793550e015135917f93426bb799e255.png",
+        "latex-e8f8e86199e2ce66442124f9c4526e4e7de26800.png",
+        "latex-edf07d22552ba8c31e43c0dc7035c85e412a3f86.png",
+        "latex-ee088d0b049ad1f58b7bbf65f2a5221b772c767a.png",
+        "latex-f43b90c8e8bf7b003d3b975f9db643711708d83a.png",
+        "latex-f65105ee673584c215efdbe82257f8c03baa796a.png",
+        "latex-f84746367c15ab36ac3c2ecc02332a6090d2aa4c.png",
         "latex-f9eb89b1268b1e4fd25622e4e3cfbd748abe5826.png",
         "latex-fd6565fa8c23e5373df570c785baed2f279c7f26.png",
         "paste-115c57f84e44638671cf0616283af6b13934b83c.jpg",
+        "paste-20d814e5b8f19a3147af14499e9330823a73fede.jpg",
+        "paste-29f1e1bf6ff3654decbcb2859635ea01d0ac6003.jpg",
         "paste-2b34bb928d20c0c5b6fc25259cb6a38f1e97718c.jpg",
+        "paste-2cb1656e1596d5b4cc9222ee10e47c8e014cd33c.jpg",
+        "paste-544edb395a573d531c69a9c3fc47ea5252cf541b.jpg",
         "paste-566b97cc08240599bb33a2ccd12198fe5d4ac9f1.jpg",
         "paste-6bf535f5b41cdec4b0ce518cd3c590890f1f9790.jpg",
         "paste-70812a2254d447702a422c63a4d474571b1bf354.jpg",
         "paste-7535f04139f1f4812581eaee1ef2f01507c84844.jpg",
         "paste-7f36283fa4f0900e3a2d0371aa546bd0d4968d25.jpg",
+        "paste-83f07d2ffa0fca34dcada26f3a88e09bb6f24789.jpg",
         "paste-895593d968d5927ba44c237edb6507b8c41cb390.jpg",
         "paste-8a1c8c4ce900d1e509cac7bfb3bcec2138b69362.jpg",
         "paste-aa0f1ea8d5eeb43709e2bb9d803b11e35e791c9f.jpg",
+        "paste-aa451dcc854fec39953c4f4ae7a23421f53fd918.jpg",
         "paste-abcf96a3b0bf4bd42230c905043716bca37623a0.jpg",
         "paste-b59cae4828024c39b3ea34b28d609d88046f9376.jpg",
         "paste-bd4d7c5fb46f944d0d951a826b2890821e66385e.jpg",
@@ -875,6 +907,106 @@
                 ""
             ],
             "guid": "ChA=TJRC/F",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The aircraft is {{c1::trimmed}} when the {{c2::moment coefficient}} around the {{c3::center of gravity}} equals {{c4::zero}}.",
+                ""
+            ],
+            "guid": "vJ/F<FOr?i",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>When using the following diagram to derive the moment trimming equation:</div><img src=\"paste-2cb1656e1596d5b4cc9222ee10e47c8e014cd33c.jpg\"><div><br></div><div>We convert&nbsp;[$]C_{L_{A-h}}[/$] to&nbsp;[$]C_{L_{h}}[/$] using</div><div><br></div><div>[$]C_{L_{A-h}}=[/$]&nbsp;{{c1::[$]C_{L_{h} } \\cdot \\frac{S_h}{S} \\cdot \\left( \\frac{V_h}{V} \\right) ^2[/$]}}</div>",
+                "The trim moment equation is:<div><br></div><div>[$]C_{m}=C_{m_{a c}}+C_{L_{A-h}} \\frac{x_{c g}-x_{a c}}{\\bar{c}}-\\frac{C_{L_{h}} S_{h} l_{h}}{S \\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}[/$]<br></div>"
+            ],
+            "guid": "GuK-)g!|&+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When an aircraft is trimmed, we must satisfy the equation:<div><br>[$]C_{m_{a c}}+C_{L_{A-h}} \\frac{x_{c g}-x_{a c}}{\\bar{c}}=\\frac{C_{L_{h}} S_{h} l_{h}}{S \\bar{c}} \\left(\\frac{V_{h}}{V}\\right)^{2}[/$]<br><br></div><div>The pilot can only change {{c1::[$]C_{L_{h} }[/$]} }, by deflecting the {{c2::elevator}}.</div>",
+                ""
+            ],
+            "guid": "L]/OrMQY=I",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In the following image, and using</div><div>[$]{C_{m}}_{cg}=C_{m_{a c}}+C_{L_{A-h}} \\frac{x_{c g}-x_{a c}}{\\bar{c}}-\\frac{C_{L_{h}} S_{h} l_{h}}{S \\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}[/$]:</div><div><img src=\"paste-aa451dcc854fec39953c4f4ae7a23421f53fd918.jpg\"><br></div><div>[$]{C_m}_{cg} = {C_L}_{h}[/$] in the horizontal axis because we assume a tail volume of 1 and a speed ratio of 1, and so they take the same value (even though the c.g. moment coefficient was assumed to be zero for the trim condition)</div><div><br></div><div>The bottom of the triangles corresponds to the position of&nbsp;{{c1::[$]{C_m}_{ac}[/$]}}, while the two sides of the triangles correspond the most extreme {{c2::center of gravity}} positions for growing&nbsp;{{c3::[$]{C_L}_{A-h}[/$]}}.</div><div><br></div><div>For the take-off configuration (with the slats out), [$]C_{m_{a c}}[/$] has become more negative (the triangle has shifted to the left) because:</div><div>High-lift-devices create {{c4::more lift towards the trailing edge of the wing}}, and thus create a {{c4::negative moment (nose-down) around the aerodynamic center}}.</div>",
+                ""
+            ],
+            "guid": "oRRMZJ=vH?",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The trim drag is given by:<div><br></div><div>[$]D_{\\text {trim }}=[/$] {{c1::[$]\\frac{1}{2} \\rho {V_h}^{2} S_{h} k C_{L_{h} }^{2}[/$]}}<br></div><div><br></div><div>with</div><div><br></div><div>[$]k=\\frac{1}{\\pi A_{h} e}[/$]<br></div><div><br></div><div>The zero-lift drag coefficient of the tail {{c2::is not::is/is not}} considered part of the trim drag.</div><div>{{c2::It is included in the total aircraft [$]C_{D_{0}}[/$]}}<br></div><div><br></div><div>If the trim drag becomes too large (more than {{c3::10}}% of total aircraft drag), the overall design should be reconsidered, aiming reducing the tail lift coefficient.</div><div><br></div><div>The following options could be considered:<br></div><div><br></div><div>Move the c.g. {{c5::closer to::closer to/further from}} the neutral point.</div><div>{{c5::If the c.g. is very far in front of the neutral point, then it creates a very large moment arm around the neutral point. Thus, to create a pitch up moment, the tail needs to create a very large tail force. By moving the c.g. closer to the neutral point, the moment arm of the weight is reduced and thus a less significant tail lift is required.}}</div><div><br></div><div>Increase the {{c6::tail volume coefficient}}: this helps as it {{c7::makes the tail more effective, and also shifts the c.g. aft}}.</div><div><br></div><div>Increase the {{c8::lift gradient}} of the tail, by increasing the aspect ratio [$]A_{h}[/$], which decreases [$]k[/$].<br></div>",
+                ""
+            ],
+            "guid": "flUy)i177i",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The result of fulfilling the trim condition (that the moment coefficient around the center of gravity equal zero) is:</div><div>[$]C_{m_{a c}}+C_{L_{A-h}} \\frac{x_{c g}-x_{a c}}{\\bar{c}}=\\frac{C_{L_{h}} S_{h} l_{h}}{S \\bar{c}} \\left(\\frac{V_{h}}{V}\\right)^{2}[/$]<br></div><div><br></div><div>This can be re-written to an expression for the horizontal tail size as a function of the center of gravity:</div><div><br></div>[$]\\frac{S_{h}}{S}=\\frac{1}{\\frac{C_{L_{h}}}{C_{L_{A-h}}} \\frac{l_{h}}{\\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}} \\bar{x}_{c g}+\\frac{\\frac{C_{m_{a c}}}{C_{L_{A-h}}}-\\bar{x}_{a c}}{\\frac{C_{L_{h}}}{C_{L_{A-h}}} \\frac{l_{h}}{\\bar{c}}\\left(\\frac{V_{h}}{V}\\right)^{2}}[/$]<div><br></div><div>And plotted as:<br><div><br></div><div><img src=\"paste-29f1e1bf6ff3654decbcb2859635ea01d0ac6003.jpg\"><br></div></div><div><br></div><div>If [$]x_{c g}[/$] is to the {{c1::right::right/left}} of the curve, the aircraft is controllable!</div><div>If it shifts to the {{c1::left::right/left}} of it, the aircraft becomes uncontrollable, as a too large a {{c2::[$]C_{L_{h}}[/$]}} would be required to satisfy the first equation.<br></div><div><br></div><div>The above plot needs to be constructed based on the critical condition of {{c3::landing}} configuration, with full flaps out, and minimal speed (different from the stability curve, which based on {{c3::cruise}} usually).<br></div><div><br></div><div>It is beneficial to make this curve as flat as possible and to shift it to the left. This can be done by:</div><div><br></div><div>{{c4::Increasing::Increasing/Decreasing}} the maximum allowed value of&nbsp;[$]{C_L}_h[/$]</div><div>{{c5::Increasing::Increasing/Decreasing}} [$]l_h[/$]</div><div>{{c6::Increasing::Increasing/Decreasing}} the tail/wing speed ratio</div>",
+                ""
+            ],
+            "guid": "O=$?]8W)>O",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-20d814e5b8f19a3147af14499e9330823a73fede.jpg\"><div><br></div><div>Since the starting point of both the control and stability curves are related to the a.c. position, the only parameter that can be changed to improve controllability without hurting stability is&nbsp;{{c1::[$]{C_m}_{ac}[/$]}}</div><div><br></div><div>To complete the sizing of the horizontal tail, we must select the smallest value of&nbsp;{{c2::[$]\\frac{S_h}{S}[/$]}} where the {{c3::c.g. range (from the loading diagram)}} fits within the {{c4::two curves}}.</div>",
+                ""
+            ],
+            "guid": "sz)@[Q=[yH",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c2::c.g. range}} in a scissor plot can be shifted by moving the {{c1::wing}} longitudinally.",
+                ""
+            ],
+            "guid": "hhJ?[L;2)M",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When canards are used, the changes in the moments are:<div><img src=\"paste-544edb395a573d531c69a9c3fc47ea5252cf541b.jpg\"><br></div><div><br></div><div>The canard must produce {{c3::positive::positive\\negative}} lift, as the neutral point will be {{c2::between the wing and the canard}}.</div><div><br></div><div>Thus, [$]C_{L_{h}}[/$] is {{c4::positive::positive/negative}}.</div><div><br></div><div>[$]l_{h}[/$] is {{c1::negative::positive/negative}}.</div><div><br></div><div>This all means that:</div><div><br></div><div>The slope of the stability curve is {{c5::negative::positive/negative}}.</div><div><br></div><div>The slope of the controllability curve is {{c6::negative::positive/negative}}.</div><div><br></div><div><br></div>",
+                "<img src=\"paste-83f07d2ffa0fca34dcada26f3a88e09bb6f24789.jpg\">"
+            ],
+            "guid": "g!~`fX^24>",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A flying wing (i.e. tail-less) is stable and trimmable if:<div><br></div><div>{{c1::[$]C_{m_{a c} }[/$]}} should be {{c2::positive}}; this is the value of [$]C_{m}[/$] when {{c7::[$]C_{L}=0[/$]}}<br></div><div><br></div><div>The {{c4::center of gravity}} should be {{c3::in front of::in front of/behind}} the {{c5::aerodynamic center}}. This makes&nbsp;[$]C_{m_{\\alpha}}[/$] {{c6::negative::positive/negative}}.</div>",
+                ""
+            ],
+            "guid": "b**`sxY648",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         }
