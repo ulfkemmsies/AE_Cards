@@ -52,7 +52,9 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "latex-00087f8a64f84e2fa874f5cf2832dd21c513a4b7.png",
         "latex-019e9892786e493964e145e7c5cf7b700314e53b.png",
+        "latex-0615acc3725de21025457e7d6f7694dab8e2f758.png",
         "latex-06745d2c4f918fab4df75b8873d2f1c0551332d4.png",
         "latex-07cd1df8559fb2687accbe418559c916fc2fd376.png",
         "latex-0832378bf5480001cfacd20aff5cb51af38f2aff.png",
@@ -62,46 +64,70 @@
         "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
         "latex-12d58aa29201da09d8e620f8698e3a37547f6b4a.png",
         "latex-1603d89d7b78afaa99eab7aa638f59cc0a26ccc5.png",
+        "latex-1946cc80bc6522f0dec8e08b373b70ab60aa9ee3.png",
         "latex-1cffde4d46625d2621eea2daada2a8b419310816.png",
+        "latex-1e8928e33f5c32c138a757abfa2d644043b5d557.png",
         "latex-2085deeff871b55a4f66b346329eefc9e3f1e447.png",
         "latex-20e3198c9fdcddee85d150cacf06f2c87fa534c5.png",
+        "latex-24becc79c9996f31028ede6596e8a43b421699d7.png",
+        "latex-254cd39ca361441619f512ea2240694a0f9bb684.png",
         "latex-268e948662bb574ba0eec3e9d2a7c1ed97830d0a.png",
+        "latex-28c5701185b01ba965d9f7afcdbd06b684a7f458.png",
         "latex-2b55bec693f23e46534d5879fe4209e5b5b8b5ff.png",
         "latex-2d295c3b71504a216422e5fffdfbad742c7add64.png",
         "latex-2e7f425547b24e641c8007bb92e86b02931736ec.png",
         "latex-37de08b99900b4afba0ff4371ce627dc939f4c53.png",
         "latex-3aa315b4d53443d05cd09c16001045f0f472fe85.png",
         "latex-3ae9993db3288905534cb64fccf8247886b3eb41.png",
+        "latex-3d228011a0da95649f74ef6c7d631fc6d268a1bd.png",
+        "latex-3dcccf82c2747bc37fb6eed6f50d064519bd78ef.png",
         "latex-3eb37f84444812fb4f30e3b8634d39fc2ab0f89b.png",
         "latex-3ec4909d5d6218dc48aabf7740243eb4abc082f1.png",
+        "latex-3eebf7bed8b594cfa15d58169734ea1a29ff9e27.png",
         "latex-3f4d9572b55c67c6aa1b7ee53c8e902e17232663.png",
         "latex-4482ff0c7f2cecb752ee44a0873aded620d56fc5.png",
         "latex-45b6d12a4025e799e886f737493f51ea28eebef4.png",
         "latex-45d1386fd135df774421ec609fe1f5e891850478.png",
+        "latex-47cfabe5c36cf630e7e22b233ced3320adfe7557.png",
         "latex-4c043d81265e8f601f52af678c5b241e430e519d.png",
         "latex-4cd875e0fbb8f87b150b3cc759135b0e27f1a670.png",
         "latex-4fbfcc83b3bfda65729cec0ec5ac4490f6cb8231.png",
         "latex-51e0810689c9eb424d5850e0d3b98c2e9b42db7d.png",
+        "latex-52e8ed7a3ba22130ad3984eb2cd413406475a689.png",
+        "latex-5366988d9f199163989d5bed5bec7c0c0242672b.png",
         "latex-538a39580f33f34281aa11f0cf7422ecb848502e.png",
         "latex-557823b268a4613fe238e0b93ba6c8d9c92f9f0e.png",
         "latex-56be7728eb530baa8f33dbe35f45869ea56dd401.png",
+        "latex-5a184908d49c300216db09cda1ea1fa2a93f7e30.png",
         "latex-5ac1e828d743f8f1a653fdc67dff535bbcc6ec77.png",
+        "latex-5edf1fbd82ad016ffcbad58b52eac6af8f88107b.png",
         "latex-60c9e9f990b8f88f40d2dbfa201d327286810b65.png",
+        "latex-6304e4fe3a6b03bbb8cc893b3d238a4c0764e4ff.png",
         "latex-64e4485ffece0b40fa9c9a3cdcc1e2a1f3ae02db.png",
+        "latex-6aac6a2930365e4596ae629a320011140b2bf732.png",
         "latex-6c9f8f53a6450b52f5480ec589facb352d08efa5.png",
+        "latex-6edc511085e52dd706deff17b4329353815ee085.png",
+        "latex-6f9579c6986dea8b8c5cf64798ef30b1f78d37d1.png",
         "latex-7089b941587d4f57fde8bb6febc8fbb10808511e.png",
         "latex-7461473d8b9625662d16795c4216fd5d1259cd3b.png",
+        "latex-75dab89982def50eb32d2133e5a379c32cd12ba3.png",
         "latex-77a0307e2fd351f4274c87751c49669a2ac2b1d3.png",
+        "latex-77a4d707a25ac8b84635c849545ccaba857e07b6.png",
+        "latex-77cbed4c363247f6880ac399a3f562ee39eca512.png",
         "latex-7d21ce57a572874699c513d55935af3e475ddd7b.png",
+        "latex-83a33c47a5ac0f905e2dbc047046f3a76517fdb6.png",
+        "latex-83bbdcce0790f76a8413cfae10bcab85e33cff16.png",
         "latex-84fa7463afeda6e206359eda91ad81d75bc88ace.png",
         "latex-85ec8e98de38179fb503a4f6e4a8d03f2076e2b8.png",
         "latex-867424b82dea06e558b601f3c67b47adac9c0cad.png",
         "latex-8c325612684d41304b9751c175df7bcc0f61f64f.png",
         "latex-8fbb42a43dd4575a762db33a8eb3372bc7e8da78.png",
         "latex-9080a3d314e7a337b4692ad583c16521c7d01cfe.png",
+        "latex-913e49ea63c6c130bb8d9d1c3556b052ecc404f8.png",
         "latex-922331ac5cd171f234306e9cae55097bfe2bdbbd.png",
         "latex-92b8b1e8375998b7a45fc0ea9481d64686097ce9.png",
         "latex-94a4d7147ab455a34c7320bc7a04e5fb5b949002.png",
+        "latex-96abea1a5184eceee29b38cf3db551f3bb863ad9.png",
         "latex-9ad99798ec4c38e165cf517cb9e02b1c9e824103.png",
         "latex-9d9f635a49b989bad4a928d074a432f447a72e13.png",
         "latex-9da36119c33efb4bf67b0eb14daf3ea3837862cd.png",
@@ -111,34 +137,51 @@
         "latex-a8b5a3f6ddbea48d15842b3dcf3f3eb9ba08b4bb.png",
         "latex-a9f0030715df3c501259ce8e0fefc0485d852d2e.png",
         "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
+        "latex-ad7d23c45e206e885f87eeecd4cfea0942a9e939.png",
+        "latex-b4a496c794291d26b92c0e6e2e1b2c53cd9b8a5a.png",
         "latex-b537ee57026ddffff698984ec8f3360f06fd5e7e.png",
         "latex-b5d5132c2245640bbf0dffeca3955273d3d843cc.png",
+        "latex-b64998f95a35f15d5c6950176c31983faa498ccf.png",
         "latex-b7204612c85cb356beb98d0f66dbab118432608f.png",
+        "latex-b7ae9c302fc7877e57006cb24c0a515946b5f136.png",
+        "latex-b85bbfb165b853d6f5f9734be4cdabbb453f4e43.png",
+        "latex-bc1af06cd8032ae9bce457b37cb776973dc3e0ea.png",
+        "latex-bdfb49813283a25e3b1fa9f63f4a403ab70ccf29.png",
         "latex-c0a0eed6215f6f72e1d06e3253bda5cf48593a9b.png",
         "latex-c110fcca8149531a8d303c7425d1740db9ec5bca.png",
+        "latex-c2629893cf0303c8874002b5502fc0c5f521810d.png",
         "latex-c9ee96f6b3977d591df13f57db4bb9cdb37188b4.png",
         "latex-cd78122f0ed9dcd17cd69ce31337419ff0e6ed11.png",
         "latex-cde86e85d1c3a7170f4b1cfa7ea50710a0fcd96a.png",
         "latex-ce4588fd900d02afcbd260bc07f54cce49a7dc4a.png",
+        "latex-d27f0fc4423d3755ae237e03891995fa57486d23.png",
         "latex-d38642f968074109480860c262e4f83a82ac8cf4.png",
         "latex-d572e3d580f252dec4a94cf88a7eba5b0e934cb4.png",
         "latex-d5eb8726a34932d28103ce7ce17456421222603f.png",
         "latex-da8f35db98eb78d284c8d84073e297c72967f28a.png",
         "latex-dc5843eb422441c2cc784c06113df290c773bac2.png",
         "latex-dfb064112b6c94470339f6571f69d07afc1c024c.png",
+        "latex-e100ee688f8f0162a35c7f18712c28592f7c5916.png",
+        "latex-e1b7d00809e5f9527cfbcd463ebbf83db0d4efb1.png",
         "latex-e23b36607c8cfda6c64acd2519893abaf172fb13.png",
         "latex-e4274c66d56e56489e4edbaccc6f9843b0f18f95.png",
         "latex-e71455fde4a040d5f1ce5cb242d2e6b03fa60193.png",
         "latex-e72120af661d414530f0057c68cd8c0402dad3f1.png",
         "latex-e7f7651de793550e015135917f93426bb799e255.png",
         "latex-e8f8e86199e2ce66442124f9c4526e4e7de26800.png",
+        "latex-eb9b78c0bd8708301227d780e6925fa9940931da.png",
         "latex-edf07d22552ba8c31e43c0dc7035c85e412a3f86.png",
         "latex-ee088d0b049ad1f58b7bbf65f2a5221b772c767a.png",
+        "latex-f3bc584a6da6403662af9415c66ca53d25285ea7.png",
         "latex-f43b90c8e8bf7b003d3b975f9db643711708d83a.png",
         "latex-f65105ee673584c215efdbe82257f8c03baa796a.png",
         "latex-f84746367c15ab36ac3c2ecc02332a6090d2aa4c.png",
         "latex-f9eb89b1268b1e4fd25622e4e3cfbd748abe5826.png",
+        "latex-fd348844bb500b259718ea10ac3bb5292b69ca90.png",
         "latex-fd6565fa8c23e5373df570c785baed2f279c7f26.png",
+        "latex-fdb63b9e51abe6bbb16acfb5d7b773ddbb5bf4a8.png",
+        "latex-fffe05f22c5c27ca8b5a9a2cb14f38d505b6b41e.png",
+        "paste-0af574454edf5cc09a0fe7b6a39f715bd7801aa3.jpg",
         "paste-115c57f84e44638671cf0616283af6b13934b83c.jpg",
         "paste-20d814e5b8f19a3147af14499e9330823a73fede.jpg",
         "paste-29f1e1bf6ff3654decbcb2859635ea01d0ac6003.jpg",
@@ -159,7 +202,10 @@
         "paste-b59cae4828024c39b3ea34b28d609d88046f9376.jpg",
         "paste-bd4d7c5fb46f944d0d951a826b2890821e66385e.jpg",
         "paste-bd9fae20a8b7213c0ff04c7dea89a3c3d6ad8dd7.jpg",
+        "paste-c71989e1cdf34556900aac6f752455c343c43ba5.jpg",
+        "paste-ceb6f003703a65d031f526591ac748bed2dd7bac.jpg",
         "paste-d5421690930c36ea4c6c6e3ac7eeeb91de070576.jpg",
+        "paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg",
         "paste-e7782046c01a498d8ca755f919e5bbebfbdf9155.jpg",
         "paste-e7f42ca3047e43996f6a303895c80f362e3116b2.jpg",
         "paste-ff9c958a6bf1b301288d07b82fff8a50df275668.jpg"
@@ -1007,6 +1053,306 @@
                 ""
             ],
             "guid": "b**`sxY648",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>From the given image:</div><img src=\"paste-0af574454edf5cc09a0fe7b6a39f715bd7801aa3.jpg\"><div><br></div><div>Taking moments around the aerodynamic center yields:</div><div><br></div><div>{{c1::[$]M=M_{a c}+W\\left(x_{c . g .}-x_{a c}\\right)-L_{h} l_{h}[/$]}}<br></div><div><br></div><div>Setting [$]W=L_{A-h}[/$], and making it dimensionless, we straightforwardly obtain</div><div><br></div><div>[$]C_{m}=[/$] {{c2::[$]C_{m_{a c} }+C_{L_{A-h} } \\frac{x_{c g}-x_{a c} }{\\bar{c} }-\\frac{C_{L_{h} } S_{h} l_{h} }{S \\bar{c} }\\left(\\frac{V_{h} }{V}\\right)^{2}[/$]:: in terms of [$]C_{L_{A-h} }[/$] and [$]C_{L_{h} }[/$], use tail volume transfomation}}<br></div>",
+                ""
+            ],
+            "guid": "x|d@-uX8:2",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::vertical::horizontal/vertical}} tail plane {{c4::effective area}} is proportional to the {{c1::horizontal::horizontal/vertical}}&nbsp;tail plane {{c2::geometry::physical property}} and {{c3::placement}}.",
+                "<img src=\"paste-ceb6f003703a65d031f526591ac748bed2dd7bac.jpg\">"
+            ],
+            "guid": "i=@RXEzM%j",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c3::vertical tailplane}} {{c1::cross-wind}} landing requirements are the following:&nbsp;<div><br></div><div>The plane must no suffer ground looping at a {{c1::cross-wind}} of 20knt, or {{c2::[latex]$0.2*V_{S0}$[/latex]::Percent of minimum speed for steady flight in landing configuration}};&nbsp;</div><div><br></div><div>The plane must be controllable when landing without engines nor brakes at normal landing speed;&nbsp;</div><div><br></div><div>Lastly, a {{c1::cross-wind}} of 20knt or {{c2::[latex]$0.2*V_{S0}$[/latex]::Percent of minimum speed for steady flight in landing configuration}} must be established as safe in dry runways.</div>",
+                ""
+            ],
+            "guid": "AAp%q}+;c!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The aerodynamic force caused by the vertical tailplane is defined as<div><br></div><div>[$]Y_v = C_{L_{\\alpha}}*\\beta*[/$] {{c1::[$]\\frac{1}{2}\\rho V^2 S[/$]::Dynamic pressure}}</div><div><br></div><div>Assuming a {{c2::very low}} {{c3::aspect ratio}},&nbsp;</div><div><br></div><div>[$]Y_v = \\frac{\\pi b^2}{2} \\beta [/$]{{c1::[$]q[/$]::Dynamic pressure}}<br></div><div><br></div><div>Meaning only the {{c4::height}} of the vertical tailplane is relevant when designing for {{c5::cross-winds}}.</div>",
+                "<div>=================================================================================</div><div><br></div><div>Derivation:</div><div><br></div><div>As the vertical tailplane has a very low aspect ratio,&nbsp;[$]C_{L_{\\alpha}}[/$] can be considered equal to&nbsp;</div><div><br></div><div>[$]\\frac{\\pi * A}{2} = \\frac{\\pi b^2}{2S}[/$]</div><div><br></div><div>From which</div><div><br></div><div>[$]Y_v = \\frac{\\pi b^2}{2} \\beta q[/$]<br></div><div><br></div><div>follows.</div><div><br></div><div><br></div>"
+            ],
+            "guid": "i/eVC`(n>Y",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The stall angle&nbsp;{{c1::[latex]$\\alpha_{stall_{v}}$[/latex]}} of the {{c1::vertical tailplane}} can be increased by reducing the {{c2::aspect ratio}} of the {{c1::vertical tailplane}}, increasing the {{c3::leading edge sweep}} of the {{c1::vertical tailplane}} or adding a {{c4::dorsal fin}} to the {{c1::vertical tailplane}}.",
+                ""
+            ],
+            "guid": "Qa$FxySBFD",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To size the volume of the vertical tailplane one fundamental fact must be considered: firstly,&nbsp;{{c1::[$]C_{n_{\\beta}}[/$]}} must be {{c2::larger than 0}}. The horizontal tail volume can be obtained from estimating {{c1::[$]C_{n_{\\beta}}[/$]}}.",
+                "<div>=================================================================================<br></div><div><br></div><div>[$]C_{n_{\\beta}}[/$] may be estimated with the following contributions, respectively that of the fuselage, propeller and wing setting:<br></div><div><br></div>[$]\\begin{equation}<br>\\begin{aligned}<br>C_{n_{\\beta_{f}}} &amp;=-k_{\\beta} \\frac{S_{f s} l_{f}}{S b}\\left(\\frac{h_{f_{1}}}{h_{f_{2}}}\\right)^{\\frac{1}{2}}\\left(\\frac{b_{f_{2}}}{b_{f_{1}}}\\right)^{\\frac{1}{3}} \\\\<br>k_{\\beta} &amp;=0.3 \\frac{l_{c g}}{l_{f}}+0.75 \\frac{h_{f_{\\max }}}{l_{f}}-0.105 \\\\<br>C_{n_{\\beta_{p}}} &amp;=-0.053 B_{p} \\sum \\frac{l_{p} D_{p}^{2}}{S b} \\\\<br>C_{n_{\\beta_{i}}} &amp;=\\left\\{\\begin{array}{ll}<br>-0.017, &amp; \\text { high wing } \\\\<br>+0.012, &amp; \\text { mid wing } \\\\<br>+0.024, &amp; \\text { low wing }<br>\\end{array}\\right.<br>\\end{aligned}<br>\\end{equation}[/$]<br>"
+            ],
+            "guid": "n,E/8)Re]A",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An engine failure causes a {{c4::torque about the Z axis}} which must be counteracted with {{c3::rudder deflection}}. This causes a {{c2::rolling moment}} however, which must be counteracted with {{c5::aileron deflections}}. The result is that the aircraft flies with a (small) residual {{c1::roll angle}}&nbsp;{{c1::[$]\\Delta \\phi[/$]}}.<div><br></div><div>As a result, the lift required {{c6::decreases}}, and the rudder force required to keep equilibrium {{c6::increases}}.&nbsp;</div><div><br></div><div>The {{c6::reduction}} in lift means a lower&nbsp;{{c7::AOA}} is needed, which is obtained by {{c7::trimming the elevator}}.</div>",
+                ""
+            ],
+            "guid": "p*.p++cW^%",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the engine failure case, vertical tail sizing can be conducted using {{c1::analytical}} methods, subject however to difficulty estimating the ratio between {{c2::wing and vertical tail airspeed}} and&nbsp;{{c2::[$]C_{Y_{\\beta}}[/$]}}, and {{c1::statistical}} methods.",
+                ""
+            ],
+            "guid": "M$Bzmj+8{J",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In engine failure vertical tailplane sizing, {{c1::[$]\\Delta T_e[/$]}} is the difference between the thrust generated by the operative engine and the drag generated by the inoperative one.<div><br></div><div>To reduce the vertical tailplane volume when sizing for engine failure, the {{c1::[$]\\Delta T_e[/$] moment arm&nbsp;[$]y_e[/$]}} must be reduced. This means placing the engines as {{c1::inboard}} as possible.</div><div><br></div>",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]<br></div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"><br></div>"
+            ],
+            "guid": "u9%q{`4!D#",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, and option is to {{c1::increase}} the {{c2::tail moment arm&nbsp;[$]l_e[/$]}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"><br></div>"
+            ],
+            "guid": "kiup/QMDWu",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to use a {{c1::favourable vertical tailplane location}}, possibly using {{c1::twin tails}} to {{c3::increase}} {{c4::[$]k_v[/$]}}",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "MD%(ZC0dqU",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to use a {{c3::two segment}} or {{c3::guide vanes}} rudder design to {{c2::increase}} the {{c1::rudder effectiveness&nbsp;[$]k_{\\delta_r}}[/$]}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "n}^uB*$.P$",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to {{c2::increase}} the {{c3::maximum rudder deflection}}, thereby {{c2::increasing&nbsp;}}{{c1::[$]k_{\\delta_r}}[/$]}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "c&FxUcoqt:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to {{c1::increase}} the {{c2::rudder area}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "qR9z_~?Ibh",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to increase the vertical tailplane {{c3::area&nbsp;[$]A'_v[/$]}}. This is not unsconstrained as it {{c2::decreases}} the vertical tailplane {{c1::stall angle}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "tQKYf$QS0Q",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to have a smaller rudder hinge line {{c4::sweep angle&nbsp;[$]\\Lambda_r[/$]}}, to {{c2::increase}} the {{c3::rudder area}} while keeping a constant vertical tailplane {{c1::area [$]A'_v[/$]}}.",
+                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+            ],
+            "guid": "LRpVLKGCL[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The critical engines in a wing mounted aircraft are those for which the propeller/fan crosses the horizontal in its {{c1::downwards}} stroke {{c2::farthest}} from the fuselage, as the vertical speed component from the positive angle of attack will cause {{c3::more thrust}} to be produced {{c2::farthest}} from the fuselage, increasing&nbsp;{{c2::[$]\\Delta T_e[/$] arm length&nbsp;[$]l_e[/$]}} and thus {{c3::increasing}} the induced yawing moment.",
+                ""
+            ],
+            "guid": "Hay]d!1L_Y",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The spin vertical tailplane design maxim is that {{c4::1/3}} of the rudder should remain out of the wake of the {{c3::horizontal tailplane}} at [$]\\alpha_{h}[/$]{{c2::[$]=45\\deg[/$]}}, where the wake leading edge angle is&nbsp;{{c1::[$]60\\deg[/$]}} and that of the trailing edge&nbsp;{{c1::[$]30\\deg[/$]}}.",
+                ""
+            ],
+            "guid": "liH314]g0t",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The design effects of the vertical tailplane aspect ratio&nbsp;[$]A_v[/$] are the following:&nbsp;<div><br></div><div>{{c3::Increasing&nbsp;}}[$]A_v[/$] causes an {{c4::increase}} in&nbsp;{{c3::[$]C_{n_{\\beta}}[/$]}}, making the aircraft more {{c4::stable}}.</div><div><br></div><div>A {{c2::high&nbsp;}}[$]A_v[/$] causes a {{c2::more effective}} vertical tailplane at {{c2::low&nbsp;[$]\\beta[/$]}}, but {{c2::earlier}} stall.</div><div><br></div><div>A T-tail cannot have a {{c1::very high&nbsp;}}[$]A_v[/$].</div>",
+                ""
+            ],
+            "guid": "lU@([)7^9[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The design effects of the vertical tailplane taper ratio&nbsp;[$]\\lambda_v[/$] are the following:<div><br></div><div>Useful to modify {{c3::weight, structural rigidity}} of the vertical tailplane, {{c2::relatively negiligible}} for {{c1::lateral stability}}.</div><div><br></div><div>{{c5::T-tails}} cannot have a {{c4::large&nbsp;}} [$]\\lambda_v[/$].</div>",
+                ""
+            ],
+            "guid": "yk3%Qfx~Hu",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The design effects of {{c1::increasing}} the vertical tailplane sweep angle&nbsp;[$]\\Lambda_v[/$] are the following:<div><br></div><div>{{c4::Delayed}} stall.</div><div><br></div><div>{{c4::Delayed}} shockwave onset.</div><div><br></div><div>Increase in horizontal tailplane {{c2::moment arm&nbsp;[$]l_h[/$]}} for {{c3::fin-mounted}} horizontal tailplanes.</div>",
+                ""
+            ],
+            "guid": "Q(TZkm>;hz",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usually {{c6::symmetric}} airfoils are selected for the vertical tailplane, with a {{c3::12%::percentage}} thickness and a {{c4::large}} {{c5::nose radius}} to {{c1::increase&nbsp;}} {{c2::[$]\\alpha_{stall_{vtp}}[/$]}}.",
+                ""
+            ],
+            "guid": "C=sFU4Yvcy",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The pitch requirement for landing gear design specifies that&nbsp;{{c4::[$]\\theta[/$]}}&nbsp;{{c7::[$]\\&gt;[/$]}}&nbsp;{{c5::[$]\\beta[/$]}}, where&nbsp;[$]\\theta[/$] is the {{c4::tip back/scrape}} angle and&nbsp;{{c5::[$]\\beta[/$]}} is the angle between the vertical and the line from the point where the {{c3::fully extended}} landing gear {{c2::touches the ground}} and the {{c1::furthest aft CG}}.",
+                ""
+            ],
+            "guid": "paPu`q>V}!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The landing gear of conventional aircraft is located at {{c2::~10-15%}} {{c3::behind}} the {{c1::furthest aft CG}}.",
+                ""
+            ],
+            "guid": "rr`}`J;xRg",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The tail lift requirement for landing gear design specifies that the {{c2::moment equilibrium}} about the landing gear at {{c2::take-off}} speed must be {{c1::[$]\\geq 0[/$]}} (nose {{c1::up}}).",
+                ""
+            ],
+            "guid": "HFB41a{Sco",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the aircraft to be able to steer while taxiing, the nose landing gear must take more than {{c1::8%}} and less than {{c1::15%}} of the weight o the aircraft.",
+                ""
+            ],
+            "guid": "xbYx5U:aQ@",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::turnover angle [$]\\Phi[/$]}}, defined by the position of the CG and the track width of the landing gear, must not be higher than {{c2::55 degrees}}.",
+                "<img src=\"paste-c71989e1cdf34556900aac6f752455c343c43ba5.jpg\">"
+            ],
+            "guid": "LV$nPisJx-",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The lateral ground clearance requirement sets the minimum {{c3::inner}} nacelle-landing gear angle&nbsp;{{c3::[$]\\phi_1[/$]}} at {{c4::8}} degrees, and that for {{c3::outer}} nacelles&nbsp;[$]\\phi_0[/$] at {{c4::5}} degrees. Furthermore, the minimum {{c2::dihedral&nbsp;[$]\\Gamma[/$]}} is {{c1::3 degrees}}, and the maximum {{c1::7}}.",
+                ""
+            ],
+            "guid": "bDd87QRCFx",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The landing gear must not interfere with the {{c2::wingobox}} and {{c1::HLDs}} of the aircraft.",
+                ""
+            ],
+            "guid": "xg~&@X8V(!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The landing gear design process is as follows:<div><br></div><div>1. Assume an {{c1::initial landing gear}} position wrt {{c2::wing XLEMAC}}</div><div><br></div><div>2. Obtain the airplane {{c3::CG range}} from the {{c2::loading diagram (potato plot)}}</div><div><br></div><div>3. Obtain the landing gear {{c1::height}} from the {{c6::pitch angle limit}}</div><div><br></div><div>4. Obtain the position of the {{c7::nose wheel}} by applying the {{c8::steering condition}}</div><div><br></div><div>5. Obtain the {{c3::MLG track width}} applying the {{c2::turnover angle}} requirement</div><div><br></div><div>6. Check for interference with {{c1::wingbox, HLDs}}. Restart moving wing group/landing gear {{c12::backwards}} if there is.</div><div><br></div><div>7. Check the landing gear size for consistency with the weight calculated</div>",
+                ""
+            ],
+            "guid": "j4AfN!!sAJ",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         }
