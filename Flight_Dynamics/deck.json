@@ -29,11 +29,11 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    1,
                     0
                 ],
-                "order": 1,
-                "perDay": 20
+                "order": 0,
+                "perDay": 500
             },
             "replayq": true,
             "rev": {
@@ -41,8 +41,8 @@
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
+                "maxIvl": 1,
+                "perDay": 1000
             },
             "timer": 0
         }
@@ -53,119 +53,391 @@
     "extendRev": 0,
     "media_files": [
         "__closet-v0.3.0.js",
-        "latex-0286cd6b78c598eb09c0edf3df0f5d0124681980.svg",
+        "latex-000d6ee60ba5b09019ce6e01370c27e8a4583dc9.png",
+        "latex-019e9892786e493964e145e7c5cf7b700314e53b.png",
+        "latex-01f28bcd45f6503978217c58fad1ffe92e4ea0ee.png",
+        "latex-0363c7e075d239f9fc1f82851a63ca815a307955.png",
+        "latex-0526513de2e4779b39c54f9b9a688066da2d5c2e.png",
+        "latex-05a73b93cadc545ed6c5335a3509314b2e32fa73.png",
         "latex-0615acc3725de21025457e7d6f7694dab8e2f758.png",
-        "latex-0a6239168da4f9058e7a07f889f02eb6c2c575fa.png",
-        "latex-0b072d939cb813eda1c8d6382a3d283465f17131.svg",
-        "latex-0de8ac3aa0141ebb385492cbbe6f978f6c73b655.svg",
+        "latex-0767c50e3e0d6e77f85c685cfd91bb14e938444a.png",
+        "latex-07feac6c5248cc61f0c0946e1adb2dead26ba296.png",
+        "latex-091a7ae1c99de27b6f8b27d22f3920bfab610ac8.png",
+        "latex-092e364e1d9d19ad5fffb0b46ef4cc7f2da02c1c.png",
+        "latex-0a42a8b725c200085e5253db2d2fbf8dab898a8f.png",
+        "latex-0b1c75aa0b4f9b5a6b5a569f4ad82910afa92ab9.png",
+        "latex-0bf891abeb603dad5c3282763001bb8a2b19520e.png",
+        "latex-0c9d553639ca5d426a6d552ccb0d4ca9e55b882c.png",
+        "latex-0d22f6148c5864349641a7d6d39d0fea75d566db.png",
+        "latex-0f23234ec08221e9b12aa6a29ec60b8b8827346d.png",
+        "latex-0f25c9d36d246b9bbdf6af3bcf7aa6b81bbe7c2c.png",
+        "latex-0fac26ee91d1c32755c70c41508b3d7270f711ff.png",
+        "latex-0fc4aabc7c5b6a6e449c91b87a5d8cb151c68897.png",
+        "latex-1011a7bd4384a448a33c412debc84ba1b0d51b53.png",
         "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.png",
-        "latex-10f32377ac67d94f764f12a15ea987e88c85d3e1.svg",
-        "latex-16fc735e03c9e54883176d4b754b917f86256d56.svg",
-        "latex-17f1249ad95b7682b8316ad21de8ce4ee9fdcf93.svg",
-        "latex-200044283765984830d604f7eb673e51a9d54fe1.svg",
-        "latex-213fa37604669e2d1fab7e572ac40c0a65b59236.png",
-        "latex-2c695a9e1dbaa716f757bd8c00ab8abf8f2cee3c.svg",
-        "latex-2fa37309c9ca6fe2789e66ba1d05950467fd3242.svg",
-        "latex-42b56d2c7fd8f7bad5b47670c231f262195d42ff.png",
-        "latex-4a23dea563a840fd9644134e3438106172de3944.png",
-        "latex-5b1c7c5f5944d1aeb7fc087a5c0a13872b7e8ba4.svg",
-        "latex-63e1ba89e2c815f09c12326edd72693830d0caa3.png",
-        "latex-653607d3e1ac749e92ca4cab38008ba29725a2a4.svg",
-        "latex-762fa3a2f1916b54c7569228afa2333902c7cb6f.svg",
-        "latex-77cf26be132ef93923e082ee4153b2cb0ef44a50.svg",
-        "latex-78678c38c11b01fe5958455d2106d0b74b085b16.svg",
-        "latex-7abef6a4b8d0149f590383147e60229705f221b2.svg",
-        "latex-7c8a324e8e4b24bc4656ce386b04faa657c76473.png",
-        "latex-7e455474a2828d52ee60d4a4330e2f45e37c0ef7.svg",
-        "latex-813dc6a18de6ce6534a656522139675936b5e09b.svg",
-        "latex-8341be894299910f34c715a5b6baa0a9c7547462.svg",
-        "latex-845bb334d8898c346c07e5135e36b21f536dc2ce.png",
-        "latex-8b10a7abeb986e47a1944f584440bd7f8ea52c59.svg",
-        "latex-8ba6f2a0ec4bc73d11dc35dc1da5c20250f3c762.svg",
-        "latex-8f464bed89fea5f19282752fca06c178ae079c8c.svg",
-        "latex-91e1988c7f997ca83ce2b68c5d24c7e856f816ee.svg",
-        "latex-94a09976065212d545c756d3d32b24a133a42e50.svg",
-        "latex-97e9c81d514a0b9cb9272497046efcadb585025d.svg",
-        "latex-9a71974f0f271f18ef340a63f993bd0b3c622ffb.svg",
-        "latex-a09053b15e6df0186c9a3a1ef649cc6a06ad1929.png",
-        "latex-a3a59bb1293ee3f6dec19de4019a7178874219ae.svg",
-        "latex-a9bc86feeb0e282c6a4a0893ad36bedc87706f99.svg",
-        "latex-add22d9bda21e86390bc74fa4dde17730a442da7.svg",
-        "latex-b036a8bc1b72c4af7fdafce80a11582205a43a40.png",
-        "latex-bdb2f8074143f4853dd8c4c0e67f652d27d56228.png",
-        "latex-bdb2f8074143f4853dd8c4c0e67f652d27d56228.svg",
-        "latex-c07b405813787781978958e4121981c49ca4d00c.svg",
-        "latex-db839b92e454e651cff956c725b26ff10b1a7337.svg",
-        "latex-dce34f4dfb2406144304ad0d6106c5382ddd1446.svg",
-        "latex-df84d0781c83f60dbf617c4283aae419b5464d41.png",
-        "latex-e351d2bb6eb773ca8d70a5b5980fe4775c13d059.svg",
-        "latex-f3a1f89667843bb92f02c7dffbf787924ddc09a1.svg",
-        "latex-fb8da9de516b7b56d5d357257895d5c7ad98fa48.svg",
-        "paste-0e7bb9ede7560c766fde01ff23e23af6fb239074.jpg",
-        "paste-20ea82bd67d7049e2b29a006cd5c74a216ef174c.jpg",
-        "paste-2156a202b2d06295b0337f383d8baf795bf86c0c.jpg",
-        "paste-3b9ceaec91e9ffd0bb79273a2ad7def29db75302.jpg",
-        "paste-68878969ec4cf5ba91d29001bb43f54b622e14c2.jpg",
-        "paste-6e6f20a3bac0c49e447fed3e06b15c3dcc9b69a4.jpg",
-        "paste-9ac8d3cac3903de060eeb2ef62a1fe5d0506b1a2.jpg",
-        "paste-aca8464bb86730bfb8a61105123da6d82fe9c964.jpg",
-        "paste-d12a5c6b00578afe5863c56bd934dc9c9f100b87.jpg",
-        "paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg",
-        "paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg",
-        "paste-da07c55ed2d469fb073e66baf1989327394714f2.jpg",
-        "paste-e3e3eb8eaa98a0703bc3c1746c4e4bf710df546a.jpg",
-        "paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg",
-        "paste-fab34d558a2d267a6ceaae9f3d5b15d7ea80c835.jpg"
+        "latex-113f44591b81283d6b3a27607badce653a1f6027.png",
+        "latex-12d58aa29201da09d8e620f8698e3a37547f6b4a.png",
+        "latex-1345670ce56fe778faa50990b2e073d1ebd35a3c.png",
+        "latex-143d609adea2d86f254112e868f01c6266ea0485.png",
+        "latex-152dcac5717295657e3dbf27216c617b27c3e4a1.png",
+        "latex-156c89fa38fe4693ad5fc8560a235fc635943b5e.png",
+        "latex-173e6e758d539ef4bdc2275d475082139e14ca3e.png",
+        "latex-174559c68d91c18ad249d939ff5fdd74348d4e04.png",
+        "latex-174fadd07fd54c9afe288e96558c92e0c1da733a.png",
+        "latex-176c3d19733f605955bf239d850d2e2db99b666f.png",
+        "latex-1955c5ff5df180b4f33fcb8c9b26e33f66b63dcc.png",
+        "latex-1ca060622f36419e9b1eadd17448b7cf5e7a661a.png",
+        "latex-1d3f49f1ab1eb3facce1d57df68d0ee44ae4f3e3.png",
+        "latex-1e2c9a6dec6077e4dfdc34b2ce878fed7393b7dd.png",
+        "latex-1e451519542a79bc96c8d1a756860607594f4e3d.png",
+        "latex-1e6a2034fd3c068515485b061eee9030f1bf3345.png",
+        "latex-1f2c6247824603fdeb2c90708893b04f0de88fa1.png",
+        "latex-1f345652fcfa83d891560eb665ba78c955608e42.png",
+        "latex-204246f1f3aa038af5717aed098111ad9f171127.png",
+        "latex-204455f3acbc6366682510f0c9d5440b1d675a2e.png",
+        "latex-209a80b90f5e2cbc7ce6e3107cd50ad7fe1661cd.png",
+        "latex-2207279a5fbd8569169621dda2c98c443b26e0da.png",
+        "latex-23e70a3e230dc95e637592e70c57cb3af52ea9c4.png",
+        "latex-24249c0cff8cddb05d187c5ad6a4bdd309967ee4.png",
+        "latex-24becc79c9996f31028ede6596e8a43b421699d7.png",
+        "latex-267afdf660de552095214ffdfd3c822ed1dab601.png",
+        "latex-26c33269ecaab99c16f48240c1466db70f09a97c.png",
+        "latex-26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png",
+        "latex-2709b361bdafbc56b395cb81e2b9446484632624.png",
+        "latex-286c8773452cd9754c39ca817bde50463a2201d8.png",
+        "latex-2982cde4dbad8ca154a5af86ba190820df90c553.png",
+        "latex-2a165ba4ab2ffac31da2ac8881c45f929e1ca5f4.png",
+        "latex-2a50a3bb7ede1e9f59407c2324b9194d0e3a68ea.png",
+        "latex-2b8324f73d45fc39cf9a388f38852fde51c02f7f.png",
+        "latex-2c175f60eecef1de7560c3bdea495d69f26f719d.png",
+        "latex-2e6526ab36b00d87dfe06fb9ae37d4309b6fd15a.png",
+        "latex-2ec6ee5bb09febbc7916ac7cc9e79f84dbc04b51.png",
+        "latex-2f13f59d6f14df3f6d8d442013dd3a4045f8f803.png",
+        "latex-2f6c5a3450480d5c8a5534f572cc4f10bf402c02.png",
+        "latex-301a0c3e2f958499c4bed07aecf20b816fa2b347.png",
+        "latex-303a95e76a75630a406081d691838e9ddd16898e.png",
+        "latex-30c80a06ec29e52ad432290f2b9bd7a6a9338b81.png",
+        "latex-339d9a36b0a3919fc46c59f5abc4c1d7ef5d58d0.png",
+        "latex-3472d98688a0674b2a3d14eec7f37b7c0d3504d9.png",
+        "latex-34857b3ba74ce5cd8607f3ebd23e9015908ada71.png",
+        "latex-34fa86b6245552e178c976b894b18a7160ef0b5d.png",
+        "latex-3598c3ae50acdb8e7a69204a1019cea9d0135475.png",
+        "latex-35f3835dafe706e19401f04cf3883f62ea3f02c8.png",
+        "latex-3641b01c5298985682ef47d3350f961635a3db2f.png",
+        "latex-3687b3f2cd68feabde3c939cb72f7a93826cc58e.png",
+        "latex-36f73fc1312ee0349b3f3a0f3bd9eb5504339011.png",
+        "latex-3758b7d0af5363f5728e3e6ce651b97eb24a9b66.png",
+        "latex-392457998c027901132db0e2d0cdb3f324637fa4.png",
+        "latex-3a6e6a6d47d2a40ac5bb8e96ac52f72400e11e8b.png",
+        "latex-3a9ff92bf8d67afd35fd4b7f3dc967f9127bc289.png",
+        "latex-3cbc199e525ee41e3947540a99598b16ca409ec5.png",
+        "latex-3f86c5daaeb71957bfacd778d6e82182b030af17.png",
+        "latex-400457119a10d5d0db0921b41b9b35b4a1042784.png",
+        "latex-416f3bff1d7d778f067c602af58567ceedda0a27.png",
+        "latex-41b8d6491d0189eb3b41be5304e3c0edd675e485.png",
+        "latex-41c544263a265ff15498ee45f7392c5f86c6d151.png",
+        "latex-41e669253c4e7faee3f83a492830f13b68c47b98.png",
+        "latex-42885c5d5fed6bf98060d4a1bbdd5b1a389fc720.png",
+        "latex-43cc031b3d32ff98dd87d1fd36c160231a47a79d.png",
+        "latex-43facc809f1e6afaa23a10f616455988b1647c5f.png",
+        "latex-465080fc35b5a593798709bec39a48ac304169e4.png",
+        "latex-480a2fda469f9dba304bd5fc24094149051d6dd3.png",
+        "latex-489bbc707b720f4147bfa0ae72481e9f33112e9c.png",
+        "latex-4abec2a9ede9d7923babc4629946b92da48b7b88.png",
+        "latex-4b4cade9ca8a2c8311fafcf040bc5b15ca507f52.png",
+        "latex-4b5ac570c96fddbeae171074d1bcf7f03113b585.png",
+        "latex-4baa0d6dc2c73850522f3c73f0d6641f643b79f5.png",
+        "latex-4bdca93962a2beaffc172ca394e04fe05bd74ffd.png",
+        "latex-4d13a934c69a96fcc6bf966d3d2946c2126b13d2.png",
+        "latex-4d6f6cdc2437e8c34c803f691196b950f9b2c0a6.png",
+        "latex-4eae67e9ac32a2c81472dac43fb4fac734759369.png",
+        "latex-4ef6bad0baef485963ffe0ac01bd0a3104f2ba97.png",
+        "latex-4f2f6eca2c20b65aa8ef1103f179467e2789a8fc.png",
+        "latex-4f8b3dd157a2b9d993c10628ac6aa6903fd77245.png",
+        "latex-5079a0c844a4d91af7e50708bc2fcce3a497476c.png",
+        "latex-5082edf552b20b1237cc89605cce0c6281022f35.png",
+        "latex-5162c8cd722ea9bab4b2e5fd26b4d299f323734f.png",
+        "latex-523765e6f77d2ff678e47c2a1ff0a59ace2e8e36.png",
+        "latex-524726089dbd0d4bbd36d12fdcf639dc441003b7.png",
+        "latex-5291ecc17ec6e37302ca3ad2d7f6a48d5e2d33e2.png",
+        "latex-52cfa8e0527180ecec538f3043a7ad08976c7b8d.png",
+        "latex-52e8ed7a3ba22130ad3984eb2cd413406475a689.png",
+        "latex-54da431348dec85692cb2ba070754671547d5afa.png",
+        "latex-55db9c27e77e107aa3e8d7037b11236b82b32135.png",
+        "latex-56b82093bd5f9070255d0637572ff5bdd67c1ad6.png",
+        "latex-589884d4dac725fefcb51f814f38c317943e3cbb.png",
+        "latex-5a184908d49c300216db09cda1ea1fa2a93f7e30.png",
+        "latex-5a232ea4796cd5159f0deaae3df7bb89ba74b03b.png",
+        "latex-5a6bedc41b5d4a9d1ff0a0ee3bfdb86208c749b4.png",
+        "latex-5bbb94fa4a3fe64213178b40ee05c0ab9f691602.png",
+        "latex-5c4fc8a3f4e87a27ce1996c98937f651190f45f4.png",
+        "latex-5c599234bd8f694f94a82a834e10b23ce30e4c69.png",
+        "latex-5ecbbc0083da71f2cbc69e1377535094685b108a.png",
+        "latex-5edf1fbd82ad016ffcbad58b52eac6af8f88107b.png",
+        "latex-5f61118f2ae912f86e683687c005145b5eb54aec.png",
+        "latex-5f7ef85228d822abb35975c4b91c39baef051be8.png",
+        "latex-5fc5c9a84ef53b084e55eed38c249a4a1564fbd2.png",
+        "latex-6145cca82d285fbaa8b10f07204ba5127c789a05.png",
+        "latex-62baabb14215307b4d405bc70c8bdfb8b638b253.png",
+        "latex-62c46f40626a31d404f041b346ea1f5543fb6624.png",
+        "latex-63100f2626e81d15d1a05badf89ced38612cd408.png",
+        "latex-632a65c82b0d143ac0630269ba8720846fc4c846.png",
+        "latex-643649dc78d62ed75263bc56c15e9c0d162fa217.png",
+        "latex-644b45f8b02b054365134de5a9ef2d3759ce6d02.png",
+        "latex-6469cdba44686546dd3f576bfb0bad28c57250ce.png",
+        "latex-648d9d0e225fd7d556334e0740490dbb20cfaac7.png",
+        "latex-65a5503aa1930900cfa0281a9fbff677c1c862c1.png",
+        "latex-65db1be0675fbcd0975f16a63277cbcba3a66e09.png",
+        "latex-66981fa3920210c6ad8dbe5e968783d5dd7520c3.png",
+        "latex-6923825337f7cb1cfa82c958c909d2a0488fdbda.png",
+        "latex-69e0e19bd798ac367d7192e4a603a4e0dab1e81e.png",
+        "latex-6a09567ba41de33eb85dec73d24978e68691ba58.png",
+        "latex-6a708badb369b543e3f0ced03d2d505e0a67040e.png",
+        "latex-6bc0e8baa7e049d536e6205f5eebef90087fb50b.png",
+        "latex-6cdcbcd3d175932448b3d02e7631482955469462.png",
+        "latex-6de7c35a5a1dc58f855c24e041e3fa6953349219.png",
+        "latex-6e5531c8f3f0234a4ac9e56b9cee7df94ff29134.png",
+        "latex-6edc511085e52dd706deff17b4329353815ee085.png",
+        "latex-6f06a183d1092b27328c12a97322763ac8db97a2.png",
+        "latex-6f55c0816e46d5e685c7c25df1a8137e0f2457a3.png",
+        "latex-70ab8a63ff1da2655b245ac8546d95cb1ffca9b2.png",
+        "latex-721d65b6af85c1e44e3a5d69b34c43c663705681.png",
+        "latex-7278fc3f9ba8967a3a367ff2e12c6db9387d1094.png",
+        "latex-72998b2c8aec454d844389019dc0d6226885da74.png",
+        "latex-73dcd835a08be400cac6f1d9f6d4c7d66c37d792.png",
+        "latex-7576f67df001752a52b9dfbb3a4643275f5f21ee.png",
+        "latex-773e6d35053f6d9624a33b9b7070a8900f7188cb.png",
+        "latex-7754ca6599da49334c364fa48f611c5c9c204de5.png",
+        "latex-7756e3be42c7e3afc4e23d4884c944e21c9286ea.png",
+        "latex-77a024ac860a8911cf2723105e26ef74d66b6b0c.png",
+        "latex-77aa161919f380b1dc8984665abb4c522330b7a7.png",
+        "latex-77cf26be132ef93923e082ee4153b2cb0ef44a50.png",
+        "latex-77e4eba5e3c0223f9eef6e45fdda258ea0681bb7.png",
+        "latex-7818aef823c860c3b911c5ecf15e14a794d50a58.png",
+        "latex-786d9b661efb6d7dfdf8d24660db969d2735c4ff.png",
+        "latex-792f23467de14cbb543714a2cc065517f7cb5a51.png",
+        "latex-7955e879ec0f25aa169757a92c0ed399716dd1da.png",
+        "latex-7a9e47109eb01083f66a935d31c3ad1d3618c37f.png",
+        "latex-7b7f1748bdb619f88dd22710fc9e163814ca903c.png",
+        "latex-7cabdac25e931867e38c2efc2e553e258984119e.png",
+        "latex-7ce8dd828b4d61547adc923aa335eaa633634870.png",
+        "latex-7d7aede99d419a8deceea0b233625da24da35519.png",
+        "latex-7dc17ee9a6245c9495402e3e0058caf04a11ce06.png",
+        "latex-7e07f64e1789417a08a9e9862d22ef2fddd3d287.png",
+        "latex-7e4c823267769da3d9c0488762964f7a9e8f98ee.png",
+        "latex-7ea816eb685e44f51aa709afef3c68af2799ba71.png",
+        "latex-7eb04ef3df796dc996ac8406449155873640d9b1.png",
+        "latex-7f4537eaffe842a3f0e504bc07a2d4ac3124a760.png",
+        "latex-7fc40e69468df821b56de1a5419dcc792ad51d4a.png",
+        "latex-8122aa89ea6e80784c6513d22787ad86e36ad0cc.png",
+        "latex-8149df2b117fcf31443dcdddf35bd73633fb8bb1.png",
+        "latex-84b96f6eafb6cbd046aaeb29d6771571c28ab255.png",
+        "latex-8618c1cee01600e2eebe96156022fbd46c36fe7d.png",
+        "latex-86b99b49777fe48b58a7b098af4125c089d23adc.png",
+        "latex-86c6205b83aeabc816543a655297c68189c7c84c.png",
+        "latex-87b03559e146e3b64f48923bf6360925b8b533cf.png",
+        "latex-885b7e9b954393188f374ca6e82b1e64e5063845.png",
+        "latex-895ff1dd5d96fdff37e21a1b225a9574cc910edc.png",
+        "latex-8a4c9855e1305166a160f6f82c126ec552a4a816.png",
+        "latex-8ada738001410f131563551fb68731e4f302048d.png",
+        "latex-8b728e972662e1cf439d0afd72cf5b387406c45b.png",
+        "latex-8c325612684d41304b9751c175df7bcc0f61f64f.png",
+        "latex-8c338a6ba4f99edc227579e6552b56e196763058.png",
+        "latex-8c8f55723607fb7bfce3b230b51c65ccbd076e15.png",
+        "latex-8c946d4362a3d64108308adcb8852c0bc7645a69.png",
+        "latex-8e920f5968e593a0c74923772f0864260fba1d56.png",
+        "latex-91f4ff483981fe8fd801f1ae8705d30831f54f8c.png",
+        "latex-9267177446bd09d23aec330fcaf1ad6981ea9f75.png",
+        "latex-92a6ffcda527b921187463783c0176484265e158.png",
+        "latex-93e950f4d8050e1d0252e615a0ff3a98ab1e28ce.png",
+        "latex-958688c7b02e160699ba9af4cb0832d578e3d019.png",
+        "latex-96c81b4afa3479c1d2d7a8de2d451f0e10301605.png",
+        "latex-97b9de709aa82246e5265786dd313175d057945c.png",
+        "latex-98549786805279102e7303d2a690feba5d632e6a.png",
+        "latex-99baaea18d3252f60efbee65741ec41b6737211d.png",
+        "latex-9a6ad61d1d49a4333412edbeca9f5eba0ea4b0f2.png",
+        "latex-9bd1b5522a16a49f6e41407d4ed35f06757eb0ba.png",
+        "latex-9be62cf8596584718f4a4b6457ac08c4a927ae33.png",
+        "latex-9d4d112c7c805ab12cb49d3d92a0d990b950b722.png",
+        "latex-9d6e86596bc546d88b158dd0828c2fb384a483ad.png",
+        "latex-9d9c8a4975330134a65a485490c7f07766507f41.png",
+        "latex-9ee4b825a2e36ae093ed7be5e4851ef453b34914.png",
+        "latex-a009aa6cceb9bc8e65bd747f77d9a04b9388f16b.png",
+        "latex-a0e2459b30cff6607acae4e87407dcdf0097e307.png",
+        "latex-a2b7b9ae7dd09133f68dc2918f9c3e5fa21de679.png",
+        "latex-a2bcb45d68d0ae700885b1f84820e8278cbd9687.png",
+        "latex-a3e716af9bd26f2d917c68c2c054aa7fdb59a50d.png",
+        "latex-a4b7f300cd145553e3d8b330dd5e9b3398762edc.png",
+        "latex-a731b0694b21b75300254fddad3ec8ee55861965.png",
+        "latex-a75d3a1c28136535a87e3bd8001af2e4adc33371.png",
+        "latex-a77c40fcc81186c5949609a916d366a4c1825dd8.png",
+        "latex-a7b3e98acd7c3ec424db70605484f70cc3f07d17.png",
+        "latex-a8db19e3b4051093dfa962f3a4d153742d71b530.png",
+        "latex-a9a6d00827f039aeee2570b72bac439f26d22a81.png",
+        "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
+        "latex-aa6712ced162fe3acad81903a9b8d4a00fa48dff.png",
+        "latex-ac3075986abb0ecc00c393a7ce11e960302592b4.png",
+        "latex-ad749d3c0fde94e5f7125514f5cda6498b35de1a.png",
+        "latex-ae2a3b3a4ebed9eaf32d62f748b293c93b1ca325.png",
+        "latex-b0e068a909ed02b9b33e347f7ace8b7accbcc9e0.png",
+        "latex-b34d061272e178133f1196b71474dcb271bcdfcb.png",
+        "latex-b397fd594ca5b8f8f03e000a2815efde0044b8f0.png",
+        "latex-b4b5e7d6748908b1cf7a1b6b282f389b2bc1f52d.png",
+        "latex-b4cbfa00c945a7a27faf02d11a22a801a2d8ded3.png",
+        "latex-b511f5a1513fc4507b61451285bba7aa6cdfd4fe.png",
+        "latex-b514ad58e5c93e42e5576c84d155ce566395c329.png",
+        "latex-b55ca7a0aa88ab7d58f4fc035317fdac39b17861.png",
+        "latex-b5ae0008f14752ed8c9019ab555a4e1e940d7b16.png",
+        "latex-b623136d5cc3c81641e64d10b1d77e9094a58bbc.png",
+        "latex-b6743dd02c99224727f206e1e08e87d66f8942f3.png",
+        "latex-b6e68cc692a902829d48e334e9ad5df8fd60aa96.png",
+        "latex-b8468d66b803514b40022dea113806153431b1c6.png",
+        "latex-bb2c93730dbb48558bb3c4738c956c4e8f816437.png",
+        "latex-bc19275aaa658bc03632c8efcf55e6f72693cf44.png",
+        "latex-bd7cb09dc6a5d785ccf0760f2063acb152de34c2.png",
+        "latex-be15e38cfb98ec630fc927bdf8c26975d6cff930.png",
+        "latex-be3e71516c77676261590288a5d03bdaa4b04ff3.png",
+        "latex-beae12c52a5cedfb2488455cc4ad2320f2c3ead8.png",
+        "latex-beccf058586e8b82210bcdd4e3c66fbd4bccf590.png",
+        "latex-bed284149d3cd42506c661ce3a21dec7d27749a3.png",
+        "latex-c02a6d7b7b319373afd470c9906017b4f56c6948.png",
+        "latex-c1b19b48d17ee5a143615c77c9eada91069fc653.png",
+        "latex-c28c81203152856ca4d6fc50ac403c9dd0fa7145.png",
+        "latex-c51b5a5276aec2d7dfcf5407730e83c350a7e64b.png",
+        "latex-c534452e7a019c7dca0090564b5d2e98b4531175.png",
+        "latex-c53c3caf245a5257013df276d381cbf2189b29e6.png",
+        "latex-c6e4296fbf4f7c8d2ce2e49d098dd34a59050d3c.png",
+        "latex-c96dd6ec1dc4ad7520fbdc78fcdbec9edd068d0c.png",
+        "latex-ca640400147c130cd99e7c5f5e3525db0383eee7.png",
+        "latex-ca800a04bfda74ea455b8c8886f5e077e44245a8.png",
+        "latex-cab1f59763de4ce667230fd54e25acc940f6499d.png",
+        "latex-cbc703e7aedc6f3c4b53a7bee5e32652b2a48996.png",
+        "latex-cc8eea149eb0c0354cd4badf1bba01fff7cc48f6.png",
+        "latex-ccedc2f7ab3f66b36d3e0cf1536a3c801f01f421.png",
+        "latex-cd3ff27b773047863d0a9cfb49b900c0316563da.png",
+        "latex-cf1bbd4faf5a3cdb124505f10815d940765e5b35.png",
+        "latex-cf9cbe3b38a9de23c49a9f4a67dac235e6d46a9f.png",
+        "latex-d07e03ed2705b9477f333ff77570e6a57c7c886a.png",
+        "latex-d1cbd56f6a61d115cb4ab88e4db266191dfd572e.png",
+        "latex-d1ced09b7a33ddbdae61dabd7fa0a188e118df96.png",
+        "latex-d230e4ccc7b8f27b1f751892c0e2443a8b9cf3fe.png",
+        "latex-d23bb93f79c03ae176b34ad241fbbbfe8c36ae43.png",
+        "latex-d34578efea6d2a9c75587a52d7412c0f3946d3ca.png",
+        "latex-d47482aa2b753e60dbeb14988a0fb96793a477d7.png",
+        "latex-d5682858aef92586934553f9238ea5fad911088b.png",
+        "latex-d5d228943f8e5717f77452edeb3dd56fd8858f73.png",
+        "latex-d89e96b7d2bc2f9036b952795c666c0b8c5671a3.png",
+        "latex-d8c17d1b5ac294dec0927fd5a1fc72d982c77218.png",
+        "latex-db05e0849ae2916a4afe3dcba8f08f30ac892628.png",
+        "latex-dcc522872ff880a718c0a4fa325f8e8420253025.png",
+        "latex-dfb9fe16c93a968e9227120d90d1625cc4978320.png",
+        "latex-dfe0cd426ab09524c737c49c76c9d2ef3e334e79.png",
+        "latex-e1161673fd662bb88aa5b12e7859ac9453140b18.png",
+        "latex-e14b781f58b908d3103dafac00ca59535076739c.png",
+        "latex-e23cb70eeac671cf858e26d2b90b2d32cf86cbc4.png",
+        "latex-e4c6bcee988ba9bbceb193375254625884f2918e.png",
+        "latex-e6d84c975b2632e306aec66871e334ddc982c41a.png",
+        "latex-e73393067e6d6e401a5354accc7a730c7a2977aa.png",
+        "latex-e78c02d8c3330a8d4813b9ee60fefc5d4a7bfa9f.png",
+        "latex-e837d224e4b2837260f5d526820a78c8b7a35727.png",
+        "latex-e8f7a45533e18358f3f4660fc0cb9b96140f184a.png",
+        "latex-e9639fdc7a8f9bf13f142f8931b729f8822a682e.png",
+        "latex-eb001e159d217dfa81bfe9eae4456cbbb928d9c6.png",
+        "latex-ebbb3159405e6e01f3bd3b8d06437582bb7ef5dd.png",
+        "latex-ebcabc980c2a8fbb60567db641244e02901d5770.png",
+        "latex-ec30e55c607ccdd9e53808cff749ecba1c36a761.png",
+        "latex-ec3c04b3532c2fe7f32161d446691662606ce1f6.png",
+        "latex-ec721a764ff91c05370d526f05405598bff8ff30.png",
+        "latex-ed417d5bb6f71efe7f65a0e257dc338b1e393f6f.png",
+        "latex-ed5c96875145b4cb65c231b1fbdefb360916fa67.png",
+        "latex-ef4a5845dff73b182a6cf0ae1f82afe185fd9893.png",
+        "latex-eff43e84f8a3bcf7b6965f0a3248bc4d3a9d0cd4.png",
+        "latex-f13552656156bbfeef157e60b3ef4f5354dc1007.png",
+        "latex-f13c42ed50afcb82607578d42909b31ec92d1c71.png",
+        "latex-f33d600f52cee11f98ca66ff1a497ca8867916cc.png",
+        "latex-f591e1144615510ae629712bcb25c45b0b8acf6c.png",
+        "latex-f6ad75eeb6e367e4e628aa69b3e00a1843584424.png",
+        "latex-f6fbf5dc8da9c83389da670e9d2ed87fc135aabf.png",
+        "latex-f72417cbc7f0004ec22e1b1a05402f9b7c7749fa.png",
+        "latex-f784959d9373f3577b776a9b4ca5dc0b2747ceca.png",
+        "latex-f7b91125576c43b28a90a9996dc79370fbf41e5d.png",
+        "latex-f8ff05d0aa5f0a334fd42ce90c2c2c3c2ba79de3.png",
+        "latex-fa2fa899f0afb05d6837885523503a2d4df434f9.png",
+        "latex-fb38834dae57a48ea34f84e973e79754a09242bd.png",
+        "latex-fb8219b211b3e98ca730d54de99ec78728d257d2.png",
+        "latex-fbaf5f80c599b68eb3371527e7cccee57eafddb9.png",
+        "latex-fc9b9776bc6e8f7970961866ecc4444be6748859.png",
+        "latex-fceea52a7360acef13eb0ae755b4a83791c5ce43.png",
+        "latex-fd491bc9ea07176cfd52f153d5f9ef80aebc3fac.png",
+        "latex-fd53d4cf4a7cc0322f66d846cee5c59151e8ebc6.png",
+        "latex-fd5a5be34734efab6aa15cc2b295a8fc25de7647.png",
+        "latex-fd795e55f3f1dad90753c62130aa5c32beaca855.png",
+        "latex-fdb63b9e51abe6bbb16acfb5d7b773ddbb5bf4a8.png",
+        "latex-fdd5352fba3337970fdcda2b29aa606970e0b6fa.png",
+        "latex-fe0bf0e2a9b94501a4334168806b0a96b4ad61ef.png",
+        "latex-fe2fa6567f9a2983c670bb38b90b1645189dfe09.png",
+        "latex-fe5ba58282d27ea86430a47713ec6e76b772f29f.png",
+        "latex-fea04e4bab67bd13beeeb847b8395d019ee1e70c.png",
+        "latex-ff0205eb3d152d5722e1adb1278490f648dadda2.png",
+        "latex-ff5fb3d775862e2123b007eb4373ff6cc1a34d4e.png",
+        "paste-03e351033afafa8adf23062ebbc550271f114744.jpg",
+        "paste-04a9a41e607b583f2c6c0a964418029118c0e500.jpg",
+        "paste-05e86936d178c69fc83780ffdd44b07c82904215.jpg",
+        "paste-0f9150b062de63ad7bd6364c07967b713ffecb5e.jpg",
+        "paste-11a8f05bed5f7dc447be81444c15ab7b16c64741.jpg",
+        "paste-17b880454d07f56d37ea8ee27d3883726277ab9f.jpg",
+        "paste-1d993ebe143cbce63fc248f6bd6f3a916801c38a.jpg",
+        "paste-1eecf5460d71b37b91c159c1adde8688943f1e7e.jpg",
+        "paste-234106dd512bed2b9ca74a9a472b616d6459b5e7.jpg",
+        "paste-27b2b27092b7dc2d031a5ce3085528bd0aab88b8.jpg",
+        "paste-28d0d76fdec93f164325aded6c2fd42ec545adae.jpg",
+        "paste-2e9012abc7019d050b1e5f00e1ce2ccf2d4aa1f7.jpg",
+        "paste-36f1d9ed79d7a77f711b67336bfaec9eeef9a037.jpg",
+        "paste-374e4a1ff02057fa2fe4643ea2622c066a398a1b.jpg",
+        "paste-3e49f3fceb7f6cbf0b65831ad6f0d6e9e225d09c.jpg",
+        "paste-409787bf03d2ced00e9e0a2fcc9d86da7f956565.jpg",
+        "paste-45aee2f10baf293daa3514be968b5889f9e7b31b.jpg",
+        "paste-50f6486027fc479146a1d11717cab51ca952ae34.jpg",
+        "paste-53c166c0ef747ddb40ca05428c505e1f3792852a.jpg",
+        "paste-5419b916c044a7bc900ae5fc214659d02bbd7424.jpg",
+        "paste-5db1306d867f3259788b630b753205147bd8d88f.jpg",
+        "paste-62f885f463f15771fe3fc5698670944671cdccc5.jpg",
+        "paste-6439b536deb68c94c2a88c912f7718b602e3f180.jpg",
+        "paste-68154c2dc0da1e9354d37e440c9e2a2a9f7a2a88.jpg",
+        "paste-6ab9ec9100ed062056ccfea56231d55977b3815a.jpg",
+        "paste-711532bc070f6bdfd7b85f54bfb4a1a236710412.jpg",
+        "paste-81b6ca4da52df53d653f1e8348e297a30d357fd7.jpg",
+        "paste-84b9401fe05e9a116197d13aba69f208a64d25a2.jpg",
+        "paste-8cf9cbaf5297d145d472aaf528d590848182b744.jpg",
+        "paste-9710d6a2208035f4aecb0a464074af4baf08e27f.jpg",
+        "paste-9fd71ca8109272fc4355089edebb6dbdda355d5f.jpg",
+        "paste-a34921713ee81a9708b75be73b6e6d2e65347dac.jpg",
+        "paste-aa2d6aef3a0b6bd4d288b1ed8388a15b638ac2a1.jpg",
+        "paste-b6550af107b5bf52f6c43add2108ebb488147da8.jpg",
+        "paste-b6ccaacfd23595534fcdf86fecd3cc9950af1051.jpg",
+        "paste-b7b5c291d9df274681e8cd641e9510fa53df4fe5.jpg",
+        "paste-b8863e8a302641b83ca9916bd49d99c76d217f40.jpg",
+        "paste-b941d68e8597a9f15444a591594fdec84f3726f5.jpg",
+        "paste-be9e87ea5958f7080fe7a46984ce4acd87122c93.jpg",
+        "paste-c6017e6987b28b1a6773af9dfb360365d9895ca6.jpg",
+        "paste-c9b712b15bc676565ec539951595cc448183be4b.jpg",
+        "paste-ce0d2a903fa71ae23a92d77bc32e3e6011eed121.jpg",
+        "paste-cf7fdc72d74db0e28a645b812414193b1eb63da5.jpg",
+        "paste-d44bd3a7378d2c441a22619003d8181cb724c70f.jpg",
+        "paste-d5e4f5e7074c60e09db3acbebb156e61f0b103fe.jpg",
+        "paste-d6537a40ea7a387b956f8fa5ebd0dc9cbb7b4c11.jpg",
+        "paste-ddb0363d91dd8b6fa08f507a576faf4ca8aa3f7c.jpg",
+        "paste-eb566469955f17676d1f6a5dba4bbc80304f4a88.jpg",
+        "paste-ec4ee9290f6da1f67310dca9c4748ee00547bd78.jpg",
+        "paste-fa9aa653a545b74661c579df89815821a954fb04.jpg",
+        "paste-fcf6714e121167ce88fca446e09dcb6e13291aad.jpg"
     ],
-    "mid": 1613927016391,
+    "mid": 1614777635634,
     "name": "Flight_Dynamics",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "assetManager": {
-                "enabled": true,
-                "indentSize": 4,
-                "insertStub": false,
-                "scripts": [
-                    {
-                        "id": "1613927016391",
-                        "storage": {
-                            "code": "const elements = closet.anki.getQaChildNodes()\nconst memory = chooseMemory('closet__1')\nconst filterManager = closet.FilterManager.make(preset, memory.map)\n\nconst output = [[\n    elements,\n    memory,\n    filterManager,\n]]\n\n/* here goes the setup - change it to fit your own needs */\n\nfilterManager.install(\n    closet.recipes.shuffle({ tagname: 'mix' }),\n    closet.recipes.order({ tagname: 'ord' }),\n    closet.recipes.cloze({ tagname: 'c' }),\n    closet.recipes.multipleChoice({ tagname: 'mc' }),\n    closet.browser.recipes.rect({ tagname: 'rect' }),\n)",
-                            "conditions": [],
-                            "description": "This is the configuration of how Closet will behave.\nTo get inspiration you can visit the homepage: closetengine.com.",
-                            "enabled": true,
-                            "version": "v0.1"
-                        },
-                        "tag": "ClosetUserScript"
-                    }
-                ]
-            },
-            "assetManagerHtml": {
-                "enabled": false,
-                "fragments": [
-                    {
-                        "code": "{{Front}}\n\n{{%scripts}}",
-                        "conditions": [],
-                        "description": "This is the entrance for the front side",
-                        "enabled": true,
-                        "label": "Front",
-                        "name": "FrontSide",
-                        "version": "v1"
-                    },
-                    {
-                        "code": "{{FrontSide}}\n\n<hr id=\"answer\">\n\n{{Back}}\n\n{{%scripts}}",
-                        "conditions": [],
-                        "description": "This is the entrance for the back side",
-                        "enabled": true,
-                        "label": "Back",
-                        "name": "BackSide",
-                        "version": "v1"
-                    }
-                ],
-                "minify": false
-            },
-            "closetVersion": "v0.3.0",
-            "crowdanki_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "crowdanki_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
                 {
@@ -187,7 +459,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": true,
+            "latexsvg": false,
             "name": "Cloze",
             "req": [
                 [
@@ -202,7 +474,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'back'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>",
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -210,7 +482,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Prevent reinclusion\" data-version=\"v0.1\">\n        var ankiAms = document.querySelectorAll('#anki-am')\n          if (ankiAms.length > 1) {\n            for (const am of Array.from(ankiAms).slice(0, -1)) {\n              am.outerHTML = ''\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'front'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>"
+                    "qfmt": "{{cloze:Text}}"
                 }
             ],
             "type": 1
@@ -315,381 +587,995 @@
         {
             "__type__": "Note",
             "fields": [
-                "Unstable aircraft equilibrium&nbsp;{{c1::diverges from::diverges or approaches}} the equilibrium position after a disturbance",
+                "<div><img src=\"paste-aa2d6aef3a0b6bd4d288b1ed8388a15b638ac2a1.jpg\"><br></div><div><br></div>[$]C_{m_{\\left(x_{2}, z_{2}\\right)}}=[/$] {{c1::[$]C_{m_{\\left(x_{1}, z_{1}\\right)} }+C_{N} \\frac{x_{2}-x_{1} }{\\bar{c} }-C_{T} \\frac{z_{2}-z_{1} }{\\bar{c} }[/$]}}",
                 ""
             ],
-            "guid": "z56YMk#%W",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "wyGv:Tkx~B",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "If aircraft equilibrium is {{c1::neutrally stable}}, then after a disturbance, the disturbance stays present, but does not increase.",
+                "The moment coefficient of a wing is given b<div><br></div><div>[$]C_{m}=[/$] {{c1::[$]\\frac{M}{\\frac{1}{2} \\rho V^{2} S \\bar{c} }[/$]}}</div>",
                 ""
             ],
-            "guid": "Nu!%v$tc:<",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "k,uHj4J#zD",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "If an equilibrium is {{c1::stable}}, then after a disturbance, it returns back to original equilibrium.",
+                "The {{c2::aerodynamic center (ac)}} is the moment reference point about which {{c1::the moment does not vary with angle of attack (i.e. the moment is constant).}}",
                 ""
             ],
-            "guid": "Pq-urYgN;)",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "xkk0zpa*q3",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Lift and drag are created by the {{c1::pressure distribution}} over the wing.",
-                "<img src=\"paste-aca8464bb86730bfb8a61105123da6d82fe9c964.jpg\">"
-            ],
-            "guid": "z(0>Sj5hgc",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<img src=\"paste-d2d8a4f17dc5c47427571f55d8017e3489ef3aa2.jpg\"><div>[latex]$\\mathbf{C}_{R}$[/latex]&nbsp;is the dimensionless {{c1::resultant (total)}} aerodynamic force vector</div>",
+                "For the first metacenter, the following hold:<div><br></div><div>[$]C_{m}=[/$] {{c1::0}}<br></div><div>[$]\\frac{d C_{m}}{d \\alpha}=[/$] {{c2::0}}<br></div><div><br></div><div><img src=\"paste-a34921713ee81a9708b75be73b6e6d2e65347dac.jpg\"><br></div>",
                 ""
             ],
-            "guid": "nT@h}y$E]0",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "hX1|I!Gfw;",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "<div><img src=\"paste-3b9ceaec91e9ffd0bb79273a2ad7def29db75302.jpg\"><br></div><div><br></div>[$]C_{N}[/$] and [$]C_{T}[/$] are the components of [$]\\mathbf{C}_{R}[/$] normal respectively tangential to the {{c1::body axis (the chordline)}}.",
+                "For all points on the line of action of [$]d \\mathbf{C}_{R}[/$],<div><br></div><div><div>[$]C_{m}=[/$] {{c1::0}}<br></div><div>[$]\\frac{d C_{m}}{d \\alpha}=[/$] {{c2::0}}</div></div><div><br></div><div>The {{c4::line of action of [$]d \\mathbf{C}_{R}[/$]}} is called the {{c3::neutral line}}. The {{c6::intersection of the neutral line with the mac}} is called the {{c5::neutral point}}.<br></div>",
+                "<img src=\"paste-a34921713ee81a9708b75be73b6e6d2e65347dac.jpg\">"
+            ],
+            "guid": "mfRSo2n(q0",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The point of intersection of two neutral lines belonging to two adjacent angles of attack is called the {{c1::second metacenter}}.</div><div>It is also known as the {{c2::aerodynamic center}}.<br></div><div><br></div><div><img src=\"paste-b7b5c291d9df274681e8cd641e9510fa53df4fe5.jpg\"><br></div><div>At this point, the following hold:</div><div><br></div>[$]\\frac{d C_{m}}{d \\alpha}=[/$] {{c3::0}}<div>[$]\\frac{d^{2} C_{m}}{d \\alpha^{2}}=[/$] {{c4::0}}<br></div>",
                 ""
             ],
-            "guid": "dKVg<nlkn9",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "CB[IfEmgy=",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "[$]C_{L}[/$] and [$]C_{D}[/$] are the components of [$]\\mathbf{C}_{R}[/$] normal respectively tangential to the {{c1::freestream airflow}}.&nbsp;",
-                "<img src=\"paste-9ac8d3cac3903de060eeb2ef62a1fe5d0506b1a2.jpg\">"
+                "The neutral point and aerodynamic center {{c1::do::do/ do not}} coincide.",
+                ""
             ],
-            "guid": "Mn[UEJ12^s",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
+            "guid": "h9NIl0wA`!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "All aerodynamic force vectors are made dimensionless (normalized) by dividing by:",
-                "[$]\\frac{1}{2} \\rho V^{2} S[/$]<br>"
+                "<img src=\"paste-6439b536deb68c94c2a88c912f7718b602e3f180.jpg\"><div>Along the mac:<br><div><br></div><div>[$]C_{m}(x)=[/$] {{c1::[$]C_{m_{a c}}+C_{N} \\frac{x-x_{a c} }{\\bar{c} }[/$]}}<br></div></div>",
+                ""
             ],
-            "guid": "nu{uB5M3Sm",
+            "guid": "u@<W:{Cw;y",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The point {{c3::along the mac where the moment is zero}} is called the {{c2::center of pressure}}.<div><br></div><div>It {{c1::does::does/does not}} varies with angle of attack.</div>",
+                "<img src=\"paste-1d993ebe143cbce63fc248f6bd6f3a916801c38a.jpg\">"
+            ],
+            "guid": "dO3!@WV5,>",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regarding the stability of a <b>single wing</b>:<div><br></div><div>When the suspension point is {{c4::in front of::in front of/behind/at}} the ac, there is a {{c2::stable}} equilibrium, on the condition that {{c3::[$]C_{m_{a c}}&lt;0[/$]}} .</div><div><br></div><div>[$]d C_{m} / d C_{N}[/$] will be {{c1::negative}}.&nbsp;</div>",
+                "<img src=\"paste-d5e4f5e7074c60e09db3acbebb156e61f0b103fe.jpg\"><img src=\"paste-b6550af107b5bf52f6c43add2108ebb488147da8.jpg\">"
+            ],
+            "guid": "Q:XiuMi5Ed",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When the suspension point is {{c1::at::in front of/behind/at}} the ac, there is a {{c2::neutrally stable}} equilibrium, on the condition that {{c3::[$]C_{m_{a c} }=0[/$]}} .<div><br></div><div>[$]d C_{m} / d C_{N}=[/$]{{c4::0}}</div>",
+                "<img src=\"paste-6ab9ec9100ed062056ccfea56231d55977b3815a.jpg\"><img src=\"paste-fa9aa653a545b74661c579df89815821a954fb04.jpg\">"
+            ],
+            "guid": "Okv*Q5yi/_",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regarding the stability of a single wing:<div><br></div><div>When the suspension point is {{c1::behind::in front of/behind/at}} the ac, there is an [$]unstable[/$] equilibrium.<br></div>",
+                "<img src=\"paste-53c166c0ef747ddb40ca05428c505e1f3792852a.jpg\"><img src=\"paste-45aee2f10baf293daa3514be968b5889f9e7b31b.jpg\">"
+            ],
+            "guid": "z1Up%|BR[!",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The <b>angle of attack</b> [$]\\alpha[/$] is the angle between {{c1::the velocity and the body axis of the aircraft (the axis that goes through the nose of the aircraft and through the center of gravity of it).}}<div><br><div>The <b>flight path angle</b> [$]\\gamma[/$] is the angle between {{c2::the horizontal and the velocity vector}}.</div><div><br></div><div>The <b>pitch angle</b> [$]\\theta[/$] is the {{c3::sum of [$]\\alpha[/$] and [$]\\gamma[/$] (i.e. [$]\\theta=\\alpha+\\gamma[/$])}}.</div></div>",
+                "<img src=\"paste-68154c2dc0da1e9354d37e440c9e2a2a9f7a2a88.jpg\">"
+            ],
+            "guid": "p!~Yxcv|-k",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Steady flight means that {{c2::the velocity {{c1::V}} is constant.}}<div><br><div>Straight flight means that {{c3::the flight path angle [$]\\gamma[/$] is constant.}}</div><div><br></div><div>Symmetric flight means that {{c4::there is no roll angle and the turn rate is zero.}}</div></div>",
+                ""
+            ],
+            "guid": "n5zy,3mL0,",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The <b>moment equilibrium equation</b> of a plane along a body-axis reference system in steady, symmetric, straight flight are given by<br></div><div><br></div>{{c1::[$]C_{m_{a c_{w} } }[/$]}} + [$]C_{N_{w} }[/$] {{c2::[$]\\frac{x_{c . g .} - x_{w} }{\\bar{c} }[/$]}} + [$]C_{N_{h} }[/$] {{c3::[$]\\left(\\frac{V_{h} }{V}\\right)^{2} \\frac{S_{h} }{S} \\frac{x_{c . g .}-x_{h} }{\\bar{c} }[/$]}}&nbsp; [$]=0[/$]",
+                "<img src=\"paste-be9e87ea5958f7080fe7a46984ce4acd87122c93.jpg\">"
+            ],
+            "guid": "O&WxWE#{X5",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The tail length of an aircraft is the distance between the aerodynamic center of the horizontal tailplane and the aerodynamic center of the wing with fuselage and nacelles, i.e.<div><br></div><div>[$]l_{h}=x_{h}-x_{w}[/$]<br></div><div><br></div><div>For conventional aircraft,</div><div><br></div><div>[$]l_{h}= x_{h}-x_{w} \\approx[/$] {{c1::[$]x_{h}-x_{c . g .}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "N-K%3gy6Tn",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The <b>horizontal tailplane</b> consists of:</div><div><br></div>The horizontal tailplane itself which is at an angle {{c1::[$]\\alpha_{h}[/$]}} relative to the flow.<div><br><div>The {{c4::elevator}}, which is at an angle {{c2::[$]\\delta_{e}[/$]}} relative to the horizontal tailplane.</div><div><br></div><div>The {{c5::trim tab}}, which is at an angle {{c3::[$]\\delta_{t}[/$]}} relative to the elevator.</div></div>",
+                "<img src=\"paste-62f885f463f15771fe3fc5698670944671cdccc5.jpg\">"
+            ],
+            "guid": "iCEChRevJ8",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The pressure distribution over the horizontal plane due to&nbsp;[$]\\alpha_h[/$] is (visualize the graph):",
+                "<img src=\"paste-04a9a41e607b583f2c6c0a964418029118c0e500.jpg\">"
+            ],
+            "guid": "oU#i<yTI#U",
             "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
             "tags": [
-                "chap_1"
+                "Sam_1"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "The air flows over the wing, at varying speed, creating {{c1::lower}} pressure on the {{c2::upper}} side and {{c1::higher}} pressure on the {{c2::lower}} side.",
+                "The pressure distribution over the horizontal plane due to&nbsp;[$]\\delta_{e}[/$] is (visualize the graph):",
+                "<img src=\"paste-b6ccaacfd23595534fcdf86fecd3cc9950af1051.jpg\">"
+            ],
+            "guid": "N7M(@q]j>7",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The pressure distribution over the horizontal tailplane due to&nbsp;[$]{\\delta_t}_e[/$] is (visualize the graph):",
+                "<img src=\"paste-9710d6a2208035f4aecb0a464074af4baf08e27f.jpg\">"
+            ],
+            "guid": "loD?,my1?I",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For horizontal tailplanes (using symmetric airfoils and with little effect of the trim tab on the normal force), we have:<div><br></div><div>[$]C_{N_{h}}=[/$] {{c1::[$]C_{N_{h_{\\alpha} } } \\alpha_{h} +C_{N_{h_{\\delta} } } \\delta_{e}[/$]}}<br></div><div><br></div><div>where [$]C_{N_{h_{\\alpha} } } &gt;0[/$] and [$]C_{N_{h_{\\delta}}}&gt;0[/$]<br></div>",
                 ""
             ],
-            "guid": "i-}ySx{2$D",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "guid": "s<[O_WyEUI",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The hinge moment coefficient is defined as:<div><br></div><div>[$]C_{h_{e}}=[/$] {{c1::[$]\\frac{H_{e}}{\\frac{1}{2} \\rho V_{h}^{2} S_{e} \\bar{c}_{e}}[/$]}}<br></div><div><br></div><div>It is the moment created by the aerodynamic forces around the hinge line of the elevator.</div><div><img src=\"paste-62f885f463f15771fe3fc5698670944671cdccc5.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "b36U7o%^W`",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-9fd71ca8109272fc4355089edebb6dbdda355d5f.jpg\"><div>Because of the above graph, is placing the hinge more aft on the elevator a good decision?</div>",
+                "No, because a nose-up moment is created when the elevator is deflected, meaning&nbsp;[$]C_{h_{\\delta}}&gt;0[/$].<div><br><div>This creates even more deflection, and causes unstable equilibrium (the plane crashes).</div></div>"
+            ],
+            "guid": "vWn%dY671G",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If a control surface has both [$]C_{h_{\\alpha}}[/$] and [$]C_{h_{\\delta}}[/$] negative, it is called aerodynamically {{c1::underbalanced}}.<div><br></div><div>If it has both as positive, it is called aerodynamically {{c1::overbalanced}}.</div>",
+                ""
+            ],
+            "guid": "pi=%JPD1mw",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The downwash at the horizontal tail is given by:<div><br></div><div>[$]\\epsilon=[/$] {{c1::[$]\\left(\\alpha-\\alpha_{0}\\right) \\frac{d \\epsilon}{d \\alpha}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "cP4}P4@AYO",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The angle of attack at the horizontal tailplane is given (in its entirety) by:</div><div><br></div>[$]\\alpha_{h}=[/$] {{c2::[$]\\left(\\alpha-\\alpha_{0}\\right)\\left(1-\\frac{d \\epsilon}{d \\alpha}\\right)[/$]}} [$]+[/$] {{c1::[$]\\left(\\alpha_{0}+i_{h}\\right)[/$]}}<div><br></div><div><img src=\"paste-ce0d2a903fa71ae23a92d77bc32e3e6011eed121.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "DZ?}P0r1)T",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In order to have horizontal and rotational equilibrium in steady, straight, symmetric flight, the <b>tail load</b> equals<div><br></div><div>[$]N_{h} \\approx[/$] {{c1::[$]\\frac{1}{l_{h} }\\left[C_{m_{a c} } \\frac{1}{2} \\rho V^{2} S \\bar{c}+W\\left(x_{c . g .}-x_{w}\\right)\\right][/$]}}<br></div><div><br></div><div><img src=\"paste-50f6486027fc479146a1d11717cab51ca952ae34.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "sySeWt8=rQ",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the <b>body-axis coordinate system</b> (used for <b>lateral stability</b>), the following terms are defined:<div><br></div><div>The [$]X_{b}[/$] -axis is aligned with the {{c1::centerline of the fuselage}}, and points towards {{c1::the nose}}.</div><div><br></div><div>The velocity component along this axis is denoted by {{c2::u}}.</div><div><br></div><div>Rotation around this axis is denoted by {{c3::p}} and corresponds to the rolling velocity. Often the non-dimensional parameter {{c3::[$]\\frac{p b}{2 V}[/$]}} is used.<br></div><div><br></div><div>The force along this axis is denoted by X. It'll mostly deal with {{c4::thrust}} and {{c4::drag}}.<br></div><div><br></div><div>The moment along this axis is denoted by {{c5::L}}. This moment corresponds to a rolling moment.<br></div><div><br></div><div><br></div>",
+                "<img src=\"paste-d44bd3a7378d2c441a22619003d8181cb724c70f.jpg\">"
+            ],
+            "guid": "hzK>2X-=xC",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the&nbsp;<b>body-axis coordinate system</b>&nbsp;(used for&nbsp;<b>lateral stability</b>), the following terms are defined:<div><br></div><div>The [$]Y_{b}[/$] -axis points towards the {{c6::right::right/left}} wing, when looking at the aircraft from behind.</div><div><br>The velocity component along this axis is denoted by {{c1::v}}.</div><div><br>Rotation around this axis is denoted by {{c4::q}} and corresponds to the pitching velocity.</div><div><br>The force along this axis is denoted by {{c5::Y}}. This force is generated by asymmetric motion.</div><div><br>The moment along this axis is denoted by {{c3::M}}. This moment corresponds to a pitching moment.<br></div>",
+                "<img src=\"paste-d44bd3a7378d2c441a22619003d8181cb724c70f.jpg\">"
+            ],
+            "guid": "M;[sU&d&Oy",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the&nbsp;<b>body-axis coordinate system</b>&nbsp;(used for&nbsp;<b>lateral stability</b>), the following terms are defined:<div><br></div><div>The [$]Z_{b}[/$] -axis points down, perpendicular to the fuselage centerline.</div><div><br>The velocity component along this axis is denoted by {{c1::w}}.</div><div><br>Rotation around this axis is denoted by {{c2::r}} and corresponds to the yawing velocity. Often the non-dimensional parameter {{c2::[$]\\frac{r b}{2 V}[/$]}} is used.</div><div><br>The force along this axis is denoted by Z. It'll mostly deal with lift and gravity.</div><div><br>The moment along this axis is denoted by {{c3::N}}. This moment corresponds to a yawing moment.<br></div>",
+                "<img src=\"paste-d44bd3a7378d2c441a22619003d8181cb724c70f.jpg\">"
+            ],
+            "guid": "huDa<iWrd:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When non-dimensionalizing the L and N moments in asymmetric motion, the moments are divided by:<div><br></div>",
+                "[$]\\frac{1}{2} \\rho V^{2} S b[/$]"
+            ],
+            "guid": "bQHj^xv)T<",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The angle between the velocity vector and the {{c1::[$]X_{B}-Y_{B}[/$]}} -plane is defined as the angle of attack [$]\\alpha[/$]. It is equal to<br><br>[$]\\alpha=[/$] {{c2::[$]\\arcsin \\frac{w}{V} \\approx \\frac{w}{V}[/$]}}<br><br>",
+                "<img src=\"paste-374e4a1ff02057fa2fe4643ea2622c066a398a1b.jpg\">"
+            ],
+            "guid": "en34[Ord7x",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The angle between the velocity vector and the {{c1::[$]X_{B}-Z_{B}[/$]}} -plane is defined as the sideslip angle [$]\\beta[/$]. It is equal to<div><br>[$]\\beta=[/$] [$]\\arcsin \\frac{v}{V} \\approx \\frac{v}{V}[/$]<br></div>",
+                "<img src=\"paste-374e4a1ff02057fa2fe4643ea2622c066a398a1b.jpg\">"
+            ],
+            "guid": "e!$@qGxN7s",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The stability derivative&nbsp;[$]C_{Y_{\\beta}}[/$] is mostly determined by the {{c1::vertical tailplane::aircraft part}} and is {{c2::negative::positive/negative}} in sign.",
+                "<img src=\"paste-03e351033afafa8adf23062ebbc550271f114744.jpg\">"
+            ],
+            "guid": "DER=:]:n=w",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Concerning the stability derivative&nbsp;[$]C_{l_{\\beta}}[/$] (the <b>effect of sideslip on rolling</b>):</div><div><br></div><div>1. A {{c1::negative::positive/negative}} [$]C_{l_{\\beta}}[/$] is desired.</div><div><br>2. {{c2::Positive::Positive/negative}} dihedral causes a {{c4::negative::positive/negative}} [$]C_{l_{\\beta}}[/$].</div><div><br></div><div>3. {{c3::Positive::Positive/negative}} sweep causes a {{c5::negative::positive/negative}} [$]C_{l_{\\beta}}[/$].</div><div><br></div><div>4. High-wing configuration causes {{c6::negative::positive/negative}} [$]C_{l_{\\beta}}[/$]; low-wing configuration causes {{c6::positive::positive/negative}} [$]C_{l_{\\beta}}[/$].</div>",
+                "<img src=\"paste-b941d68e8597a9f15444a591594fdec84f3726f5.jpg\"><img src=\"paste-1eecf5460d71b37b91c159c1adde8688943f1e7e.jpg\"><img src=\"paste-05e86936d178c69fc83780ffdd44b07c82904215.jpg\"><img src=\"paste-409787bf03d2ced00e9e0a2fcc9d86da7f956565.jpg\">"
+            ],
+            "guid": "c~kG#T.S;L",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Concerning the stability derivative&nbsp;[$]{C_n}_{\\beta}[/$] (the effect of <b>sideslip on yawing</b>), also called weathervane stability:<div><br></div><div><br></div><div>1. A {{c1::positive::positive/negative}} [$]C_{n_{\\beta}}[/$] is desirable.</div><div><br>2. The {{c3::vertical tailplane::aircraft part}} is responsible for a {{c2::negative::positive/negative}} [$]C_{n_{\\beta}}[/$] due to the moment arm of the normal force on the {{c3::vertical tailplane::same aircraft part}}.</div><div><br>3. If it's a low-wing configuration, [$]d \\sigma / d \\beta[/$] is {{c4::negative::positive/negative}}; if it's high-wing, [$]d \\sigma / d \\beta[/$] is {{c4::positive::positive/negative}}.</div><div><br>4. The fuselage itself has a {{c5::negative::positive/negative}} [$]C_{n_{\\beta}}[/$], especially when the center of gravity is in the back.</div><div><br>5. Increasing wing sweep makes [$]C_{n_{\\beta}}[/$] more {{c6::positive::positive/negative}}, as it puts the lateral forces behind the center of gravity, introducing a {{c6::positive::positive/negative}} yawing moment.</div>",
+                "<img src=\"paste-c9b712b15bc676565ec539951595cc448183be4b.jpg\"><img src=\"paste-81b6ca4da52df53d653f1e8348e297a30d357fd7.jpg\">"
+            ],
+            "guid": "C66hS9z1]F",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><div>[$]C_{Y_{p} }[/$] (effect of <b>rolling velocity on lateral forces</b>) is {{c1::very small::effect size}}, primarily caused by the {{c2::vertical tailplane::aircraft part}} and {{c3::negative::positive/negative}}.<br></div></div>",
+                ""
+            ],
+            "guid": "Rg$tiFO<{C",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With regards to [$]C_{l_{p} }[/$] (effect of&nbsp;<b>rolling velocity on rolling moment</b>):<br><br>[$]-C_{l_{p} }[/$] is mainly caused by the {{c4::main wing::aircraft part}}, which causes a {{c5::negative::positive/negative}} [$]C_{l_{p} }[/$] {{c5::(roll damping)}}.<br><br>The {{c6::vertical tailplane::aircraft part}} induces an additional {{c7::negative::positive/negative}} [$]C_{l_{p} }[/$].<br><br>",
+                "<img src=\"paste-ddb0363d91dd8b6fa08f507a576faf4ca8aa3f7c.jpg\">"
+            ],
+            "guid": "eY]5bc},94",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>With regards to [$]C_{n_{p} }[/$] (the&nbsp;<b>effect of rolling velocity on yawing moment</b>):<br><br>[$]-C_{n_{p} }[/$] is {{c8::negative::positive/negative}} because:</div><div>{{c11::as the down-going wing will experience more lift and drag, and since the velocity vector is inclined downward, the lift will now have a component in positive [$]x[/$] -direction which offsets the increased drag.}}<br><br>Depending on the sweep and the location of the center of gravity, the sweep of the wing may also contribute to [$]C_{n_{p} }[/$]<br><br>The {{c9::vertical tail::aircraft part}} produces a {{c10::positive::positive/negative}} contribution [$]C_{n_{p} }[/$].</div>",
+                "<img src=\"paste-84b9401fe05e9a116197d13aba69f208a64d25a2.jpg\"><img src=\"paste-5db1306d867f3259788b630b753205147bd8d88f.jpg\">"
+            ],
+            "guid": "o6OcYlg/hl",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]C_{Y_{r } } [/$] (the effect of <b>yawing velocity on lateral force</b>) is {{c3::very small}::effect size}, primarily caused by the {{c1::vertical tailplane::aircraft part}} and {{c2::positive::positive/negative}}.<br><div><br></div>",
+                "<img src=\"paste-d6537a40ea7a387b956f8fa5ebd0dc9cbb7b4c11.jpg\">"
+            ],
+            "guid": "y@;9`q;I=T",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With regards to [$]C_{l_{r } } [/$] (the effect of&nbsp;<b>yawing velocity on rolling moment</b>):<div><br>[$]-C_{l_{r } } [/$] is mainly caused by the {{c1::main wing::aircraft part}}, which causes a {{c2::positive::positive/negative}} [$]C_{l_{r } } [/$] due to {{c3::velocity differential over the wing span}}.</div><div><br>The vertical tailplane induces a (smaller) {{c4::positive::positive/negative}} [$]C_{l_{r } } [/$].<br><div><br></div></div>",
+                "<img src=\"paste-b8863e8a302641b83ca9916bd49d99c76d217f40.jpg\">"
+            ],
+            "guid": "c6?Z0p`XdM",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]C_{n_{r } } [/$] (the effect of&nbsp;<b>yawing velocity on yawing moment</b>) is mainly caused by the {{c1::vertical tailplane::aircraft part}}, which cause a {{c2::negative::positive/negative}} [$]C_{n_{r } } [/$].<div><br><div>The fuselage adds {{c3::negatively::positively/negatively}} to [$]C_{n_{r } }[/$].</div></div>",
+                "<img src=\"paste-d6537a40ea7a387b956f8fa5ebd0dc9cbb7b4c11.jpg\">"
+            ],
+            "guid": "rtq2o1U{HA",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ailerons are defined as follows:<div><br></div><div>The deflection of the {{c2::right::right/left}} aileron is defined as being positive.</div><div><br></div><div>The deflection of the aileron is denoted by [$]\\delta_{a}[/$] and is the {{c1::difference between the deflection angles of the left and right ailerons (thus, if you deflect both of them, say, [$]30^{\\circ}[/$], the deflection of the aileron is [$]\\left.\\delta_{a}=60^{\\circ}\\right)[/$].}}<br></div>",
+                "<img src=\"paste-c6017e6987b28b1a6773af9dfb360365d9895ca6.jpg\">"
+            ],
+            "guid": "uJd[G*8q8",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Considering the <b>aileron control derivatives</b>:</div><div><br></div>[$]C_{Y_{\\delta_{a } } }=[/$] {{c1::0}}<div>(the effect of the <b>ailerons on lateral forces</b>)<br><br>[$]C_{l_{\\delta_{a } } }[/$] is {{c3::negative::positive/negative}}; this derivative is called the aileron {{c2::effectiveness}}.</div><div>(the effect of the <b>ailerons on rolling moment</b>)<br><br>[$]C_{n_{\\delta_{a } } }[/$] is {{c4::positive::positive/negative}}; this is called {{c5::adverse yaw}}.<br></div><div>(the effect of <b>ailerons on yawing moment</b>)</div>",
+                ""
+            ],
+            "guid": "j_(xbTLR=<",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Considering the&nbsp;<b>rudder control derivatives</b>:</div><div><br></div>[$]C_{Y_{\\delta_{r } } }[/$] is {{c1::positive::positive/negative}}.<div>(the effect of the&nbsp;<b>rudder on lateral forces</b>)<br><br>[$]C_{l_{\\delta_{r } } }[/$] is {{c3::positive::positive/negative}}</div><div>(the effect of the&nbsp;<b>rudder on rolling moment</b>)<br><br>[$]C_{n_{\\delta_{r } } }[/$] is {{c2::negative::positive/negative}}<br></div><div>(the effect of&nbsp;<b>rudder on yawing moment</b>)</div>",
+                "<img src=\"paste-0f9150b062de63ad7bd6364c07967b713ffecb5e.jpg\">"
+            ],
+            "guid": "DNogAai/tl",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In lateral control and stability,<div><br></div><div>The {{c1::non-dimensional mass parameter}} [$]\\mu_{b}[/$] is defined as<br></div><div><br></div><div>[$]\\mu_{b}=[/$] {{c2::[$]\\frac{m}{\\rho S b}[/$]}}<br></div>",
+                ""
+            ],
+            "guid": "j|I_K>|B:,",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-27b2b27092b7dc2d031a5ce3085528bd0aab88b8.jpg\"><div>The simplified, non-dimensional equations of motion used in horizontal, steady, asymmetric flight (essentially, <b>turn analysis</b>) are:</div><div><br></div><div>([$]C_{Y_{\\delta_{a } } }[/$] and [$]C_{l_{\\delta_{r } } }[/$] will be neglected, and [$]C_{Y_{r } } , C_{n_{\\delta_{a } } }[/$], [$]C_{Y_{\\delta_{r } } }[/$] will also be neglected, due to their small sizes.)<br></div><div><br></div><div>[$] \\sum F_{Y_{B } } :[/$] {{c3::[$]C_{L} \\phi + C_{Y_{\\beta } }&nbsp; \\beta - 4 \\mu_{b} \\frac{r b}{2 V}[/$]}}&nbsp; [$]=0[/$]</div><div><br>[$]\\sum M_{X}:[/$]&nbsp; {{c2::[$]C_{l_{\\beta } }&nbsp; \\beta+C_{l_{r } }&nbsp; \\frac{r b}{2 V}+C_{l_{\\delta_{a } } } \\delta_{a}[/$]}}&nbsp; [$]=0[/$]<br><br>[$]\\sum M_{Z}:[/$] {{c1::[$]C_{n_{\\beta } }&nbsp; \\beta+C_{n_{r } }&nbsp; \\frac{r b}{2 V}+C_{n_{\\delta_{r } } } \\delta_{r}[/$]}}&nbsp; [$]=0[/$]<br></div><div><br></div><div><br></div>",
+                "<div><br></div><div><br></div>where [$]\\mu_{b}=\\frac{m}{\\rho S b}[/$]"
+            ],
+            "guid": "Jm+DITueZ+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A coordinated turn is a turn with no {{c1::sideslipping, i.e. [$]\\beta=0[/$]}}.",
+                ""
+            ],
+            "guid": "M[s-EB/HU$",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A flat turn is a turn with no {{c1::roll, i.e. [$]\\phi=0[/$]}}.",
+                ""
+            ],
+            "guid": "g;bA21e)|o",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-ec4ee9290f6da1f67310dca9c4748ee00547bd78.jpg\"><div>Identify this reference frame.</div>",
+                "Earth-centered interial&nbsp;[$]F_I[/$]"
+            ],
+            "guid": "F(:H0Qdma(",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-3e49f3fceb7f6cbf0b65831ad6f0d6e9e225d09c.jpg\"><div>Identify this reference frame</div>",
+                "Earth-centered, Earth-fixed [$]F_C[/$]"
+            ],
+            "guid": "mNw#>|7[(A",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-eb566469955f17676d1f6a5dba4bbc80304f4a88.jpg\"><div>Identify this reference frame.</div>",
+                "Vehicle-carried normal Earth&nbsp;[$]F_E[/$]"
+            ],
+            "guid": "rn-SmXmqnR",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-28d0d76fdec93f164325aded6c2fd42ec545adae.jpg\"><div>Identify this reference frame.</div>",
+                "Body-fixed&nbsp;[$]F_b[/$]"
+            ],
+            "guid": "md`-Z4pS,l",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-234106dd512bed2b9ca74a9a472b616d6459b5e7.jpg\"><div>Identify this reference frame.</div>",
+                "Stability&nbsp;[$]F_S[/$]"
+            ],
+            "guid": "rN@aR)UEQ6",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-36f1d9ed79d7a77f711b67336bfaec9eeef9a037.jpg\"><div>Identify this reference frame.</div>",
+                "Aircraft reference&nbsp;[$]F_r[/$]<div><br></div><div>(used in longitudinal stability)</div>"
+            ],
+            "guid": "IBE>$CRJP&",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-711532bc070f6bdfd7b85f54bfb4a1a236710412.jpg\"><div>Identify this reference frame.</div>",
+                "Aerodynamic&nbsp;[$]F_a[/$] in relation to body-fixed&nbsp;[$]F_b[/$]"
+            ],
+            "guid": "AF+xYwq!FV",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c4::body-fixed [$]F_{b}[/$]}}&nbsp;reference frame, and the {{c4::vehicle-carried normal Earth [$]F_{E}[/$]}}&nbsp;reference frame, are related via three angles:<div><br>- the {{c1::pitch}} angle {{c1::[$]\\theta[/$]}} (rotation around [$]Y_{E}[/$] -axis)<br>- the {{c2::roll}} angle {{c2::[$]\\phi[/$]}} (rotation around [$]X_{E^{- } } [/$] axis)<br>- the {{c3::yaw}} angle {{c3::[$]\\psi[/$]}} (rotation around [$]Z_{E}[/$] -axis)</div>",
+                ""
+            ],
+            "guid": "M6OC?ER]W3",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "We define the following <b>body-fixed angles</b>:<div><br>{{c1::Azimuth}} angle: angle between [$]X_{b}[/$] -axis and its projection on a predefined (local) vertical plane.<br>{{c2::Climb}} angle: angle between [$]X_{b}[/$] -axis and its projection on the (local) horizontal plane.<br>{{c3::Bank}} angle: angle between [$]Y_{b}[/$] -axis and its projection on the (local) horizontal plane.<br></div>",
+                ""
+            ],
+            "guid": "h=w49B85>+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]F_{a},[/$] the aerodynamic reference frame, and [$]F_{b},[/$] the body-fixed reference frame are related via<div><br>The angle of attack [$]\\alpha_{a}[/$] around the {{c1::[$]Y_{b}[/$]}} -axis<br>The angle of sideslip [$]\\beta_{a}[/$] around the {{c2::[$]Z_{b}[/$]}} -axis</div>",
+                ""
+            ],
+            "guid": "J_2gdP6S>H",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[$]F_{a},[/$] the aerodynamic reference frame, and [$]F_{e},[/$] the vehicle-carried normal Earth reference frame are related via<div><br>- the aerodynamic {{c1::heading}} angle {{c1::[$]\\chi_{a}[/$]}} about the [$]Z_{E}[/$] -axis<br>- the aerodynamic {{c2::flight-path}} angle about the [$]Y_{E}[/$] -axis<br>- the aerodynamic {{c3::bank}} angle {{c3::[$]\\mu_{a}[/$]}} about the [$]X_{E}[/$] -axis</div>",
+                "<img src=\"paste-17b880454d07f56d37ea8ee27d3883726277ab9f.jpg\">"
+            ],
+            "guid": "r0Ncl:E%P;",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><img src=\"paste-8cf9cbaf5297d145d472aaf528d590848182b744.jpg\"><br></div><div><br></div><div>The <b>transformation matrix</b> to rotate the coordinates of a point with coordinates [$]\\left[x_{i}, y_{i}, z_{i}\\right]^{T}[/$] in the original [$]i[/$] -coordinate system to the coordinates [$]\\left[x_{j}, y_{j}, z_{j}\\right]^{T}[/$] in the [$]j[/$] -coordinate system:<br><br><br>Rotated an angle [$]\\theta[/$] around the [$]x[/$] -axis in positive direction, is given by<br><br>[$]\\left[\\begin{array}{l} x_{j} \\\\ y_{j} \\\\ z_{j} \\end{array}\\right]=[/$] {{c3::[$]\\left[\\begin{array}{ccc} 1 &amp; 0 &amp; 0 \\\\ 0 &amp; \\cos \\theta_{x} &amp; \\sin \\theta_{x} \\\\ 0 &amp; -\\sin \\theta_{x} &amp; \\cos \\theta_{x} \\end{array}\\right][/$]}} [$]\\left[\\begin{array}{l} x_{i} \\\\ y_{i} \\\\ z_{i} \\end{array}\\right][/$]<br><br><br>Rotated an angle [$]\\theta[/$] around the [$]y[/$] -axis in positive direction, is given by<br><br>[$]\\left[\\begin{array}{l} x_{j} \\\\ y_{j} \\\\ z_{j} \\end{array}\\right]=[/$] {{c2::[$]\\left[\\begin{array}{ccc}\\cos \\theta_{y} &amp; 0 &amp; -\\sin \\theta_{y} \\\\0 &amp; 1 &amp; 0 \\\\\\sin \\theta_{y} &amp; 0 &amp; \\cos \\theta_{y}\\end{array}\\right][/$]}} [$]\\left[\\begin{array}{l} x_{i} \\\\ y_{i} \\\\ z_{i} \\end{array}\\right][/$]<br><br><br>Rotated an angle [$]\\theta[/$] around the [$]x[/$] -axis in positive direction, is given by<br><br>[$]\\left[\\begin{array}{l} x_{j} \\\\ y_{j} \\\\ z_{j} \\end{array}\\right]=[/$] {{c1::[$]\\left[\\begin{array}{ccc}\\cos \\theta_{z} &amp; \\sin \\theta_{z} &amp; 0 \\\\-\\sin \\theta_{z} &amp; \\cos \\theta_{z} &amp; 0 \\\\0 &amp; 0 &amp; 1\\end{array}\\right][/$]}} [$]\\left[\\begin{array}{l} x_{i} \\\\ y_{i} \\\\ z_{i} \\end{array}\\right][/$]<br><br><br><br></div>",
+                "These equations can be written in short-hand notation as<br><br>[$]\\mathbf{X}^{j}=\\mathbb{T}_{j i}(\\theta) \\mathbf{X}^{i}[/$]<br><br>where [$]\\mathbf{X}^{k}[/$] means the vector [$]\\mathbf{X}[/$] expressed in reference frame [$]k[/$].<br><br>Another way of notation is the following: [$]\\mathbf{X}^{j}=\\left.\\mathbb{T}_{x}(\\theta)\\right|_{i} \\mathbf{X}^{i}[/$]<br><br>Here, [$]\\left.\\mathbb{T}_{x}\\right|_{i}[/$] indicates a rotation around the original [$]x[/$] -axis in the [$]i[/$] -reference frame."
+            ],
+            "guid": "HX>0]w-toj",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For reference frame transformation matrices, the inverse of a rotation from <i>b </i>to <i>a </i>{{c1::is::is/is not}} equivalent to a rotation from <i>a </i>to <i>b.&nbsp;</i><div><i><br></i></div><div>[$]\\mathbb{T}^{-1}(\\theta)[/$] {{c1::=::equals/does not equal}} [$]\\mathbb{T}(-\\theta)[/$]</div>",
+                "<div><br></div>This is because reference frame transformation matrices are orthonormal."
+            ],
+            "guid": "nvz5L=q]9_",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When setting up transformation matrix sequences from diagrams, the addition of minus signs in front of the {{c4::sin::sin/cos}} terms in the matrix depends on three things:<div><br></div><div>(a) The angle written near the arrow has {{c1::a minus sign in front of it}};<br>(b) The arrow points {{c2::in negative direction;}}<br>(c) The arrow is traversed {{c3:: in negative direction}} to perform the rotation.</div><div><br></div><div>The cumulative sign of the three points will determine the sign in front of your {{c4::sin::sin/cos}} terms (add one per true condition).</div>",
+                ""
+            ],
+            "guid": "b.o`c^g/J+",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Consider two reference frames [$]A[/$] and [$]B[/$].<br><br>Let [$]\\left.\\mathbf{R}\\right|_{A}[/$] denote {{c1::the position vector of the origin of reference [$]B[/$] with respect to the origin of reference frame [$]A[/$]::vector}}<div><br></div><div>Let [$]d \\mathbf{R} /\\left.d t\\right|_{A}[/$] denote the {{c2::velocity vector of the origin of [$]B[/$] in reference frame [$]A[/$]::vector and velocity}}.<br><br>Let [$]\\mathbf{r}[/$] denote the {{c3::position vector of a point [$]P[/$] in reference frame [$]B[/$]::vector}}</div><div><br></div><div>Let [$]d \\mathbf{r} /\\left.d t\\right|_{B}[/$] be the {{c4::velocity vector of [$]P[/$] within reference [$]B[/$]::vector and velocity}}.<br><br><br>The velocity vector of this point in reference frame [$]A[/$] is then given by<br><br>[$]\\left.\\frac{d \\mathbf{R}_{P } } {d t}\\right|_{A} =[/$]&nbsp; [$]\\left.\\frac{d \\mathbf{R } } {d t}\\right|_{A}+\\left.\\frac{d \\mathbf{r } } {d t}\\right|_{B}+\\boldsymbol{\\Omega}_{B A} \\times \\mathbf{r}[/$]</div><div><br></div><div><br>where [$]\\Omega_{B A}[/$] is the {{c5::angular velocity vector of reference [$]B[/$] relative to the angular velocity vector of reference [$]A[/$]::vector and velocity}}<br><br><br></div>",
+                "<div>All vectors may be expressed in any reference system, even a reference system other than [$]A[/$] or [$]B[/$].<br>However, all terms should be expressed in the same reference system: be consistent!<br></div><div><br></div><div>An example of this in action:</div><img src=\"paste-5419b916c044a7bc900ae5fc214659d02bbd7424.jpg\">"
+            ],
+            "guid": "MI:S~3385E",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When finding the angular velocity&nbsp;[$]\\boldsymbol{\\Omega}_{C A}[/$] when deriving the velocity between different reference frames, the angular velocities around each new axis {{c1::can::can/can not}} be summed.<div><br></div><div>[$]\\boldsymbol{\\Omega}_{C A}=[/$] {{c1::[$]\\dot{\\beta} \\mathbf{y}_{B}+\\dot{\\alpha} \\mathbf{x}_{A}=\\dot{\\beta} \\mathbf{y}_{C}+\\dot{\\alpha} \\mathbf{x}_{B}[/$]}}<br><div><br></div><div><img src=\"paste-2e9012abc7019d050b1e5f00e1ce2ccf2d4aa1f7.jpg\"><br></div></div><div><br></div><div><br></div>",
+                "Remember to express the vectors in the same consistent reference frame at the end, using the last rotation's angle as an argument ([$]\\beta[/$] in the case above)."
+            ],
+            "guid": "f2Y{G>ND}P",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The <b>aerodynamic heading angle</b> [$]\\chi_{a}[/$] is given by<br><br>[$]\\chi_{a}=[/$] {{c1::[$]\\arctan \\left(\\frac{V_{E } } {V_{N } } \\right)[/$]::in terms of [$]F_E[/$] velocities}}<div><br><img src=\"paste-cf7fdc72d74db0e28a645b812414193b1eb63da5.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "v&,eFe9gGI",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The&nbsp;<b>aerodynamic flight path angle</b>&nbsp;[$]\\gamma_{a}[/$] is given by<br><br>[$]\\gamma_{a}=[/$] {{c1::[$]- \\arcsin \\left(\\frac{V_{D } } {V} \\right)[/$]::in terms of [$]F_E[/$] velocities}}<div><br><img src=\"paste-cf7fdc72d74db0e28a645b812414193b1eb63da5.jpg\"></div>",
+                "where the minus sign comes from the fact that [$]\\gamma_{a}[/$] is positive 'upwards', but [$]V_{D}[/$] is positive downwards."
+            ],
+            "guid": "dbfQ+&w[`F",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Consider two reference frames [$]A[/$] and [$]B,[/$] where [$]A[/$] is an <b>inertial frame of reference</b>.<br><br>Let [$]\\left.\\mathbf{R}\\right|_{A}[/$] denote the {{c1::position vector of the origin of reference [$]B[/$] with respect to the origin of reference frame [$]A[/$]}}.<br><br>Let [$]d \\mathbf{R} /\\left.d t\\right|_{A}[/$] denote the {{c2::velocity vector of the origin of [$]B[/$] in reference frame [$]A[/$]}}.&nbsp;<br><br>Let [$]d^{2} \\mathbf{R} /\\left.d t^{2}\\right|_{A}[/$] denote the {{c3::acceleration vector of the origin [$]B[/$] in reference frame [$]A[/$] or the <b>absolute acceleration of the moving w.r.t. the inertial frame</b>.}}.<br>&nbsp;<br>Let [$]\\mathbf{r}[/$] denote the {{c4::position vector of a point [$]P[/$] in reference frame [$]B[/$]}}.<br><br>Let [$]d \\mathbf{r} /\\left.d t\\right|_{B}[/$] denote the {{c5::velocity vector of [$]P[/$] within reference [$]B[/$]}}.<br><br>Let [$]d^{2} \\mathbf{r} /\\left.d t\\right|_{B}[/$] denote the {{c6::acceleration vector of a point [$]P[/$] within reference frame [$]B[/$]}}.<br><br>The <b>acceleration vector</b> of this point in reference frame [$]A[/$] is then given by<br><br>[$]\\left.\\frac{d^{2} \\mathbf{R}_{P } } {d t^{2 } } \\right|_{A} =[/$]&nbsp; {{c8::[$]\\left.\\frac{d^{2} \\mathbf{R } } {d t}\\right|_{A}+\\left.\\frac{d^{2} \\mathbf{r } } {d t^{2 } } \\right|_{B}[/$]}}&nbsp; [$]+[/$]&nbsp; {{c9::[$]\\frac{d \\mathbf{\\Omega}_{B A } } {d t} \\times \\mathbf{r}[/$]}} [$]+[/$] {{c10::[$]2 \\mathbf{\\Omega}_{B A} \\times\\left.\\frac{d \\mathbf{r } } {d t}\\right|_{B}[/$]::Co...}} [$]+[/$] {{c11::[$]\\mathbf{\\Omega}_{B A} \\times\\left(\\mathbf{\\Omega}_{B A} \\times \\mathbf{r}\\right)[/$]}}<br><br>[$]\\Omega_{B A}[/$] is the {{c7::angular velocity vector of reference [$]B[/$] relative to the angular velocity vector of reference [$]A[/$]}}.<div><br></div><div>[$]d \\mathbf{\\Omega} / d t \\times \\mathbf{r}[/$] is the {{c12::apparent (tangential) acceleration due to angular acceleration of the moving frame.}}<br><br>[$]\\Omega \\times(\\Omega \\times \\mathbf{r})[/$] is the {{c13::apparent (centripetal) acceleration due to angular motion of the moving frame.}}</div><div><br>[$]2 \\boldsymbol{\\Omega} \\times d \\mathbf{r} / d t[/$] is the {{c14::Coriolis&nbsp;acceleration due to the motion of [$]p[/$] in the moving frame.}}<br></div><div><br><img src=\"paste-11a8f05bed5f7dc447be81444c15ab7b16c64741.jpg\"><br></div>",
+                "All vectors may be expressed in any reference system, even a reference system other than [$]A[/$] or [$]B[/$]. However, all terms should be expressed in the same reference system: be consistent!"
+            ],
+            "guid": "I%*%|,Gu1d",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The <b>assumptions made for the simplified equations of motion</b> (found in the formula sheet) are:<div><br></div><div>1. {{c1::<b>Spherical Earth</b>:</div><div>for the gravity force, the Earth is assumed to be a perfect sphere, such that gravity perturbations do not need to be taken into account.::Sph...}}<br><br>2. {{c2::<b>Flat Earth</b>:</div><div>the Earth's curvature is neglected, i.e. [$]R \\rightarrow \\infty[/$], so that [$]\\dot{\\delta} \\rightarrow 0[/$] and [$]\\dot{\\tau} \\rightarrow 0[/$].::Fl...}}<br><br>3. {{c3::<b>Non-rotating Earth</b>:</div><div>the Coriolis and centrifugal accelerations are neglected.::Non-...}}<br><br>4. {{c4::<b>Constant mass</b>:</div><div>to describe the motion at a specific instant of time, the mass is assumed to be assumed constant over that very short period of time. Otherwise you'd have to take the impulse of the propellant into account.::Prop...}}<br><br>5. {{c5::<b>Rigid body</b>:</div><div>no parts of the body are moving, i.e. the flaps are not extending or retracting.::Rig...}}<br><br>6. {{c6::<b>No rotating masses</b>:</div><div>turbines, propellers, etc. are ignored, as these would add gyroscopic forces.::Rot...}}<br><br>7. {{c7::<b>Symmetric aircraft</b>:</div><div>no exotic configurations are chosen such as unsymmetric aircraft.::Sym...}}<br><br>8. {{c8::<b>Constant wind (if at all)</b>:</div><div>this means we exclude wind shear and turbulence from our velocities [$]u,[/$] [$]v[/$] and [$]w[/$].::wind}}<br><br>9. {{c9::<b>Constant gravity</b>:</div><div>we neglect altitude variations of graivty in our analysis.::gra...}}<br><br>10. {{c10::We choose [$]F_{b}[/$] such that the [$]X_{B} Z_{B}[/$] -plane is a symmetry plane, such that [$]I_{x y}=I_{y z}=0[/$].</div><div>This means we <b>neglect mass asymmetries</b>.::plane}}<br></div>",
+                ""
+            ],
+            "guid": "mdL&06}9Kx",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Static stability {{c1::does not::does/does not}} imply dynamic stability.<div><br></div><div>Dynamic stability {{c1::does::does/does not}} imply static stability.<br></div>",
+                ""
+            ],
+            "guid": "AP{Q0.I3*&",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The elements of a <b>state-space model</b> are<div><br><div>- State variables: the set of {{c1::all variables which combine all necessary knowledge of the system at [$]t=t_{0}[/$]}} such that behaviour of the system can be determined for [$]t \\geq t_{0}[/$].<br><br>- State vector [$]\\mathbf{x}[/$] : {{c2::an [$]n[/$] -dimensional vector containing all state variables}}.<br><br>- State space: {{c3::[$]n[/$] -dimensional space whose axes are the state variables}}.<br><br>- State equations: a set of {{c4::first order differential equations in terms of the state variables}}:<br><br>The state equation describes the dynamics of [$]\\mathbf{x}(t)[/$] and is given by<br><br>[$] \\dot{\\mathbf{x } } (t)=A \\mathbf{x}(t)+B \\mathbf{u}(t) [/$]<br><br>where<br>[$]-\\mathbf{x}(t)[/$] is the {{c5::state}} vector<br><br>[$]-\\mathbf{u}(t)[/$] is the {{c6::input}} vector<br><br>[$]-A[/$] is the {{c7::state}} matrix<br><br>[$]-B[/$] is the {{c8::input}} matrix<br></div></div>",
+                ""
+            ],
+            "guid": "K%6?jvvX!4",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When <b>rewriting a linear higher-order ODE as a system of first order ODES</b>:<div><br></div><div>Starting with an [$]n[/$] th order ordinary differential equation of the form<br><br>[$]a_{0} x+a_{1} \\frac{d x}{d t}+\\cdots+a_{n} \\frac{d^{n} x}{d t^{n } } =a_{n} a_{0} \\frac{d^{n} x}{d t^{n } } +a_{1} \\frac{d^{n-1} x}{d t^{n-1 } } +\\ldots+a_{n-1} \\frac{d x}{d t}=a_{n}[/$]<br><br>1. Introduce the state vector<br>[$]\\mathbf{x}=[/$] {{c2::[$]\\left[\\begin{array}{c}x_{1}=x \\\\ x_{2}=\\frac{d x}{d t} \\\\ \\vdots \\\\ x_{n-1}=\\frac{d^{n-2} x}{d t} \\\\ x_{n}=\\frac{d^{n-1} x}{d t}\\end{array}\\right][/$]}}<br><br>2. Introduce the vector<br>[$]\\dot{\\mathbf{x } } =[/$] {{c3::[$]\\left[\\begin{array}{c}\\frac{d x_{1 } } {d t} \\\\ \\frac{d x_{2 } } {d t} \\\\ \\vdots \\\\ \\frac{d x_{n-1 } } {d t} \\\\ \\frac{d x_{n } } {d t}\\end{array}\\right][/$]}}<br><br>3. A linear system would be of the form</div><div><br></div><div>[$]\\dot{x}=[/$] {{c4::[$]A \\mathbf{x}+B \\mathbf{u}[/$]}}<br><br>For the first [$]n-1[/$] rows of the system (i.e. every row but the last), the equation will simply be {{c1::[$]\\dot{x}_{i}=x_{i+1} .[/$]}}</div><div><br></div><div>For the last row, you need to introduce the state variables into the differential equation:<br>[$]a_{0} x+a_{1} \\frac{d x}{d t}+\\cdots+a_{n-1} \\frac{d^{n-1} x}{d t}+a_{n} \\frac{d^{n} x}{d t^{n } } =u[/$]<br><br>becomes, as [$]x_{1}=x, x_{2}=d x / d t, \\ldots, x_{n}=d^{n-1} / d t^{n-1},[/$]<br><br>[$]a_{0} x_{1}+a_{1} x_{2}+\\cdots+a_{n-1} x_{n}+a_{n} \\dot{x}_{n}=u[/$]<br><br>[$]\\dot{x}_{n}=[/$] {{c5::[$]-\\frac{a_{0 } } {a_{n } }&nbsp; x_{1}-\\frac{a_{1 } } {a_{n } }&nbsp; x_{2}-\\cdots-\\frac{a_{n-1 } } {a_{n } }&nbsp; x_{n}+\\frac{1}{a_{n } }&nbsp; u[/$]}}<br><br>4. Write out your matrices, which will become<br><br>[$]\\left[\\begin{array}{c}\\dot{x}_{1} \\\\ \\dot{x}_{2} \\\\ \\dot{x}_{3} \\\\ \\vdots \\\\ \\dot{x}_{n-1} \\\\ \\dot{x}_{n}\\end{array}\\right]=\\left[\\begin{array}{cccccc}0 &amp; 1 &amp; 0 &amp; 0 &amp; \\cdots &amp; 0 \\\\ 0 &amp; 0 &amp; 1 &amp; 0 &amp; \\cdots &amp; 0 \\\\ \\vdots &amp; &amp; &amp; &amp; &amp; \\vdots \\\\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; \\cdots &amp; 1 \\\\ -\\frac{a_{0 } } {a_{n } }&nbsp; &amp; -\\frac{a_{1 } } {a_{n } }&nbsp; &amp; -\\frac{a_{2 } } {a_{n } }&nbsp; &amp; -\\frac{a_{3 } } {a_{n } }&nbsp; &amp; \\cdots &amp; -\\frac{a_{n-1 } } {a_{n } } \\end{array}\\right]\\left[\\begin{array}{c}x_{1} \\\\ x_{2} \\\\ x_{3} \\\\ \\vdots \\\\ x_{n-1} \\\\ x_{n}\\end{array}\\right]+\\left[\\begin{array}{c}0 \\\\ 0 \\\\ 0 \\\\ \\vdots \\\\ 0 \\\\ \\frac{1}{a_{n } } \\end{array}\\right] u[/$]<br></div>",
+                ""
+            ],
+            "guid": "ReKUjNAc-F",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": [
+                "Sam_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The <b>output equation</b> is given by<div><br></div><div>[$]y(t)=[/$] {{c5::[$]C \\mathbf{x}(t)+D \\mathbf{u}(t)[/$]}}<br><div><br>where</div><div><br>\\(\\mathbf{x}(t)\\) is the {{c1::state}} vector</div><div><br></div><div>\\(\\mathbf{u}(t)\\) is the {{c2::input}} vector</div><div><br>\\(C\\) is the {{c3::output}} matrix</div><div><br></div><div>\\(D\\) is the {{c4::feedthrough or feedforward}} matrix</div></div>",
+                ""
+            ],
+            "guid": "Qb@YYx+&s-",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "The {{c2::moment coefficient [$$]C_{m}[/$$]}} of a wing is {{c1:: [$$] =\\frac{M}{\\frac{1}{2} \\rho V^{2} S \\bar{c} } [/$$] }}",
+                "The complete state-space model consists of the state equation describing the {{c1::system dynamics}}, and the output equation describing {{c2::which states are measured}}:<div><br></div><div>[$]\\begin{array}{l}<br>\\dot{\\mathbf{x}}(t)=A \\mathbf{x}(t)+B \\mathbf{u}(t) \\\\<br>\\mathbf{y}(t)=C \\mathbf{x}(t)+D \\mathbf{u}(t)<br>\\end{array}[/$]<br></div>",
                 ""
             ],
-            "guid": "NOjhTyH-#+",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "guid": "q|cr;Ik6Cl",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "In the aerodynamic forces acting on a wing, the normal force coefficient&nbsp;[$]C_N[/$] is related to the lift and drag coefficients&nbsp;[$]C_L, C_D[/$] by:<div>[$]C_{N}[/$] = [$]C_{L}[/$] {{c1::[$]\\cos \\alpha[/$]}} [$]+[/$] [$]C_{D}[/$] {{c1::[$]\\sin \\alpha[/$]}}</div>",
-                "<img src=\"paste-20ea82bd67d7049e2b29a006cd5c74a216ef174c.jpg\">"
-            ],
-            "guid": "n,kG*UqFU_",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In the aerodynamic forces acting on a wing, the tangential force coefficient&nbsp;[$]C_T[/$] is related to the lift and drag coefficients&nbsp;[$]C_L, C_D[/$] by:<div>[$]C_{T}[/$] = [$]C_{D}[/$] {{c1::[$]\\cos \\alpha[/$]}} [$]-[/$] [$]C_{L}[/$] {{c1::[$]\\sin \\alpha[/$]}}</div>",
-                "<img src=\"paste-0e7bb9ede7560c766fde01ff23e23af6fb239074.jpg\">"
-            ],
-            "guid": "I|EVC1#$w:",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "According to the small angle approximation,&nbsp;[$]\\cos{\\alpha} \\approxeq[/$]...&nbsp;{{c1::[$]1[/$]}}",
+                "The <b>eigenmotions of a system</b> are greatly related to the <b>eigenvalues of the corresponding state-space system</b>.<div><br></div><div><div>Remember that for a system of [$]n[/$] first order linear differential equations (and a state-space system is such a system), the solution is given by<br><br>[$]\\mathbf{x}(t)=[/$] {{c1::[$]\\sum_{i=1}^{n} e^{\\lambda_{i} t} \\chi_{i}[/$]}}<br><br>If the eigenvalues are all {{c5::fully real and negative}}, you'll get a solution that is {{c2::monotonously decreasing (so it goes to 0 )}}<br><br>If they're {{c6::fully real and positive}} the solution is {{c3::monotonously increasing and goes to infinity}}<br><br>If they're complex, you get a {{c4::oscillating}} solution.<br></div></div>",
                 ""
             ],
-            "guid": "Jc<LVXW*{l",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Applying the small angle approximation to the aerodynamic forces (lift, drag, normal, tangential) over a wing,&nbsp;[$]C_{N}= C_{L}[/$] {{c1::[$]\\cdot 1[/$]}} [$]+ C_{D}[/$] {{c1::[$]\\cdot \\alpha[/$]}}",
-                ""
-            ],
-            "guid": "u2Bz:}SRNs",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Applying the small angle approximation to the aerodynamic forces (lift, drag, normal, tangential) over a wing,&nbsp;[$]C_{T}= C_{D}[/$] {{c1::[$]\\cdot 1[/$]}} [$] - C_{L}[/$] {{c1::[$]\\cdot \\alpha[/$]}}",
-                ""
-            ],
-            "guid": "$>Cy]T+]V",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "At small angles, does&nbsp;[$]C_N \\approxeq C_L[/$]?",
-                "Yes, because&nbsp;[$]C_{N}=C_{L}+C_{D} \\alpha[/$] and both [$]C_D[/$] and&nbsp;[$]\\alpha[/$] are small relative to&nbsp;[$]C_L[/$].<div><img src=\"paste-e3e3eb8eaa98a0703bc3c1746c4e4bf710df546a.jpg\"><br></div>"
-            ],
-            "guid": "M0=OR{D8&3",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "At small angles, does&nbsp;[$]C_T \\approxeq C_D[/$]?",
-                "No, because&nbsp;[$]C_{T}=C_{D}-C_{L} \\alpha[/$] and even though&nbsp;[$]\\alpha[/$] is small, [$]C_L[/$] is large relative to&nbsp;[$]C_D[/$].&nbsp;<img src=\"paste-d12a5c6b00578afe5863c56bd934dc9c9f100b87.jpg\">"
-            ],
-            "guid": "l2Lz?69X77",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In the expression for the <b>moment coefficient</b> of a wing&nbsp;[$]C_{m}=\\frac{M}{\\frac{1}{2} \\rho V^{2} S \\bar{c} }[/$], what does does&nbsp;[$]\\bar{c}[/$] represent?",
-                "The <b>mean aerodynamic chord</b> or average chord length of the wing, also known as <b>mac</b>."
-            ],
-            "guid": "Fv/|I:JXgK",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the expression for <b>dynamic pressure</b>&nbsp;[$]q[/$]?",
-                "[$]\\frac{1}{2} \\rho V^{2}[/$]<br>"
-            ],
-            "guid": "NV8%]ki<z>",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Which direction is the positive moment convention on a wing? (nose up or nose down)",
-                "Nose up is positive (clockwise by convention)<div><img src=\"paste-6e6f20a3bac0c49e447fed3e06b15c3dcc9b69a4.jpg\"><br></div>"
-            ],
-            "guid": "Kc$_q#[AtM",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The {{c1::center of pressure}} on a wing is a point on the {{c2::mean aerodynamic chord}} where the {{c3::moment coefficient}} is zero.",
-                "<img src=\"paste-da07c55ed2d469fb073e66baf1989327394714f2.jpg\">"
-            ],
-            "guid": "D{{%,S6N*!",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "[$]C_{m_{0}}[/$] is the moment coefficient around the {{c2::<b>leading edge of the</b> <b>mac</b>&nbsp;(or&nbsp;<b>lemac</b>)::point}}&nbsp;when&nbsp;{{c1::[$]C_N = 0[/$]::condition}}<br>",
-                ""
-            ],
-            "guid": "N&AX_[v`qr",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The moment coefficient varies {{c1::linearly::somehow}} with the {{c2::angle of attack}} for&nbsp;{{c3::[$]\\alpha &lt; 10 \\deg[/$]}}",
-                "<img src=\"paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg\">"
-            ],
-            "guid": "F[uRuQT[Mi",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The x-distance {{c1::[$]x_d - x_0[/$]}}&nbsp;along the <b>mac&nbsp;</b>&nbsp;between the {{c1::<b>lemac&nbsp;</b>[$]x_0[/$]}}<b>&nbsp;</b>and the {{c1::center of pressure&nbsp;[$]x_d[/$]}} is also represented with {{c2::[$]e[/$]::symbol}}.",
-                ""
-            ],
-            "guid": "qhl@h&Rc`N",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The location along the {{c4::<b>mac </b>(the x-axis of a wing)}}&nbsp;of the {{c4::<b>center of pressure</b>}} is given by:<div><br></div><div>{{c1::[$]\\frac{e}{\\bar{c} } =[/$] }}&nbsp; {{c2::[$] = -\\frac{C_{m_{0} } }{C_{N} }[/$] }} {{c3::[$]-\\frac{d C_{m_{\\left(x_{0}, z_{0}\\right) } } }{d C_{N} }[/$] }}</div>",
-                "<img src=\"paste-ea7f3c6674247079d7ff273fa5e119682d38dd76.jpg\">"
-            ],
-            "guid": "bLah&g}#aw",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "At {{c1::positive}} angles of attack,&nbsp;[$]C_T[/$] becomes {{c2::negative}} because the {{c3::low pressure zone slightly above the leading edge sucks the wing forward instead of dragging it backward}}.",
-                "<img src=\"paste-2156a202b2d06295b0337f383d8baf795bf86c0c.jpg\">"
-            ],
-            "guid": "onk3}o~Sf2",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Increasing::changing somehow}} the angle of attack&nbsp;[$]\\alpha[/$] {{c2::increases::changing somehow}} the normal force coefficient&nbsp;[$]C_N[/$].",
-                "<img src=\"paste-68878969ec4cf5ba91d29001bb43f54b622e14c2.jpg\">"
-            ],
-            "guid": "F3!k67xvw^",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "As the angle of attack&nbsp;[$]\\alpha[/$] increases, the magnitude of the resultant force coefficient[$]\\mathbf{C}_R[/$] {{c1::increases::changes somehow}} and its line of action moves {{c2::closer to::closer or farther}} the {{c3::center of pressure}}.",
-                "<img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\">"
-            ],
-            "guid": "iS4unMJNw8",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "As the angle of attack&nbsp;[$]\\alpha[/$] decreases, the magnitude of the resultant force coefficient[$]\\mathbf{C}_R[/$] {{c1::decreases::changes somehow}} and its line of action moves {{c2::farther from::closer or farther}} the {{c3::center of pressure}}.",
-                "<img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\">"
-            ],
-            "guid": "mi@7Sbw7(1",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": [
-                "FD_1.3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Why does the location of the center of pressure vary with the angle of attack&nbsp;[$]\\alpha[/$]?",
-                "Because the line of action of the resultant force coefficient&nbsp;[$]\\mathbf{C}_R[/$] moves along the <b>mac</b>.<div><img src=\"paste-d3ceac50e7cb050e2a82862b7ed026d994701fdc.jpg\"><br></div>"
-            ],
-            "guid": "q{1xiGYo=s",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "guid": "saG{XiX3[M",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "The {{c1::aerodynamic center (<b>ac</b>)}}&nbsp;is the moment reference point about which the moment {{c2::does not::does/doesn't}} vary with angle of attack.",
+                "<div>If a function [$]f(x)[/$] is infinitely times differentiable on the interval [$]\\left[x_{0}, x\\right],[/$] then the <b>Taylor expansion</b> of [$]f(x)[/$] about [$]x_{0}[/$] is<br><br>[$]f(x)=[/$] {{c1::[$]\\sum_{n=0}^{\\infty} \\frac{f^{(n)}\\left(x_{0}\\right)}{n !}\\left(x-x_{0}\\right)^{n}[/$]}}<br><br>where [$]f^{(n)}[/$] is the [$]n[/$] th derivative of [$]f[/$] (where [$]f^{(0)}[/$] is the undifferentiated function).<br></div><div><br></div><div>In linearisation, we ignore all terms that are {{c2::second}} order or higher.<br></div>",
                 ""
             ],
-            "guid": "oxzt{:He3e",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "guid": "vCU5x}(0}f",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Does the location of the aerodynamic center (<b>ac</b>) vary with the angle of attack?",
-                "<b>No</b>, it is a fixed, single reference point."
-            ],
-            "guid": "i:hv>.=xqW",
-            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The {{c1::angle of attack&nbsp;[$]\\alpha[/$]}} is the angle between the {{c2::freestream airflow}} and the {{c2::body axis/chordline}}.",
-                "<img src=\"paste-fab34d558a2d267a6ceaae9f3d5b15d7ea80c835.jpg\">"
-            ],
-            "guid": "Ppu@K?N~d!",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "According to the small angle approximation,&nbsp;[$]\\sin{\\alpha} \\approxeq[/$]&nbsp;{{c1::[$]\\alpha[/$]}}",
+                "<div>A function [$]f(\\mathbf{X}),[/$] where [$]\\mathbf{X}[/$] is a vector containing [$]n[/$] variables [$]x_{1}, \\ldots, x_{n},[/$] may be linearised around a point [$]\\mathbf{X}_{0}[/$] as<br><br>[$]f(\\mathbf{X})=[/$]&nbsp; {{c1::[$]f\\left(\\mathbf{X}_{0}\\right)+f_{x_{1 } } \\left(\\mathbf{X}_{0}\\right)\\left(x_{1}-x_{1_{0 } } \\right)+\\ldots+f_{x_{n } } \\left(\\mathbf{x}_{0}\\right)\\left(x_{n}-x_{n_{0 } } \\right)[/$]}}<br></div>",
                 ""
             ],
-            "guid": "G<qpvR*c<4",
-            "note_model_uuid": "63c35134-7472-11eb-9b70-08d23e719c6e",
+            "guid": "fd6WxB!r~1",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>States</b> are the {{c2::smallest set of parameters that describe your state}}.<div><br></div><div>In the analysis of aircraft, the usual chosen states are the {{c4::translational}} velocity components {{c4::[$]u, v[/$] and [$]w,[/$]}}</div><div><br></div><div>the angles {{c5::[$]\\theta, \\phi[/$] and [$]\\psi,[/$]}}</div><div><br></div><div>and the {{c6::rotational}} rates {{c6::[$]p, q[/$] and [$]r[/$].}}<br><br><br>The <b>inputs</b> are {{c3::controllable inputs you yourself are able to feed to the aircraft}}.<br><br>They are the elevator deflection [$]\\delta_{e},[/$] trim tab deflection [$]\\delta_{t}[/$], aileron deflection [$]\\delta_{a}[/$] and rudder deflection [$]\\delta_{r}[/$].<br><br>At all times, it holds that one is only allowed to differentiate with respect to {{c1::these states, or their time derivatives}}. It is not allowed to differentiate with respect to {{c1::stuff that is not a state}}.<br></div>",
+                ""
+            ],
+            "guid": "wY@Ufp9e.[",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the <b>linearized non-dimensional symmetric equations of motion</b> found in the formula sheet, some constants are defined:<div><br></div><div>The <b>normalised time derivative</b> is [$]D_{c}=[/$] {{c1::[$]\\bar{c} / V \\cdot d / d t[/$]}}.<br><br>We define [$]\\hat{u}=[/$] {{c2::[$]u / V[/$]}}<br><br>[$] \\alpha=[/$] {{c3::[$]w / V[/$]}}<br><br>[$]\\dot{\\alpha}=[/$] {{c4::[$]\\dot{w} / V[/$]}}<br><br>For <b>force derivatives with respect to regular components</b> (e.g. [$]X_{u}[/$])</div><div><br></div><div>They are normalised with respect to {{c5::[$]1 / 2 \\rho V S[/$]}}, i.e. [$]C_{X_{U } } =[/$] {{c5::[$]X_{u} /(1 / 2 \\rho V S)[/$]}}</div><div><br></div><div>Note that [$]V[/$] {{c5::does not::does/does not}} appear squared.<br><br>For <b>force derivatives with respect to time-derivative components</b> (e.g. [$]Z_{\\dot{w } } [/$]. Note that [$]q[/$] is already a time-derivative)</div><div><br></div><div>They are normalised with respect to {{c6::[$]1 / 2 \\rho S \\bar{c}[/$]}}, i.e. [$]C_{Z_{W } } =Z_{\\dot{w } }&nbsp; /[/$] [$](1 / 2 \\rho S \\bar{c})[/$] .<br></div><div><br></div><div>This is because the time-derivative means that a factor [$]\\bar{c} / V[/$] goes into the normalising of the time-derivative.<br><br>For <b>moment derivatives with respect to regular components</b> (e.g. [$]M_{u}[/$] )</div><div><br></div><div>They are normalised with respect to {{c7::[$]1 / 2 \\rho V S \\bar{c}[/$]}}, i.e. [$]C_{M_{u } } =M_{u} /[/$] [$](1 / 2 \\rho V S \\bar{c})[/$].<br><br>For <b>moment derivatives with respect to time derivatives</b> (e.g. [$]\\left.C_{m_{\\dot{\\alpha } } }\\right)[/$],</div><div><br></div><div>They are normalised with respect to {{c8::[$]1 / 2 \\rho S \\bar{c}^{2}[/$]}}, i.e. [$]C_{m_{j } } =M_{\\dot{\\alpha } }&nbsp; /[/$] {{c8::[$]\\left(1 / 2 \\rho S \\bar{c}^{2}\\right)[/$]}}.</div><div><br>We define the <b>non-dimensional mass</b>&nbsp;[$]\\mu_{c}=[/$] {{c9::[$]m /(\\rho S \\bar{c})[/$]}}<br><br>We define the <b>product of inertia</b>&nbsp;[$]K_{Y}^{2}=[/$] {{c10::[$]I_{y v} /\\left(m \\bar{c}^{2}\\right)[/$]}} .<br><br>We define the forces {{c11::[$]W \\sin \\theta_{0}[/$]}} [$]=X_{0}[/$] and {{c11::[$]W \\cos \\theta_{0}[/$]}} [$]= -Z_{0}[/$].<br>These represent the <b>forces due to the weight of the aircraft</b> in the negative [$]X_{S}[/$] -direction and [$]Z_{S}[/$] -direction.<br></div>",
+                ""
+            ],
+            "guid": "e&Er&e_mC#",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>For the <b>asymmetric non-dimensional equations of motion</b> found in the formula sheet (in matrix form), the following tricks are used:</div><div><br></div><div><br></div>We let [$]C_{L}=\\left(W&nbsp; / (1 / 2 \\rho V^{2} S) \\right) \\cdot[/$] {{c1::[$]\\cos \\theta_{0} [/$]}}.<br><br>The <b>normalised time derivative</b> is [$]D_{b}=[/$] {{c2::[$]b / V \\cdot d / d t[/$]}}.<br><br>We define [$]\\beta=[/$] {{c3::[$]v / V[/$]}} and [$]\\dot{\\beta}=[/$] {{c3::[$]\\dot{v} / V[/$]}}.<br><br>For the <b>force and moment derivatives with respect to (time-derivatives of) the sideslip</b>,<div><br><div>They are normalised with respect to {{c4::[$]1 / 2 \\rho S b[/$]}}.<br><br>For the <b>force and moment derivatives with respect to the roll rate</b> [$]p[/$] <b>and yaw rate</b> [$]r[/$] (note that these are time-derivatives by themselves),</div><div><br></div><div>They are normalised with respect to {{c5::[$]1 / 2 \\rho S b^{2}[/$]}},</div><div><br>and are now multiplied with an additional factor {{c5::[$]2[/$]}}, e.g. [$]C_{l_{p } } =[/$] {{c5::[$]2 L_{p} /\\left(1 / 2 \\rho V S b^{2}\\right)[/$]}}.<br><br>We define <b>non-dimensional mass</b> [$]\\mu_{b}=[/$] {{c6::[$]m /(\\rho S \\bar{b})[/$]}}<br><br>We define <b>products of inertia</b>:<br><br>[$]K_{X}^{2}=[/$] {{c7::[$]I_{x x} /\\left(m b^{2}\\right)[/$]}}<br><br>[$]K_{Z}=[/$] {{c8::[$]I_{z z} /\\left(m b^{2}\\right)[/$]}}<br><br>[$]J_{X Z}=[/$] {{c9::[$]I_{x z} /\\left(m b^{2}\\right)[/$]}}<br><br>The kinematic equation relating [$]\\dot{\\psi}[/$] to [$]r / \\cos \\theta_{0}[/$] will be ignored.<br>(it is not necessary to obtain a determined system of equations)<br><br>In the kinematic equation relating {{c10::[$]\\dot{\\phi}[/$]}} to {{c10::[$]p+r \\tan \\theta_{0}[/$] }}, [$]\\theta_{0}[/$] will be replaced with [$]\\gamma_{0}[/$], which equals zero as it is level flight we are analysing.<br></div></div>",
+                ""
+            ],
+            "guid": "iZcV[={Vg_",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The dynamic stability of an aircraft can be established by analysing the response of an aircraft to a disturbance from its {{c4::equilibrium}} condition, i.e. the independent variables, [$]\\delta_{e}[/$] and [$]\\delta_{t},[/$] are assumed to be {{c4::zero}}.<br></div><div><br></div>The <b>eigenvalues</b> can then be found by finding the {{c1::determinant}} of the matrix and setting it equal to {{c2::zero}}.<div><br></div><div>This leads to a characteristic equation of the form<div><br></div><div>[$]A \\lambda_{c}^{4}+B \\lambda_{c}^{3}+C \\lambda_{c}^{2}+D \\lambda_{c}+E=0[/$]<br><br></div></div><div>Solving this equation leads to for eigenvalues [$]\\lambda_{c} .[/$]</div><div><br></div><div>Note that these eigenvalues are non-dimensional!</div><div><br></div><div>You need to multiply with {{c3::[$]V / \\bar{c}[/$]}} to get the dimensional ones (the ones you obtain when you don't normalise the equations of motion), and if you want to obtain stuff like period, time to damp half the amplitude, you need to multiply by {{c3::[$]V / \\bar{c}[/$]}} as well.</div>",
+                ""
+            ],
+            "guid": "Au<^MkGssu",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If the <b>eigenvalues</b> found for an eigenmotion are <b>complex</b> [$]\\lambda_{c_{1,2 } } =\\xi_{c} \\pm \\eta_{c} j_{c} [/$], the following equations hold:<br><br><br>The <b>period</b> [$]P[/$] is given by<br><br>[$]P= [/$] {{c1::[$] \\frac{2 \\pi}{\\eta_{c } }&nbsp; \\frac{\\bar{c } } {V}[/$]}}<br><br><br>The <b>time to damp to half amplitude</b> [$]T_{\\frac{1}{2 } } [/$] is given by<br><br>[$]T_{\\frac{1}{2 } } = [/$] {{c2::[$] \\frac{\\ln \\left(\\frac{1}{2}\\right)}{\\lambda_{c } }&nbsp; \\frac{\\bar{c } } {V}[/$]}}<br><br><br>The <b>number of periods in which the amplitude decreases to half its original value</b> [$]C_{\\frac{1}{2 } } [/$] is given by<br><br>[$]C_{\\frac{1}{2 } } = [/$] {{c3::[$] \\frac{T_{\\frac{1}{2 } } }{P}[/$]}}<br><br><br>The <b>logarithmic decrement</b> (or ratio between the amplitude of two successive peaks) [$]\\delta[/$] is given by<br><br>[$]\\delta= [/$] {{c4::[$] \\xi_{c} \\frac{V}{\\bar{c } }&nbsp; P[/$]}}<br><br><br>The <b>damping ratio</b> is given by<br><br>[$]\\zeta= [/$] {{c5::[$] -\\frac{\\xi_{c } } {\\sqrt{\\xi_{c}^{2}+\\eta_{c}^{2 } } }[/$]}}<br>",
+                ""
+            ],
+            "guid": "DgOpN.s;0y",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>We require the <b>real</b> (parts of the complex) <b>eigenvalues</b> of a state-space system of equations <b>to be negative</b> in order for the system to tend to zero (converge).</div><div><br></div><div>Consider the following characteristic equation (resulting from finding the eigenvalues of the state matrix) once more:<br><br>[$]A \\lambda_{c}^{4}+B \\lambda_{c}^{3}+C \\lambda_{c}^{2}+D \\lambda_{c}+E=0[/$]<br><br>If {{c1::[$]A&gt;0[/$]}}<br><br>and<br><br>{{c1::[$]\\begin{array}{lllll}A&gt;0, &amp; B&gt;0, &amp; C&gt;0, &amp; D&gt;0, &amp; E&gt;0\\end{array}[/$]}}<br><br>and if<br><br>{{c2::[$]R = B D C-A D^{2}-B^{2} E&gt;0[/$]}}<br><br>then all the real parts of the eigenvalues will have negative signs.</div><div>These stability criteria are called the <b>Routh-Hurwitz Stability Criteria</b>. [$]R[/$] is called <b>Routh's discriminant</b>.<br><br>In case [$]A&lt;0,[/$] them the signs of [$]B, C, D, E[/$] and [$]R[/$] must be {{c3::negative}} to obtain negative real parts of the eigenvalues.<br></div>",
+                ""
+            ],
+            "guid": "kKn,p_g%n:",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><div><div>The <b>spiral</b> motion and <b>Dutch roll</b> eigenmotions may both be unstable, depending on the Routh-Hurwitz Stability Criteria.<br><br>Remember <b>Routh's discriminant</b> is [$]R=B C D-A D^{2}-B^{2} E&gt;0[/$].<br><br>The characteristic equation is [$]A \\lambda_{c}^{4}+B \\lambda_{c}^{3}+C \\lambda_{c}^{2}+D \\lambda_{c}+E=0[/$].<br><br><br>If {{c1::[$]E&lt;0[/$]}}, then the {{c3::spiral}} is unstable;<br><br>If {{c2::[$]R&lt;0[/$]}}, then the {{c3::Dutch roll}} is unstable.<br></div></div></div>",
+                "<img src=\"paste-fcf6714e121167ce88fca446e09dcb6e13291aad.jpg\">"
+            ],
+            "guid": "ozd*+we+cy",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The spiral motion and Dutch roll eigenmotions may both be unstable, depending on the Routh-Hurwitz Stability Criteria.<br><br>Remember Routh's discriminant is [$]R=B C D-A D^{2}-B^{2} E&gt;0[/$].<br><br><div>Now, the magnitudes of [$]E[/$] and [$]R[/$] are influenced to a large extent by the {{c1::effective dihedral [$]C_{l_{\\beta } } [/$]}} and the {{c2::static directional stability [$]C_{n_{\\beta } } [/$]}}.<br><br>The former is usually negative; the latter is usually positive.<br><br>We can plot the lines [$]E=0[/$] and [$]R=0[/$] as functions of these two parameters.<br><br>In the region to the left of the [$]E=0[/$] curve, the {{c3::spiral}} is unstable.<br><br>In the region to the right of the [$]R=0[/$] curve, the {{c3::Dutch roll}} is unstable.<br><br>Only in between the two curves our aircraft is stable in both eigenmotions.<br></div><div><br></div><div>[$]C_{l_{\\beta } } [/$] can be made more negative by increasing the {{c4::dihedral of the wing}} (or increasing the {{c5::sweep}} of it).<br><br>[$]C_{n_{\\beta } } [/$] can be made more positive by increasing the {{c6::vertical tail surface area [$]S_{v}[/$]}} or increasing the {{c7::tail length [$]l_{v}[/$]}}.<br></div><div><br></div>",
+                "<img src=\"paste-fcf6714e121167ce88fca446e09dcb6e13291aad.jpg\"><div>It should be noted that spiral instability is generally considered less bad than Dutch roll instability as the spiral motion takes much longer than the Dutch roll.<br></div>"
+            ],
+            "guid": "lR^q#x:Jpk",
+            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
             "tags": []
         }
     ]

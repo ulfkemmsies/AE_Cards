@@ -29,11 +29,11 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    1,
                     0
                 ],
-                "order": 1,
-                "perDay": 20
+                "order": 0,
+                "perDay": 500
             },
             "replayq": true,
             "rev": {
@@ -41,8 +41,8 @@
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
+                "maxIvl": 1,
+                "perDay": 1000
             },
             "timer": 0
         }
@@ -52,6 +52,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "__closet-v0.3.0.js",
         "latex-01ed3e03977467f0fc85c011e537770c7fc44848.png",
         "latex-087075a82fe09597f6576406e2c76295c6f21c08.png",
         "latex-10157add3cb8e8c0fed7570769f7e4a6aa539777.png",
@@ -196,7 +197,7 @@
         "paste-ff36fca6582224a415c48337b560f0ea123b0986.jpg",
         "paste-ff546e44c8c729b5ce8af1d57d7339d5aa261f6e.jpg"
     ],
-    "mid": 1614777635634,
+    "mid": 1613927016387,
     "name": "Production of Aerospace Systems",
     "note_models": [
         {
@@ -317,6 +318,101 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "assetManager": {
+                "enabled": true,
+                "indentSize": 4,
+                "insertStub": false,
+                "scripts": [
+                    {
+                        "id": "1613927016387",
+                        "storage": {},
+                        "tag": "ClosetUserScript"
+                    },
+                    {
+                        "id": "AnkiPersistenceId",
+                        "storage": {},
+                        "tag": "AnkiPersistenceTag"
+                    }
+                ]
+            },
+            "assetManagerHtml": {
+                "enabled": false,
+                "fragments": [
+                    {
+                        "code": "{{Front}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the front side",
+                        "enabled": true,
+                        "label": "Front",
+                        "name": "FrontSide",
+                        "version": "v1"
+                    },
+                    {
+                        "code": "{{FrontSide}}\n\n<hr id=\"answer\">\n\n{{Back}}\n\n{{%scripts}}",
+                        "conditions": [],
+                        "description": "This is the entrance for the back side",
+                        "enabled": true,
+                        "label": "Back",
+                        "name": "BackSide",
+                        "version": "v1"
+                    }
+                ],
+                "minify": false
+            },
+            "closetEnable": true,
+            "closetVersion": "v0.3.0",
+            "crowdanki_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Anki Persistence\" data-version=\"v0.5.3\">\n        if (typeof(window.Persistence) === 'undefined') {\n          var _persistenceKey = 'github.com/SimonLammer/anki-persistence/';\n          var _defaultKey = '_default';\n          window.Persistence_sessionStorage = function() { // used in android, iOS, web\n            var isAvailable = false;\n            try {\n              if (typeof(window.sessionStorage) === 'object') {\n                isAvailable = true;\n                this.clear = function() {\n                  for (var i = 0; i < sessionStorage.length; i++) {\n                    var k = sessionStorage.key(i);\n                    if (k.indexOf(_persistenceKey) == 0) {\n                      sessionStorage.removeItem(k);\n                      i--;\n                    }\n                  };\n                };\n                this.setItem = function(key, value) {\n                  if (value == undefined) {\n                    value = key;\n                    key = _defaultKey;\n                  }\n                  sessionStorage.setItem(_persistenceKey + key, JSON.stringify(value));\n                };\n                this.getItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  return JSON.parse(sessionStorage.getItem(_persistenceKey + key));\n                };\n                this.removeItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  sessionStorage.removeItem(_persistenceKey + key);\n                };\n              }\n            } catch(err) {}\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          window.Persistence_windowKey = function(persistentKey) { // used in windows, linux, mac\n            var obj = window[persistentKey];\n            var isAvailable = false;\n            if (typeof(obj) === 'object') {\n              isAvailable = true;\n              this.clear = function() {\n                obj[_persistenceKey] = {};\n              };\n              this.setItem = function(key, value) {\n                if (value == undefined) {\n                  value = key;\n                  key = _defaultKey;\n                }\n                obj[_persistenceKey][key] = value;\n              };\n              this.getItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                return obj[_persistenceKey][key] == undefined ? null : obj[_persistenceKey][key];\n              };\n              this.removeItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                delete obj[_persistenceKey][key];\n              };\n\n              if (obj[_persistenceKey] == undefined) {\n                this.clear();\n              }\n            }\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          /*\n           *   client  | sessionStorage | persistentKey | useful location |\n           * ----------|----------------|---------------|-----------------|\n           * web       |       YES      |       -       |       NO        |\n           * windows   |       NO       |       py      |       NO        |\n           * android   |       YES      |       -       |       NO        |\n           * linux 2.0 |       NO       |       qt      |       YES       |\n           * linux 2.1 |       NO       |       qt      |       YES       |\n           * mac 2.0   |       NO       |       py      |       NO        |\n           * mac 2.1   |       NO       |       qt      |       YES       |\n           * iOS       |       YES      |       -       |       NO        |\n           */\n          window.Persistence = new Persistence_sessionStorage(); // android, iOS, web\n          if (!Persistence.isAvailable()) {\n            window.Persistence = new Persistence_windowKey(\"py\"); // windows, mac (2.0)\n          }\n          if (!Persistence.isAvailable()) {\n            var titleStartIndex = window.location.toString().indexOf('title'); // if titleStartIndex > 0, window.location is useful\n            var titleContentIndex = window.location.toString().indexOf('main', titleStartIndex);\n            if (titleStartIndex > 0 && titleContentIndex > 0 && (titleContentIndex - titleStartIndex) < 10) {\n              window.Persistence = new Persistence_windowKey(\"qt\"); // linux, mac (2.1)\n            }\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'back'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n<div id=\"anki-am\" data-name=\"Assets by ASSET MANAGER\" data-version=\"2.1\">\n    <script data-name=\"Prevent reinclusion\" data-version=\"v0.1\">\n        var ankiAms = document.querySelectorAll('#anki-am')\n          if (ankiAms.length > 1) {\n            for (const am of Array.from(ankiAms).slice(0, -1)) {\n              am.outerHTML = ''\n          }\n        }\n    </script>\n    <script data-name=\"Anki Persistence\" data-version=\"v0.5.3\">\n        if (typeof(window.Persistence) === 'undefined') {\n          var _persistenceKey = 'github.com/SimonLammer/anki-persistence/';\n          var _defaultKey = '_default';\n          window.Persistence_sessionStorage = function() { // used in android, iOS, web\n            var isAvailable = false;\n            try {\n              if (typeof(window.sessionStorage) === 'object') {\n                isAvailable = true;\n                this.clear = function() {\n                  for (var i = 0; i < sessionStorage.length; i++) {\n                    var k = sessionStorage.key(i);\n                    if (k.indexOf(_persistenceKey) == 0) {\n                      sessionStorage.removeItem(k);\n                      i--;\n                    }\n                  };\n                };\n                this.setItem = function(key, value) {\n                  if (value == undefined) {\n                    value = key;\n                    key = _defaultKey;\n                  }\n                  sessionStorage.setItem(_persistenceKey + key, JSON.stringify(value));\n                };\n                this.getItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  return JSON.parse(sessionStorage.getItem(_persistenceKey + key));\n                };\n                this.removeItem = function(key) {\n                  if (key == undefined) {\n                    key = _defaultKey;\n                  }\n                  sessionStorage.removeItem(_persistenceKey + key);\n                };\n              }\n            } catch(err) {}\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          window.Persistence_windowKey = function(persistentKey) { // used in windows, linux, mac\n            var obj = window[persistentKey];\n            var isAvailable = false;\n            if (typeof(obj) === 'object') {\n              isAvailable = true;\n              this.clear = function() {\n                obj[_persistenceKey] = {};\n              };\n              this.setItem = function(key, value) {\n                if (value == undefined) {\n                  value = key;\n                  key = _defaultKey;\n                }\n                obj[_persistenceKey][key] = value;\n              };\n              this.getItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                return obj[_persistenceKey][key] == undefined ? null : obj[_persistenceKey][key];\n              };\n              this.removeItem = function(key) {\n                if (key == undefined) {\n                  key = _defaultKey;\n                }\n                delete obj[_persistenceKey][key];\n              };\n\n              if (obj[_persistenceKey] == undefined) {\n                this.clear();\n              }\n            }\n            this.isAvailable = function() {\n              return isAvailable;\n            };\n          };\n          /*\n           *   client  | sessionStorage | persistentKey | useful location |\n           * ----------|----------------|---------------|-----------------|\n           * web       |       YES      |       -       |       NO        |\n           * windows   |       NO       |       py      |       NO        |\n           * android   |       YES      |       -       |       NO        |\n           * linux 2.0 |       NO       |       qt      |       YES       |\n           * linux 2.1 |       NO       |       qt      |       YES       |\n           * mac 2.0   |       NO       |       py      |       NO        |\n           * mac 2.1   |       NO       |       qt      |       YES       |\n           * iOS       |       YES      |       -       |       NO        |\n           */\n          window.Persistence = new Persistence_sessionStorage(); // android, iOS, web\n          if (!Persistence.isAvailable()) {\n            window.Persistence = new Persistence_windowKey(\"py\"); // windows, mac (2.0)\n          }\n          if (!Persistence.isAvailable()) {\n            var titleStartIndex = window.location.toString().indexOf('title'); // if titleStartIndex > 0, window.location is useful\n            var titleContentIndex = window.location.toString().indexOf('main', titleStartIndex);\n            if (titleStartIndex > 0 && titleContentIndex > 0 && (titleContentIndex - titleStartIndex) < 10) {\n              window.Persistence = new Persistence_windowKey(\"qt\"); // linux, mac (2.1)\n            }\n          }\n        }\n    </script>\n    <script data-name=\"Closet Setup\" data-version=\"v0.1\">\n        function closetUserLogic(\n            closet,\n            preset,\n            chooseMemory,\n        ) {\n                const elements = closet.anki.getQaChildNodes()\n            const memory = chooseMemory('closet__1')\n            const filterManager = closet.FilterManager.make(preset, memory.map)\n\n            const output = [[\n                elements,\n                memory,\n                filterManager,\n            ]]\n\n            /* here goes the setup - change it to fit your own needs */\n\n            filterManager.install(\n                closet.recipes.shuffle({ tagname: 'mix' }),\n                closet.recipes.order({ tagname: 'ord' }),\n                closet.recipes.cloze({ tagname: 'c' }),\n                closet.recipes.multipleChoice({ tagname: 'mc' }),\n                closet.browser.recipes.rect({ tagname: 'rect' }),\n            )\n            return output\n        }\n\n        var getAnkiPrefix = () => globalThis.ankiPlatform === 'desktop'\n            ? ''\n            : globalThis.AnkiDroidJS\n            ? 'https://appassets.androidplatform.net'\n            : '.'\n\n        var closetPromise = import(`${getAnkiPrefix()}/__closet-v0.3.0.js`)\n            .then(\n                closet => closet.anki.initialize(closet, closetUserLogic, '{{Card}}', '{{Tags}}', 'front'),\n                error => console.log('An error occured while loading Closet:', error),\n            ).catch(error => console.log('An error occured while executing Closet:', error))\n\n        if (globalThis.onUpdateHook) {\n            onUpdateHook.push(() => closetPromise)\n        }\n    </script>\n</div>"
                 }
             ],
             "type": 0
@@ -620,7 +716,7 @@
                 "<div>Electrical-discharge machining and water-jet cutting</div><div><img src=\"paste-0194c19b4338a9127e41e9ec9a0b08e32ac0acd2.jpg\"><img src=\"paste-d819bbb3a3e82283957afddddc9797abfe03c72e.jpg\"><br></div>"
             ],
             "guid": "J7f>?Q$`0n",
-            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
             "tags": []
         },
         {
@@ -886,11 +982,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "Are riveted joints aret air- or watertight?",
+                "Are riveted joints air- or watertight?",
                 "No."
             ],
             "guid": "GN}Ej_]6DN",
-            "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
+            "note_model_uuid": "63c37887-7472-11eb-bc3a-08d23e719c6e",
             "tags": []
         },
         {
@@ -2346,7 +2442,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>Rubber forming</b> {{c1::is::is/isn't}} used for larger product series (larger than 100-2500 parts) due to the {{c1::long::long/short}} process time.",
+                "<b>Rubber forming</b> {{c1::isn't::is/isn't}} used for larger product series (larger than 100-2500 parts) due to the {{c1::long::long/short}} process time.",
                 ""
             ],
             "guid": "HNN[HV[TvJ",
@@ -3356,7 +3452,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c12::Electron beam melting}} (EBM), also called {{c13::direct energy deposition}} (DED), {{c14::laser engineered net shaping}} (LENS), {{c15::electron beam additive manufacturing}} (EBAM) or {{c16::laser metal deposition}} (LMD), is a technique where {{c1::compacted fine powders such as metals, alloys, polymers and ceramics are heated using electron laser beams.<div><br></div><div>Main advantages are:<br>- Reduced {{c2::manufacturing time}} and {{c3::cost}}<br>- Excellent {{c4::mechanical}} properties<br>- Controlled {{c5::microstructure}}<br>- Accurate {{c6::composition}} control<br>- Excellent for {{c7::repair::re...}} and {{c7::retrofitting::re...}}</div><div><br></div><div>Disadvantages are:<br>- Low {{c8::accuracy}}<br>- Low {{c9::surface}} quality<br>- Need for a {{c10::support}} structure<br>- Limitation in printing {{c11::complex}} shapes with {{c11::fine details}}.</div>}}",
+                "{{c12::Electron beam melting}} (EBM), also called {{c13::direct energy deposition}} (DED), {{c14::laser engineered net shaping}} (LENS), {{c15::electron beam additive manufacturing}} (EBAM) or {{c16::laser metal deposition}} (LMD), is a technique where {{c1::compacted fine powders such as metals, alloys, polymers and ceramics are heated using electron laser beams.}}<div><br></div><div>Main advantages are:<br>- Reduced {{c2::manufacturing time}} and {{c3::cost}}<br>- Excellent {{c4::mechanical}} properties<br>- Controlled {{c5::microstructure}}<br>- Accurate {{c6::composition}} control<br>- Excellent for {{c7::repair::re...}} and {{c7::retrofitting::re...}}</div><div><br></div><div>Disadvantages are:<br>- Low {{c8::accuracy}}<br>- Low {{c9::surface}} quality<br>- Need for a {{c10::support}} structure<br>- Limitation in printing {{c11::complex}} shapes with {{c11::fine details}}.</div>",
                 "<img src=\"paste-49e2296e2364586e1614ec289ff4f5877a2975f6.jpg\">"
             ],
             "guid": "t-KXLOkwuM",
