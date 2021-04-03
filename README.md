@@ -11,6 +11,10 @@ Make sure to set the default options for the decks as follows:
 
 This way, your cards won't get pushed forward in time like they normally would in spaced repetition. Since we are trying to cram in a short period of time, we want to review the cards as often as possible.
 
+## On flagging and fixes
+
+If you see a mistake and don't want to lose your flow, just press Ctrl+1 to flag a card and then you can see the red ones in the Browse tab (if you want to fix/report them in batches once you're done reviewing).
+
 ## Installation/use instructions:
 
 1. Get Anki at https://apps.ankiweb.net/.
