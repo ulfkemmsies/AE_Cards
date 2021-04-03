@@ -17,6 +17,7 @@ If you see a mistake and don't want to lose your flow, just press Ctrl+1 to flag
 
 ## On studying with tags
 Just follow the instructions in the image (currently only FD has tags).
+
 ![image](https://user-images.githubusercontent.com/50732027/113481242-a9d23e80-9498-11eb-8e13-fa68c0164675.png)
 
 ## Installation/use instructions:
