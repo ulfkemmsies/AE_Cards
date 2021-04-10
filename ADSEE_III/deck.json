@@ -29,11 +29,11 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    1,
                     0
                 ],
-                "order": 1,
-                "perDay": 20
+                "order": 0,
+                "perDay": 1000
             },
             "replayq": true,
             "rev": {
@@ -41,8 +41,8 @@
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
+                "maxIvl": 1,
+                "perDay": 1000
             },
             "timer": 0
         }
@@ -73,6 +73,7 @@
         "latex-254cd39ca361441619f512ea2240694a0f9bb684.png",
         "latex-268e948662bb574ba0eec3e9d2a7c1ed97830d0a.png",
         "latex-28c5701185b01ba965d9f7afcdbd06b684a7f458.png",
+        "latex-2b0e8b1bf10bd527ff6b818b190278751452ea9c.png",
         "latex-2b55bec693f23e46534d5879fe4209e5b5b8b5ff.png",
         "latex-2d295c3b71504a216422e5fffdfbad742c7add64.png",
         "latex-2e7f425547b24e641c8007bb92e86b02931736ec.png",
@@ -89,6 +90,7 @@
         "latex-45b6d12a4025e799e886f737493f51ea28eebef4.png",
         "latex-45d1386fd135df774421ec609fe1f5e891850478.png",
         "latex-47cfabe5c36cf630e7e22b233ced3320adfe7557.png",
+        "latex-4a5f1e3aeb92a29dc770d648d82783cc0e3a8eef.png",
         "latex-4c043d81265e8f601f52af678c5b241e430e519d.png",
         "latex-4cd875e0fbb8f87b150b3cc759135b0e27f1a670.png",
         "latex-4fbfcc83b3bfda65729cec0ec5ac4490f6cb8231.png",
@@ -104,9 +106,7 @@
         "latex-60c9e9f990b8f88f40d2dbfa201d327286810b65.png",
         "latex-6304e4fe3a6b03bbb8cc893b3d238a4c0764e4ff.png",
         "latex-64e4485ffece0b40fa9c9a3cdcc1e2a1f3ae02db.png",
-        "latex-6aac6a2930365e4596ae629a320011140b2bf732.png",
         "latex-6c9f8f53a6450b52f5480ec589facb352d08efa5.png",
-        "latex-6edc511085e52dd706deff17b4329353815ee085.png",
         "latex-6f9579c6986dea8b8c5cf64798ef30b1f78d37d1.png",
         "latex-7089b941587d4f57fde8bb6febc8fbb10808511e.png",
         "latex-7461473d8b9625662d16795c4216fd5d1259cd3b.png",
@@ -114,10 +114,12 @@
         "latex-77a0307e2fd351f4274c87751c49669a2ac2b1d3.png",
         "latex-77a4d707a25ac8b84635c849545ccaba857e07b6.png",
         "latex-77cbed4c363247f6880ac399a3f562ee39eca512.png",
+        "latex-7a05a755cfb30cf52cc00190c9753fc4dc7ca300.png",
+        "latex-7c10a052a22ee18dbcd007f03075ecc200693526.png",
         "latex-7d21ce57a572874699c513d55935af3e475ddd7b.png",
+        "latex-8159c779044013a3f16858f97b17fe8abdb099d7.png",
         "latex-83a33c47a5ac0f905e2dbc047046f3a76517fdb6.png",
         "latex-83bbdcce0790f76a8413cfae10bcab85e33cff16.png",
-        "latex-84fa7463afeda6e206359eda91ad81d75bc88ace.png",
         "latex-85ec8e98de38179fb503a4f6e4a8d03f2076e2b8.png",
         "latex-867424b82dea06e558b601f3c67b47adac9c0cad.png",
         "latex-8c325612684d41304b9751c175df7bcc0f61f64f.png",
@@ -139,9 +141,7 @@
         "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
         "latex-ad7d23c45e206e885f87eeecd4cfea0942a9e939.png",
         "latex-b4a496c794291d26b92c0e6e2e1b2c53cd9b8a5a.png",
-        "latex-b537ee57026ddffff698984ec8f3360f06fd5e7e.png",
         "latex-b5d5132c2245640bbf0dffeca3955273d3d843cc.png",
-        "latex-b64998f95a35f15d5c6950176c31983faa498ccf.png",
         "latex-b7204612c85cb356beb98d0f66dbab118432608f.png",
         "latex-b7ae9c302fc7877e57006cb24c0a515946b5f136.png",
         "latex-b85bbfb165b853d6f5f9734be4cdabbb453f4e43.png",
@@ -178,6 +178,7 @@
         "latex-f84746367c15ab36ac3c2ecc02332a6090d2aa4c.png",
         "latex-f9eb89b1268b1e4fd25622e4e3cfbd748abe5826.png",
         "latex-fd348844bb500b259718ea10ac3bb5292b69ca90.png",
+        "latex-fd37914d324ca631db33423d679b0d196cde4390.png",
         "latex-fd6565fa8c23e5373df570c785baed2f279c7f26.png",
         "latex-fdb63b9e51abe6bbb16acfb5d7b773ddbb5bf4a8.png",
         "latex-fffe05f22c5c27ca8b5a9a2cb14f38d505b6b41e.png",
@@ -210,6 +211,7 @@
         "paste-e7f42ca3047e43996f6a303895c80f362e3116b2.jpg",
         "paste-ff9c958a6bf1b301288d07b82fff8a50df275668.jpg"
     ],
+    "mid": 1614777635634,
     "name": "ADSEE III",
     "note_models": [
         {
@@ -629,7 +631,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Requirement validation checks whether the requirements are correct.<div>This can be done by use of the <b>VALID</b> method.</div><div><br></div><div>Requirements ought to be:</div><div><br>{{c1::Verifiable::<b>V</b>e...}}<br>{{c2::Achievable::<b>A</b>ch...}}<br>{{c3::Logical::<b>L</b>o...}}<br>{{c4::Integral::<b>I</b>nt...}}<br>{{c5::Definitive, i.e. unambiguous.::<b>D</b>ef...}}</div>",
+                "<b>Requirement validation</b> checks whether the requirements are correct.<div>This can be done by use of the <b>VALID</b> method.</div><div><br></div><div>Requirements ought to be:</div><div><br>{{c1::Verifiable::<b>V</b>e...}}<br>{{c2::Achievable::<b>A</b>ch...}}<br>{{c3::Logical::<b>L</b>o...}}<br>{{c4::Integral::<b>I</b>nt...}}<br>{{c5::Definitive, i.e. unambiguous.::<b>D</b>ef...}}</div>",
                 ""
             ],
             "guid": "F}hNj*k&e1",
@@ -649,7 +651,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Models can be validated by:<div><br>{{c1::Experience::Ex...}} with application of similar models in similar circumstances.<div><div><br><div>{{c2::Analysis::An...}} showing that the elements of the model are of necessity correct and are correctly integrated.</div><div><br></div><div>{{c3::Comparison::Com...}} with test casing in the form of independent models of proven validity or actual test data.</div></div></div></div>",
+                "<b>Models</b> can be validated by:<div><br>{{c1::Experience::Ex...}} with application of similar models in similar circumstances.<div><div><br><div>{{c2::Analysis::An...}} showing that the elements of the model are of necessity correct and are correctly integrated.</div><div><br></div><div>{{c3::Comparison::Com...}} with test casing in the form of independent models of proven validity or actual test data.</div></div></div></div>",
                 ""
             ],
             "guid": "IUqt[qRz<U",
@@ -699,7 +701,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "The definition of the {{c3::load factor}} is:<div><br></div><div>[$]n = {{c1::[/$]&nbsp;[$]\\frac{L}{W}[/$]}}&nbsp;[$]=[/$]&nbsp;{{c2::[$]\\frac{q \\cdot C_L}{W/S}[/$]}}<br></div>",
+                "The definition of the {{c3::load factor}} is:<div><br></div><div>[$]n = [/$]{{c1::[$]\\frac{L}{W}[/$]}} [$]=[/$]&nbsp;{{c2::[$]\\frac{q \\cdot C_L}{W/S}[/$]}}<br></div>",
                 ""
             ],
             "guid": "vc,1P*tFJN",
@@ -769,7 +771,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "If the OEW c.g. is unknown, but the wing and fuselage group c.g.s are, the OEW c.g. can be computed using:<div><br></div><div>{{c1::[$]x_{c . g . O E W}=\\frac{x_{c . g_{\\text {wing }}} \\cdot W_{\\text {wing }}+x_{c . g . \\text { fuselage }} \\cdot W_{\\text {fuselage }}}{W_{\\text {wing }}+W_{\\text {fuselage }}}[/$]}}<br></div>",
+                "If the OEW c.g. is unknown, but the wing and fuselage group c.g.s are, the OEW c.g. can be computed using:<div><br></div><div>{{c1::[$]x_{c . g . O E W}=\\frac{x_{c . g_{\\text {wing } } } \\cdot W_{\\text {wing } }+x_{c . g . \\text { fuselage } } \\cdot W_{\\text {fuselage } } }{W_{\\text {wing } }+W_{\\text {fuselage } } }[/$]}}<br></div>",
                 ""
             ],
             "guid": "Mx]eaYPmx1",
@@ -1109,8 +1111,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "To size the volume of the vertical tailplane one fundamental fact must be considered: firstly,&nbsp;{{c1::[$]C_{n_{\\beta}}[/$]}} must be {{c2::larger than 0}}. The horizontal tail volume can be obtained from estimating {{c1::[$]C_{n_{\\beta}}[/$]}}.",
-                "<div>=================================================================================<br></div><div><br></div><div>[$]C_{n_{\\beta}}[/$] may be estimated with the following contributions, respectively that of the fuselage, propeller and wing setting:<br></div><div><br></div>[$]\\begin{equation}<br>\\begin{aligned}<br>C_{n_{\\beta_{f}}} &amp;=-k_{\\beta} \\frac{S_{f s} l_{f}}{S b}\\left(\\frac{h_{f_{1}}}{h_{f_{2}}}\\right)^{\\frac{1}{2}}\\left(\\frac{b_{f_{2}}}{b_{f_{1}}}\\right)^{\\frac{1}{3}} \\\\<br>k_{\\beta} &amp;=0.3 \\frac{l_{c g}}{l_{f}}+0.75 \\frac{h_{f_{\\max }}}{l_{f}}-0.105 \\\\<br>C_{n_{\\beta_{p}}} &amp;=-0.053 B_{p} \\sum \\frac{l_{p} D_{p}^{2}}{S b} \\\\<br>C_{n_{\\beta_{i}}} &amp;=\\left\\{\\begin{array}{ll}<br>-0.017, &amp; \\text { high wing } \\\\<br>+0.012, &amp; \\text { mid wing } \\\\<br>+0.024, &amp; \\text { low wing }<br>\\end{array}\\right.<br>\\end{aligned}<br>\\end{equation}[/$]<br>"
+                "To size the volume of the vertical tailplane one fundamental fact must be considered: firstly,&nbsp;{{c1::[$]C_{n_{\\beta} }[/$]}} must be {{c2::larger than 0}}. The horizontal tail volume can be obtained from estimating {{c1::[$]C_{n_{\\beta} }[/$]}}.",
+                "<div><br></div><div><br></div><div>[$]C_{n_{\\beta} }[/$] may be estimated with the following contributions, respectively that of the fuselage, propeller and wing setting.<br></div><div><br></div>"
             ],
             "guid": "n,E/8)Re]A",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
@@ -1179,8 +1181,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "To reduce vertical tailplane volume when sizing for engine failure, an option is to {{c2::increase}} the {{c3::maximum rudder deflection}}, thereby {{c2::increasing&nbsp;}}{{c1::[$]k_{\\delta_r}}[/$]}}.",
-                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+                "To reduce vertical tailplane volume when sizing for engine failure, an option is to {{c2::increase}} the {{c3::maximum rudder deflection}}, thereby {{c2::increasing&nbsp;}} {{c1:: [$]k_{\\delta_r} [/$] }}.",
+                "Follows from:<div><br></div><div>[$]<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
             ],
             "guid": "c&FxUcoqt:",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
@@ -1190,7 +1192,7 @@
             "__type__": "Note",
             "fields": [
                 "To reduce vertical tailplane volume when sizing for engine failure, an option is to {{c1::increase}} the {{c2::rudder area}}.",
-                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+                "Follows from:<div><br></div><div>[$]<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
             ],
             "guid": "qR9z_~?Ibh",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
@@ -1200,7 +1202,7 @@
             "__type__": "Note",
             "fields": [
                 "To reduce vertical tailplane volume when sizing for engine failure, an option is to increase the vertical tailplane {{c3::area&nbsp;[$]A'_v[/$]}}. This is not unsconstrained as it {{c2::decreases}} the vertical tailplane {{c1::stall angle}}.",
-                "Follows from:<div><br></div><div>[$]\\begin{equation}<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>\\end{equation}[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
+                "Follows from:<div><br></div><div>[$]<br>\\eta_{v} C_{Y_{v_{\\alpha}}} \\frac{S_{v}}{S}=\\frac{C_{L} \\frac{y_{e}}{l_{v}} \\frac{\\Delta T_{e}}{W}+\\beta\\left(C_{n_{\\beta}}\\right)_{A-h} \\frac{b}{l_{v}}}{\\tau_{v} \\delta_{r}-\\left(\\beta-\\sigma_{v}\\right)}<br>[/$]</div><div><br></div><div><img src=\"paste-e3e7d1cca1dc871e74510f2085e687cd4b12182f.jpg\"></div>"
             ],
             "guid": "tQKYf$QS0Q",
             "note_model_uuid": "292330f7-7c20-11eb-9973-7470fde0dae8",
@@ -1239,7 +1241,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "The design effects of the vertical tailplane aspect ratio&nbsp;[$]A_v[/$] are the following:&nbsp;<div><br></div><div>{{c3::Increasing&nbsp;}}[$]A_v[/$] causes an {{c4::increase}} in&nbsp;{{c3::[$]C_{n_{\\beta}}[/$]}}, making the aircraft more {{c4::stable}}.</div><div><br></div><div>A {{c2::high&nbsp;}}[$]A_v[/$] causes a {{c2::more effective}} vertical tailplane at {{c2::low&nbsp;[$]\\beta[/$]}}, but {{c2::earlier}} stall.</div><div><br></div><div>A T-tail cannot have a {{c1::very high&nbsp;}}[$]A_v[/$].</div>",
+                "The design effects of the vertical tailplane aspect ratio&nbsp;[$]A_v[/$] are the following:&nbsp;<div><br></div><div>{{c3::Increasing&nbsp;}}[$]A_v[/$] causes an {{c4::increase}} in&nbsp;{{c3::[$]C_{n_{\\beta} }[/$]}}, making the aircraft more {{c4::stable}}.</div><div><br></div><div>A {{c2::high&nbsp;}}[$]A_v[/$] causes a {{c2::more effective}} vertical tailplane at {{c2::low&nbsp;[$]\\beta[/$]}}, but {{c2::earlier}} stall.</div><div><br></div><div>A T-tail cannot have a {{c1::very high&nbsp;}}[$]A_v[/$].</div>",
                 ""
             ],
             "guid": "lU@([)7^9[",
@@ -1269,7 +1271,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Usually {{c6::symmetric}} airfoils are selected for the vertical tailplane, with a {{c3::12%::percentage}} thickness and a {{c4::large}} {{c5::nose radius}} to {{c1::increase&nbsp;}} {{c2::[$]\\alpha_{stall_{vtp}}[/$]}}.",
+                "Usually {{c6::symmetric}} airfoils are selected for the vertical tailplane, with a {{c3::12%::percentage}} thickness and a {{c4::large}} {{c5::nose radius}} to {{c1::increase&nbsp;}} {{c2::[$]\\alpha_{stall_{vtp} }[/$]}}.",
                 ""
             ],
             "guid": "C=sFU4Yvcy",
